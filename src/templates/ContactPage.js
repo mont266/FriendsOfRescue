@@ -1,9 +1,10 @@
 import React from 'react'
-import { Facebook, Mail } from 'react-feather'
+import { Smartphone, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
-import FormSimpleAjax from '../components/FormSimpleAjax'
+import Contact from '../components/Contact'
+import Row from '../components/Row'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './ContactPage.css'
@@ -14,8 +15,10 @@ export const ContactPageTemplate = ({
   title,
   subtitle,
   featuredImage,
-  facebook,
-  email
+  address,
+  phone,
+  email,
+  locations
 }) => (
   <main className="Contact">
     <PageHeader
@@ -28,9 +31,9 @@ export const ContactPageTemplate = ({
         <div>
           <Content source={body} />
           <div className="Contact--Details">
-            {facebook && (
-              <a className="Contact--Details--Item" href={`https://www.facebook.com/${facebook}`}>
-                <Facebook /> {facebook}
+            {phone && (
+              <a className="Contact--Details--Item" href={`tel:${phone}`}>
+                <Smartphone /> {phone}
               </a>
             )}
             {email && (
@@ -41,9 +44,7 @@ export const ContactPageTemplate = ({
           </div>
         </div>
 
-        <div>
-          <FormSimpleAjax name="Simple Form Ajax" />
-        </div>
+          <Contact />
       </div>
     </section>
   </main>
@@ -70,8 +71,14 @@ export const pageQuery = graphql`
         template
         subtitle
         featuredImage
-        facebook
+        address
+        phone
         email
+        locations {
+          mapLink
+          lat
+          lng
+        }
       }
     }
   }
