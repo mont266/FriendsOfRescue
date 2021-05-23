@@ -3,7 +3,7 @@ import { Facebook, Mail } from 'react-feather'
 import { graphql } from 'gatsby'
 
 import PageHeader from '../components/PageHeader'
-import FormSimpleAjax from '../components/FormSimpleAjax'
+import Contact from '../components/Contact'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './ContactPage.css'
@@ -42,7 +42,7 @@ export const ContactPageTemplate = ({
         </div>
 
         <div>
-          <FormSimpleAjax name="Simple Form Ajax" />
+          <Contact />
         </div>
       </div>
     </section>
