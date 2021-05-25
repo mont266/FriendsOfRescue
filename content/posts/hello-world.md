@@ -2,17 +2,16 @@
 template: SinglePost
 title: Red
 status: Featured / Published
-date: '2018-03-27'
-featuredImage: 'https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/'
-excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
+date: 2018-03-27
+featuredImage: https://ucarecdn.com/94633346-778b-4474-8039-b18280ec73a3/
+excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
+  Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
+  lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
-  - category: Cats
+  - category: News
 meta:
-  canonicalLink: ''
+  canonicalLink: ""
   description: test meta description
   noindex: false
   title: test meta title
