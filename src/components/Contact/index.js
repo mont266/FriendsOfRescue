@@ -86,9 +86,10 @@ export default function Contact() {
               <option disabled hidden>
                 Type of Enquiry
               </option>
-              <option>Want to know more</option>
-              <option>Want to book a photoshoot</option>
-              <option>Other Enquiry</option>
+              <option>General Enquiry</option>
+              <option>Adoption Enquiry</option>
+              <option>Fundraising</option>
+              <option>Other</option>
             </select>
           </label>
           <br />
