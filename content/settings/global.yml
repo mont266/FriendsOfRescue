@@ -1,7 +1,6 @@
 siteTitle: Friends of Rescue
-siteUrl: 'https://friendsofrescue.netlify.app'
-siteDescription: >-
-  Derry~Londonderry based animal charity Friends of Rescue
+siteUrl: https://friendsofrescue.netlify.app
+siteDescription: Derry~Londonderry based animal charity Friends of Rescue
 socialMediaCard:
-  image: 'https://ucarecdn.com/7a162ce9-237d-4a33-b177-98f93a1ec50e/'
-googleTrackingId: 'UA-133175780-1'
+  image: https://ucarecdn.com/7a162ce9-237d-4a33-b177-98f93a1ec50e/
+googleTrackingId: G-WWWTZ7B7VS
