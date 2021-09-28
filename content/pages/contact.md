@@ -1,7 +1,7 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Us
+title: Contact U
 featuredImage: https://ucarecdn.com/91313d0b-2794-4c6b-9041-556f2fc351af/-/crop/945x490/0,116/-/preview/-/enhance/100/
 subtitle: "![]()"
 facebook: friendsofrescueireland
