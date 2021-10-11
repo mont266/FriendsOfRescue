@@ -86,28 +86,6 @@ collections: # A list of collections the CMS should be able to edit
           - { label: 'Video Preview', name: backgroundImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: 'Section 1', name: section1, widget: markdown }
-          - { label: 'Section 2', name: section2, widget: markdown }
-          - { label: 'Section 3', name: section3, widget: markdown }
-          - { label: 'Section 4', name: section4, widget: markdown }
-          - { label: 'Section 5', name: section5, widget: markdown }
-          - label: 'Dog Accordion'
-            name: 'dogAccordion'
-            widget: 'list'
-            fields:
-              - { name: Title, label: title, widget: string, default: '' }
-              - { name: Description, label: description, widget: string }
-          - label: 'Cat Accordion'
-            name: 'catAccordion'
-            widget: 'list'
-            fields:
-              - { name: Title, label: title, widget: string, default: '' }
-              - { name: Description, label: description, widget: string }
-          - label: 'Foster Accordion'
-            name: 'fosterAccordion'
-            widget: 'list'
-            fields:
-              - { name: Title, label: title, widget: string, default: '' }
-              - { name: Description, label: description, widget: string }
           - label: 'Meta'
             required: false
             name: 'meta'
