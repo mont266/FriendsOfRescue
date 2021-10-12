@@ -1,6 +1,6 @@
 ---
 slug: about
-backgroundImage: https://ucarecdn.com/e49aae51-5c72-4759-8946-eff5bcf46b04/
+backgroundImage: https://ucarecdn.com/02cc5c82-a67b-4c96-8e80-f16a167a7415/-/crop/528x353/0,166/-/preview/
 section1: >-
   ## Our Story
 
@@ -132,6 +132,6 @@ catAccordion:
     title: What should I do if I can't continue to care for the cat(s)?
 template: ComponentsPage
 title: About Us
-video: https://ucarecdn.com/3a0f3c00-f1a1-4a5e-a267-b02550d3839a/
+video: https://ucarecdn.com/c7d58576-2bb4-4b79-af42-81ffcf390cb0/-/crop/528x357/0,170/-/preview/
 subtitle: Read about us and our process here!
 ---
