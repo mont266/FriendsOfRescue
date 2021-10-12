@@ -18,6 +18,8 @@ section1: >-
 meta:
   description: About Friends of Rescue, Derry~Londonderry, Northern Ireland
   title: About
+section2: |-
+  # Dog Adoption Policy
 dogAccordion:
   - description: Our minimum donation for our dogs is £150. This covers worm and flea treatment whilst in our care, neutering/spayed, vaccinations and microchipping. Our minimum donation for our puppies is £180, which includes compulsory online puppy classes.
     title: What is the minimum donation for dogs?
@@ -67,45 +69,6 @@ fosterAccordion:
     title: Do I need to buy my own supplies?
   - description: If you have any other questions or wish to apply, please get in touch to request a Fostering Application, via the website enquiry form, email or Facebook Messenger.
     title: How do I apply?
-catAccordion:
-  - description: Our minimum donation for our cats is £45. This covers a worm and
-      flea treatment whilst in our care, neutering, vaccinations and
-      microchipping.
-    title: What is the minimum donation for cats?
-  - description: All our cats and kittens old enough to be neutered will be done by
-      the time of adoption. If adopting kittens you agree to have them neutered
-      by a date agreed between the rescue and the adoptee. Any existing pets in
-      home must be neutered before you would be considered.
-    title: Are cats neutered?
-  - description: We will not rehome where you are moving house, considering moving
-      house soon, if you haven't been in your current address for very long, if
-      your planning a holiday or going away within 6months of adoption or if
-      someone in the home is pregnant. All these circumstances can be very
-      stressful for a new cat or kitten.
-    title: What factors are considered during the homecheck?
-  - description: If you are in rented accommodation we will require written
-      confirmation from your landlord that animals are allowed to be kept in the
-      property. If housing executive we will need to see a copy of the terms and
-      conditions that pets are allowed.
-    title: I rent my house, can I still adopt?
-  - description: Kittens cannot be left for long periods of time when they are young
-      as they are very social. Your time away from the home can be increased the
-      older the kitten becomes. Cats and kittens love company and we would
-      always suggest adopting in pairs.
-    title: I work long hours, am I suitable?
-  - description: Kittens must be kept indoors until they are neutered. Depending on
-      the cat, adults will need to be kept indoors for a minimum period of 6
-      weeks.
-    title: Can I let cats outside immediately?
-  - description: We will not rehome our cats as completely outdoor cats unless they
-      are ferals. We will not rehome our cats for pest control.
-    title: Are there any reasons a cat won't be rehomed?
-  - description: We are always here for help and advice but if you feel for any
-      reason at any point down the line that you cannot keep or care for your
-      adopted dog they must be returned to Friends of Rescue. They must not be
-      passed on or sold. We will stand over our animals for their entire
-      lifetime.
-    title: What should I do if I can't continue to care for the cat(s)?
 template: ComponentsPage
 title: About Us
 video: https://ucarecdn.com/c7d58576-2bb4-4b79-af42-81ffcf390cb0/-/crop/528x357/0,170/-/preview/
