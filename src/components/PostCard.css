@@ -5,6 +5,7 @@
   border: 1px solid var(--lightGrey);
   border-radius: var(--borderRadius);
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+  outline: 1px double black;
   transition: all 0.15s ease-in-out;
   overflow: hidden;
 }
