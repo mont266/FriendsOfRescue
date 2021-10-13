@@ -22,6 +22,26 @@ collections: # A list of collections the CMS should be able to edit
     editor:
       preview: true
     files:
+      - file: 'content/pages/home.md'
+        label: 'Home Page'
+        name: 'BlogIndex'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: BlogIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'contact' }
+          - { label: Title, name: title, widget: string}
+          - {
+              label: Featured Image,
+              name: featuredImage,
+              widget: image,
+              options:
+                { media_library: { config: { imageShrink: 2600x2600 } } },
+            }
+          - { label: Subtitle, name: subtitle, widget: markdown }
       - file: 'content/pages/contact.md'
         label: 'Contact Page'
         name: 'contact-page'
