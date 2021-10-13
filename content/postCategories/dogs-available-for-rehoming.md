@@ -1,5 +1,5 @@
 ---
 template: BlogIndex
 title: Dogs & Puppies
-featuredImage: https://ucarecdn.com/7aa44e79-7d5a-4d6b-a393-bbe36af42744/-/crop/1200x511/0,523/-/preview/
+featuredImage: https://ucarecdn.com/e5f853fc-7ba5-4185-9cf5-612337a97d0b/-/crop/2141x1138/0,281/-/preview/
 ---
