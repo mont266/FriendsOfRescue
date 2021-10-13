@@ -1,6 +1,9 @@
 ---
 slug: about
 backgroundImage: https://ucarecdn.com/02cc5c82-a67b-4c96-8e80-f16a167a7415/-/crop/528x353/0,166/-/preview/
+template: ComponentsPage
+title: About Us
+subtitle: Read about us and our process here!
 section1: >-
   ## Our Story
 
@@ -69,8 +72,4 @@ fosterAccordion:
     title: Do I need to buy my own supplies?
   - description: If you have any other questions or wish to apply, please get in touch to request a Fostering Application, via the website enquiry form, email or Facebook Messenger.
     title: How do I apply?
-template: ComponentsPage
-title: About Us
-video: https://ucarecdn.com/c7d58576-2bb4-4b79-af42-81ffcf390cb0/-/crop/528x357/0,170/-/preview/
-subtitle: Read about us and our process here!
 ---

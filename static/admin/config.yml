@@ -102,8 +102,7 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Slug, name: slug, widget: hidden, default: 'components' }
           - { label: Title, name: title, widget: string }
-          - { label: 'Featured video', name: video, widget: file }
-          - { label: 'Video Preview', name: backgroundImage, widget: image }
+          - { label: 'Background Image', name: backgroundImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: 'Section 1', name: section1, widget: markdown }
           - label: 'Meta'
