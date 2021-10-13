@@ -1,8 +1,9 @@
 ---
 slug: about
-backgroundImage: https://ucarecdn.com/02cc5c82-a67b-4c96-8e80-f16a167a7415/-/crop/528x353/0,166/-/preview/
+backgroundImage: https://www.talismanwebs.com/img/clienthosting/for/banner.png
 template: ComponentsPage
 title: About Us
+video: https://ucarecdn.com/c7d58576-2bb4-4b79-af42-81ffcf390cb0/-/crop/528x357/0,170/-/preview/
 subtitle: Read about us and our process here!
 section1: >-
   ## Our Story
