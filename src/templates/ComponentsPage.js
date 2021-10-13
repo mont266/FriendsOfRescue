@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 
 import PageHeaderVideo from '../components/PageHeaderVideo'
+import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
@@ -21,10 +22,9 @@ export const ComponentsPageTemplate = ({
   fosterAccordion
 }) => (
   <main>
-    <PageHeaderVideo
+    <PageHeader
       title={title}
       subtitle={subtitle}
-      backgroundVideo={video}
       backgroundImage={backgroundImage}
     />
     <section className="section">
