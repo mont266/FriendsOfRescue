@@ -26,4 +26,4 @@ Chloe arrived as a wee stray, abandoned at less than 8 weeks old and the two rea
 
 Such a loving, gentle affectionate wee pair and whoever adopts them will be extremely lucky ![🍀](https://static.xx.fbcdn.net/images/emoji.php/v9/t87/1/16/1f340.png)
 
-Please get in touch if you can offer these girlies a home
+**Please get in touch if you can offer these girlies a home**
