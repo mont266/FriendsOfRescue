@@ -1,5 +1,6 @@
 ---
 slug: about
+backgroundImage: https://ucarecdn.com/29df9ec8-c8b5-41f8-93a1-19a2e941a613/-/crop/528x240/0,83/-/preview/
 section1: >-
   ## Our Story
 
@@ -66,7 +67,6 @@ dogAccordion:
       100% transparent but we cannot be held responsible for any unwanted
       behaviours we weren't aware of at the time of rehoming.
     title: Can you tell me about the history of a dog?
-backgroundImage: https://ucarecdn.com/29df9ec8-c8b5-41f8-93a1-19a2e941a613/
 section2: "# Dog Adoption Policy"
 section3: "# Cat Adoption Policy"
 section4: "# Foster Policy"
