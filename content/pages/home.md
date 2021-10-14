@@ -3,7 +3,7 @@ template: BlogIndex
 slug: ""
 title: Friends of Rescue
 featuredImage: https://www.talismanwebs.com/img/clienthosting/for/banner.png
-subtitle: Animal Rescue Organisation, based in Derry~Londonderry, Northern Ireland
+subtitle: \---
 meta:
   description: Animal Rescue Organisation Based in Derry~Londonerry, Northern Ireland
   title: Home
