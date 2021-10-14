@@ -1,5 +1,5 @@
 ---
 template: BlogIndex
 title: Recently Rehomed
-featuredImage: https://ucarecdn.com/3d15e7ea-7064-43fe-8970-8f3bd1d63b61/
+featuredImage: https://ucarecdn.com/6809fa04-d424-45c6-ba34-18e680b5baf4/
 ---
