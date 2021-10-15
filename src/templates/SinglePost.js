@@ -1,7 +1,7 @@
 import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
-import { ChevronLeft } from 'react-feather'
+import { ChevronLeft, ChevronRight } from 'react-feather'
 
 import Content from '../components/Content'
 import Layout from '../components/Layout'
@@ -69,7 +69,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link prev"
                 to={prevPostURL}
               >
-                Previous Post
+                <ChevronLeft /> Previous Post
               </Link>
             )}
             {nextPostURL && (
@@ -77,7 +77,7 @@ export const SinglePostTemplate = ({
                 className="SinglePost--Pagination--Link next"
                 to={nextPostURL}
               >
-                Next Post
+                Next Post <ChevronRight />
               </Link>
             )}
           </div>

@@ -24,6 +24,8 @@
 
 .PostCard--Title {
   margin: 0;
+  color: white;
+  background: #FAA014;
 }
 
 .PostCard--Content {

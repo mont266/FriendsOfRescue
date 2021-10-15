@@ -10,7 +10,7 @@ export default () => (
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Developed by{' '}
-          <a href="https://talismanwebs.com/">Talisman Webs</a> &middot; <Link to="/about/">Policies</Link>
+          <a href="https://talismanwebs.com/">Talisman Webs</a>
           </span>
           </div>
           <div className="container taCenter">

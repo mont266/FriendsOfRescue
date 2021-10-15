@@ -1,5 +1,5 @@
 .SinglePost {
-  background: var(--lightGrey);
+  background: #faa014;
 }
 
 .SinglePost--BackButton {
@@ -26,6 +26,7 @@
 .SinglePost--Content {
   background: white;
   padding: 8rem 8rem 4rem 8rem;
+  display: inline-block;
 }
 
 @media screen and (max-width: 750px) {
@@ -71,8 +72,10 @@
   font-size: 1.2rem;
   font-weight: 600;
   text-decoration: none;
+  color: black;
 }
 
 .SinglePost--Pagination--Link.next {
   margin-left: auto;
+  color: black;
 }

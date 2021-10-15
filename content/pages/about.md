@@ -67,9 +67,9 @@ dogAccordion:
       100% transparent but we cannot be held responsible for any unwanted
       behaviours we weren't aware of at the time of rehoming.
     title: Can you tell me about the history of a dog?
-section2: "# Dog Adoption Policy"
-section3: "# Cat Adoption Policy"
-section4: "# Foster Policy"
+section2: "# Dog Adoption FAQ"
+section3: "# Cat Adoption FAQ"
+section4: "# Foster FAQ "
 fosterAccordion:
   - description: When you choose to become a foster, you are committing to help an
       animal in need, whether they are a stray, or have been surrendered. You
