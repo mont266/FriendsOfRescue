@@ -6,16 +6,26 @@ backgroundImage: https://ucarecdn.com/29df9ec8-c8b5-41f8-93a1-19a2e941a613/-/cro
 subtitle: Details on donations to our charity
 section2: |-
   ## How do we use donations?
-    dfgd
-section3: |-
-  ## Title
-    sdfkgsdfg
+
+  PlaceHolder Text
+section3: >-
+  ## Paypal Donation
+
+    You can donate directly to our paypal using the below link or scan the QR code.
+
+  <https://www.paypal.me/friendsofrescue>
+
+
+  ![Paypal Donation Image](https://ucarecdn.com/c93fe979-247e-4057-bfbc-93a7057bc8a8/ "Paypal Donation Image")
 section4: |-
-  ## Title
-    sdfkgsdfg
-section5: |-
-  ## Title
-    sdfkgsdfg
+  ## Directly to Pet4Vets
+
+  You can donate directly to our vets in person or via phone 028 7131 4420
+section5: >-
+  ## GoFundMe Fundraisers
+
+
+  We have a number of GoFundMe Fundraisers set up for some of our animals. Our active fundraisers can be found below:
 meta:
   description: Different ways you can donate to our organisation
   title: Donate
