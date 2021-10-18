@@ -16,7 +16,13 @@ section3: >-
   <https://www.paypal.me/friendsofrescue>
 
 
-  ![Paypal Donation Image](https://ucarecdn.com/c93fe979-247e-4057-bfbc-93a7057bc8a8/ "Paypal Donation Image")
+  <p align="center">
+
+
+  ![](https://ucarecdn.com/409a4f64-e2b7-4958-8233-3be58cc5f712/)
+
+
+  </p>
 section4: |-
   ## Directly to Pet4Vets
 
