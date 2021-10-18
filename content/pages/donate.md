@@ -5,18 +5,18 @@ template: ComponentsPage
 title: Donate
 subtitle: Details on donations to our charity
 video: https://ucarecdn.com/c7d58576-2bb4-4b79-af42-81ffcf390cb0/-/crop/528x357/0,170/-/preview/
-section1: >-
+section2: >-
   ## How do we use donations?
     dfgd
-section2: >-
-  ## Title
-    sdfkgsdfg
-
 section3: >-
   ## Title
     sdfkgsdfg
 
 section4: >-
+  ## Title
+    sdfkgsdfg
+
+section5: >-
   ## Title
     sdfkgsdfg
 meta:

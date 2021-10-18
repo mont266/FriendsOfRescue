@@ -89,6 +89,48 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
+      - file: 'content/pages/donate.md'
+        label: 'Donate Page'
+        name: 'donate'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: CompontentsPages,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'components' }
+          - { label: Title, name: title, widget: string }
+          - { label: 'Background Image', name: backgroundImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - { label: 'Section 1', name: section2, widget: markdown }
+          - { label: 'Section 2', name: section3, widget: markdown }
+          - { label: 'Section 3', name: section4, widget: markdown }
+          - { label: 'Section 4', name: section5, widget: markdown }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
 
       - file: 'content/pages/about.md'
         label: 'About Page'
