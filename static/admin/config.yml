@@ -97,16 +97,16 @@ collections: # A list of collections the CMS should be able to edit
               label: Template,
               name: template,
               widget: hidden,
-              default: CompontentsPages,
+              default: DonatePage,
             }
           - { label: Slug, name: slug, widget: hidden, default: 'components' }
           - { label: Title, name: title, widget: string }
           - { label: 'Background Image', name: backgroundImage, widget: image }
           - { label: Subtitle, name: subtitle, widget: markdown }
-          - { label: 'Section 1', name: section2, widget: markdown }
-          - { label: 'Section 2', name: section3, widget: markdown }
-          - { label: 'Section 3', name: section4, widget: markdown }
-          - { label: 'Section 4', name: section5, widget: markdown }
+          - { label: 'Section 1', name: section1, widget: markdown }
+          - { label: 'Section 2', name: section2, widget: markdown }
+          - { label: 'Section 3', name: section3, widget: markdown }
+          - { label: 'Section 4', name: section4, widget: markdown }
           - label: 'Meta'
             required: false
             name: 'meta'
