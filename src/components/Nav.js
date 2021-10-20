@@ -73,7 +73,7 @@ export class Navigation extends Component {
             <NavLink to="/">Home</NavLink>
             <NavLink to="/about/">About</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
-            <NavLink to="https://www.paypal.me/friendsofrescue" target="blank">Donate</NavLink>
+            <NavLink to="/donate/" target="blank">Donate</NavLink>
             {/* https://www.paypal.me/friendsofrescue */}
           </div>
           <button

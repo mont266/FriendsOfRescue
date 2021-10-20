@@ -33,7 +33,7 @@ export const DonatePageTemplate = ({
     </section>
 
     <section className="section">
-      <div className="container" style={{ 'align-self': 'center' }} style={{ 'text-align': 'center' }}>
+      <div className="container" style={{ 'text-align': 'center' }}>
         <Content source={section2} />
       </div>
     </section>
