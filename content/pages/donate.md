@@ -9,7 +9,7 @@ section1: >-
   ## Bank Transfer
 
 
-  Please get in touch if you would like to do a direct bank transfer and we can provide you with our details.
+  Please get in touch if you would like to donate via direct bank transfer and we can provide you with our details.
 section2: >-
   ## Paypal Donation
 
