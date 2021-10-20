@@ -5,7 +5,6 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
-import Image from '../components/Image'
 
 // Export Template for use in CMS preview
 export const DonatePageTemplate = ({
@@ -13,7 +12,6 @@ export const DonatePageTemplate = ({
   subtitle,
   section1,
   section2,
-  image,
   section3,
   section4,
   video,
@@ -31,7 +29,6 @@ export const DonatePageTemplate = ({
     <section className="section">
       <div className="container" style={{ 'text-align': 'center' }}>
         <Content source={section1} />
-        <Content source={image} />
       </div>
     </section>
 
