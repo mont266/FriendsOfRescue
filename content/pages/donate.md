@@ -15,8 +15,9 @@ section2: >-
 
   <https://www.paypal.me/friendsofrescue>
 
-  ![](https://ucarecdn.com/409a4f64-e2b7-4958-8233-3be58cc5f712/)
 
+
+  ![](https://ucarecdn.com/8b1e1e40-ea3e-42eb-8db0-0a0b3d0edb01/)
 section3: |-
   ## Directly to Pet4Vets
 
