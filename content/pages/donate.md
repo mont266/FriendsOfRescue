@@ -1,9 +1,10 @@
 ---
 template: DonatePage
 slug: donate
-title: Donate
-backgroundImage: https://ucarecdn.com/29df9ec8-c8b5-41f8-93a1-19a2e941a613/-/crop/528x240/0,83/-/preview/
-subtitle: Details on donations to our charity
+title: How To Donate
+backgroundImage: https://ucarecdn.com/d28acce7-be58-47f4-999f-2957e09e00c7/
+subtitle: "![](https://ucarecdn.com/deb2d265-27bc-441d-b021-501f5e0fcc5f/-/crop\
+  /720x191/0,255/-/preview/)"
 section1: >-
   ## Bank Transfer
 
