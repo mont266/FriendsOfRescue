@@ -45,7 +45,7 @@ section3: >-
   [Donate £15](https://monzo.me/suzannefleming6/15.00?d=Friends%20of%20Rescue%20Donation)
 
 
-  [Donate £20](https://monzo.me/suzannefleming6/20.00?d=Friends%20of%20Rescue%20Donation)
+  ### [Donate £20](https://monzo.me/suzannefleming6/20.00?d=Friends%20of%20Rescue%20Donation)
 
 
   #### Directly to our Vet
@@ -59,7 +59,7 @@ section4: >-
   We have a number of GoFundMe Fundraisers set up for some of our animals. Our active fundraisers can be found below:
 
 
-  > ##### **[Molly's Surgery](https://gofund.me/97060dda)**
+  ### **[Molly's Surgery](https://gofund.me/97060dda)**
 meta:
   description: Different ways you can donate to our organisation
   title: Donate
