@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Frank - Adopted
+title: Frank - ADOPTED
 status: Published
 date: 2021-10-12
 featuredImage: https://ucarecdn.com/50c00f35-dc7d-434d-b58e-c721cd1af434/-/crop/465x262/61,170/-/preview/
