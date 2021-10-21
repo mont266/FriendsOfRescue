@@ -1,7 +1,7 @@
 ---
 template: SinglePost
 title: Uma and Chloe
-status: Published
+status: Featured
 date: 2021-10-13
 featuredImage: https://ucarecdn.com/1b030305-ff82-473b-a454-bc709ba10c38/-/crop/251x172/0,141/-/preview/
 excerpt: Uma and Chloe
