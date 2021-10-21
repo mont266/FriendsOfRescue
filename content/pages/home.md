@@ -2,7 +2,7 @@
 template: BlogIndex
 slug: ""
 title: Friends of Rescue
-featuredImage: https://ucarecdn.com/dd02d812-5718-4f9a-b62d-54c11598bea1/
+featuredImage: https://ucarecdn.com/8f0b8ac0-9df6-4171-b0a4-571e7420df3a/
 subtitle: "#### Animal Rescue Organisation"
 meta:
   description: Animal Rescue Organisation Based in Derry~Londonerry, Northern Ireland
