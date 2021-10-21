@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Todd - Adopted
+title: Todd - ADOPTED
 status: Published
 date: 2021-10-21
 featuredImage: https://ucarecdn.com/eb4b603d-02c2-4537-8e41-76a8f63faf6e/-/crop/450x377/0,121/-/preview/
