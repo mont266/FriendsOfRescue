@@ -8,11 +8,11 @@ excerpt: Skipper
 categories:
   - category: Recently Rehomed
 ---
-The gorgeous Skipper has finally got his happy ever after ![😊](https://static.xx.fbcdn.net/images/emoji.php/v9/t7f/1/16/1f60a.png)
+The gorgeous Skipper has finally got his happy ever after 😊
 
-Skipper is the most beautiful, long haired feline who has settled so well into his new home ![🏠](https://static.xx.fbcdn.net/images/emoji.php/v9/tf6/1/16/1f3e0.png)
+Skipper is the most beautiful, long haired feline who has settled so well into his new home 🏠
 
-We are always so grateful to the people who open their hearts and homes to adults cats when there are so many kittens available![🐱](https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1/16/1f431.png)
+We are always so grateful to the people who open their hearts and homes to adults cats when there are so many kittens available🐱
 
 We’re happy for you gorgeous boy
 

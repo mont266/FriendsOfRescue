@@ -8,7 +8,7 @@ excerpt: Uma and Chloe
 categories:
   - category: Cats & Kittens
 ---
-> #### These wee pets are Uma and Chloe and they are about 4/5 months old ![😍](https://static.xx.fbcdn.net/images/emoji.php/v9/t2/1/16/1f60d.png)
+> #### These wee pets are Uma and Chloe and they are about 4/5 months old 😍
 
 ![](https://ucarecdn.com/d8af9f46-19a8-4e01-a59b-b8e3750608f7/)
 
@@ -18,12 +18,12 @@ categories:
 
 ![](https://ucarecdn.com/e2762822-3a96-43e6-aa88-2e202f3e3024/)
 
-These 2 babies are not littermates but fell in love with each other in foster so they now come as a pair ![🐱](https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1/16/1f431.png)![🐱](https://static.xx.fbcdn.net/images/emoji.php/v9/taa/1/16/1f431.png)
+These 2 babies are not littermates but fell in love with each other in foster so they now come as a pair 🐱🐱
 
-Uma arrived with her litter mates covered in ticks and cat flu. Unfortunately her case worsened and it led to having to remove one of her eyes. This has not held her back in the slightest, she has always been tiny but this gal has the heart of a lion ![🦁](https://static.xx.fbcdn.net/images/emoji.php/v9/ta/1/16/1f981.png)
+Uma arrived with her litter mates covered in ticks and cat flu. Unfortunately her case worsened and it led to having to remove one of her eyes. This has not held her back in the slightest, she has always been tiny but this gal has the heart of a lion 🦁
 
-Chloe arrived as a wee stray, abandoned at less than 8 weeks old and the two really bonded during their rescue journeys so they will finish it together ![😊](https://static.xx.fbcdn.net/images/emoji.php/v9/t7f/1/16/1f60a.png)
+Chloe arrived as a wee stray, abandoned at less than 8 weeks old and the two really bonded during their rescue journeys so they will finish it together 😊
 
-Such a loving, gentle affectionate wee pair and whoever adopts them will be extremely lucky ![🍀](https://static.xx.fbcdn.net/images/emoji.php/v9/t87/1/16/1f340.png)
+Such a loving, gentle affectionate wee pair and whoever adopts them will be extremely lucky 🍀
 
 **Please get in touch if you can offer these girlies a home**
