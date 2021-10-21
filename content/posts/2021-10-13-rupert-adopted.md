@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Rupert - Adopted
+title: Rupert - ADOPTED
 status: Published
 date: 2021-10-13
 featuredImage: https://ucarecdn.com/e693a626-fbb2-43fd-adb5-91fdab44751d/-/crop/470x275/0,83/-/preview/
