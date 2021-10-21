@@ -2,7 +2,7 @@
 template: DonatePage
 slug: donate
 title: How To Donate
-backgroundImage: https://ucarecdn.com/d28acce7-be58-47f4-999f-2957e09e00c7/
+backgroundImage: https://ucarecdn.com/d28acce7-be58-47f4-999f-2957e09e00c7/-/crop/628x180/427,92/-/preview/
 subtitle: "![](https://ucarecdn.com/df6db744-0646-42e8-b796-4695d3d37ae1/-/crop\
   /1239x343/177,294/-/preview/)"
 section1: >-
@@ -39,13 +39,13 @@ section3: >-
   ### [Donate £5](https://monzo.me/suzannefleming6/5.00?d=Friends%20of%20Rescue%20Donation)
 
 
-  [Donate £10](https://monzo.me/suzannefleming6/10.00?d=Friends%20of%20Rescue%20donation)
+  #### [Donate £10](https://monzo.me/suzannefleming6/10.00?d=Friends%20of%20Rescue%20donation)
 
 
-  [Donate £15](https://monzo.me/suzannefleming6/15.00?d=Friends%20of%20Rescue%20Donation)
+  ##### [Donate £15](https://monzo.me/suzannefleming6/15.00?d=Friends%20of%20Rescue%20Donation)
 
 
-  [Donate £20](https://monzo.me/suzannefleming6/20.00?d=Friends%20of%20Rescue%20Donation)
+  ###### [Donate £20](https://monzo.me/suzannefleming6/20.00?d=Friends%20of%20Rescue%20Donation)
 
 
   #### Directly to our Vet
