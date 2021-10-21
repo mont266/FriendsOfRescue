@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Skipper - Adopted
+title: Skipper - ADOPTED
 status: Published
 date: 2021-10-13
 featuredImage: https://ucarecdn.com/08d61bab-6532-4a84-93b2-5304f67a6f16/-/crop/228x170/92,151/-/preview/
