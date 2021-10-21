@@ -36,22 +36,22 @@ section3: >-
   Or click one the the quick links below
 
 
-  ### [Donate £5](https://monzo.me/suzannefleming6/5.00?d=Friends%20of%20Rescue%20Donation)
+  [Donate £5](https://monzo.me/suzannefleming6/5.00?d=Friends%20of%20Rescue%20Donation)
 
 
-  #### [Donate £10](https://monzo.me/suzannefleming6/10.00?d=Friends%20of%20Rescue%20donation)
+  ### [Donate £10](https://monzo.me/suzannefleming6/10.00?d=Friends%20of%20Rescue%20donation)
 
 
-  ##### [Donate £15](https://monzo.me/suzannefleming6/15.00?d=Friends%20of%20Rescue%20Donation)
+  ### [Donate £15](https://monzo.me/suzannefleming6/15.00?d=Friends%20of%20Rescue%20Donation)
 
 
-  ###### [Donate £20](https://monzo.me/suzannefleming6/20.00?d=Friends%20of%20Rescue%20Donation)
+  ### [Donate £20](https://monzo.me/suzannefleming6/20.00?d=Friends%20of%20Rescue%20Donation)
 
 
   #### Directly to our Vet
 
 
-  You can donate directly to our vet: Vets4Pets - Crescent Link, in person or via phone **028 7131 4420**
+  You can donate directly to our vet: ***Vets4Pets - Crescent Link***, in person or via phone **028 7131 4420**
 section4: >-
   ## GoFundMe Fundraisers
 
