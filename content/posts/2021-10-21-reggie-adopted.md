@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Reggie - Adopted
+title: Reggie - ADOPTED
 status: Published
 date: 2021-10-21
 featuredImage: https://ucarecdn.com/27afc0af-0560-47f5-8a48-2b02442e8eca/-/crop/227x136/26,121/-/preview/
