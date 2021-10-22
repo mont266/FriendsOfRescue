@@ -10,6 +10,9 @@ section1: >-
 
 
   Please get in touch if you would like to donate via direct bank transfer and we can provide you with our details.
+
+
+  You can also set up a monthly standing order, using these details, via your online banking.
 section2: >-
   ## PayPal Donation
 
