@@ -8,7 +8,7 @@ excerpt: Sooty & Jess
 categories:
   - category: Cats & Kittens
 ---
-These 2 little ones are a bonded pair and go by the names Sooty and Jess ❤️
+> These 2 little ones are a bonded pair and go by the names Sooty and Jess ❤️
 
 ![](https://ucarecdn.com/4ef1be3f-abc5-4d01-9f6d-a133fc32f04c/)
 
@@ -23,4 +23,4 @@ Sooty is the braver of the 2 and Jess is adorable until you dare try to steal he
 
 Both would happily also live with kids ✔️
 
-Please get in touch if you can offer these cuties a home 🏡
+**Please get in touch if you can offer these cuties a home 🏡**
