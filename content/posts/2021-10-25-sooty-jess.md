@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Sooty & Jess -"
+title: Sooty & Jess - APPLICATIONS CLOSED
 status: Published
 date: 2021-10-25
 featuredImage: https://ucarecdn.com/59d553c8-4dc1-4659-98ed-22c3ce595ac7/-/crop/338x509/105,0/-/preview/-/rotate/90/
