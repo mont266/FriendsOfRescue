@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Lilly - APPLICATIONS CLOSED
+title: Lilly - ADOPTED
 status: Published
 date: 2021-10-21
 featuredImage: https://ucarecdn.com/fe7a5ea9-c1e4-4fd9-b040-491d5da36a1e/-/crop/482x282/0,0/-/preview/
