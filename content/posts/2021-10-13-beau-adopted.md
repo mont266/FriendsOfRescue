@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "  Beau - ADOPTED"
+title: " Beau - ADOPTED"
 status: Published
 date: 2021-10-13
 featuredImage: https://ucarecdn.com/caf4badb-9e0c-442e-bf6f-8895e0c30d16/-/crop/291x157/43,126/-/preview/
