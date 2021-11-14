@@ -12,8 +12,6 @@ meta:
 ---
 # Get in Touch
 
-Facebook messenger is the quickest way to get a response as it is monitored more regularly than our email inbox.
+***Facebook messenger is the quickest way to get a response as it is monitored more regularly than our email inbox.***
 
 If you don't have facebook, please use this enquiry form or email us at the address below.
-
-Thanks
