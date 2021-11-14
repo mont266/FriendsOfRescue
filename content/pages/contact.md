@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Us
-featuredImage: https://ucarecdn.com/0fd6acee-5406-48ca-a36e-92c59975c4fc/-/crop/4075x1514/0,353/-/preview/
+featuredImage: https://ucarecdn.com/dbf32cdc-3bf7-42b7-9d42-efcb90fdf17b/-/crop/404x227/0,74/-/preview/
 subtitle: "![]()"
 facebook: friendsofrescueireland
 email: friendsofrescueni@gmail.com
