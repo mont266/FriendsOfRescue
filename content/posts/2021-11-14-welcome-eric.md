@@ -3,17 +3,16 @@ template: SinglePost
 title: Welcome Eric
 status: Published
 date: 2021-11-14
+featuredImage: https://ucarecdn.com/99a8ac94-b38f-426b-b902-86dd90092279/-/crop/417x314/0,0/-/preview/
 excerpt: eric
+categories:
+  - category: Not yet available
 ---
 * #### ***Not yet  ready for rehoming***
-
-
 
 We don’t even have the words….
 
 🤬🤬🤬🤬🤬🤬🤬🤬
-
-
 
 This boy was rescued by a lovely friend of ours who got him safe, got an immediate vet check then brought him to ourselves and we are so glad she did ❗️
 
@@ -31,4 +30,4 @@ We are your voice 🐶🔊
 
 He reminds us so much on our EBT Milah who we lost earlier this year. We believe she helped him find us ❤️
 
-Eric has a long road ahead with extensive treatment so we are appealing for any help funding his medical work. Everything is greatly appreciated, check out the "**[Donate](https://www.friendsofrescueni.com/donate/)"** page to see all the ways you can help.
+Eric has a long road ahead with extensive treatment so we are appealing for any help funding his medical work. Everything is greatly appreciated, check out the **[Donate](https://www.friendsofrescueni.com/donate/)** page to see all the ways you can help.
