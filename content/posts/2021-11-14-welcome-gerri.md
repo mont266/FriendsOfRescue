@@ -3,6 +3,7 @@ template: SinglePost
 title: Welcome Gerri
 status: Published
 date: 2021-11-14
+featuredImage: https://ucarecdn.com/71aca983-bafb-4d89-8c61-6dcf480987bc/-/crop/514x322/86,0/-/preview/
 excerpt: gerri
 categories:
   - category: Not yet available
