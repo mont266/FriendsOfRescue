@@ -14,6 +14,8 @@ categories:
 
 ![](https://ucarecdn.com/2b20fd7f-7777-4f48-aecc-83af71568b2d/)
 
+Not one single message about these gals….growing from kittens to cats in rescue, so unfair 💔
+
 The girls are both very shy to start and will need a patient and understanding owner. They require a quieter home, preferably with no young children, as loud noises can send them into hiding.
 
 Once these girls let their guard down they are such sweethearts and love a wee pet and cuddle and even sleep on fosters bed 🥰
