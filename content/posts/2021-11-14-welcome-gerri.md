@@ -1,17 +1,13 @@
 ---
 template: SinglePost
-title: Welcome Gerri
+title: Gerri - ADOPTED
 status: Published
 date: 2021-11-14
 featuredImage: https://ucarecdn.com/71aca983-bafb-4d89-8c61-6dcf480987bc/-/crop/514x322/86,0/-/preview/
 excerpt: gerri
 categories:
-  - category: Not yet available
+  - category: Recently Rehomed
 ---
-* **Not yet ready for rehoming**
-
-
-
 ![](https://ucarecdn.com/b42c366b-1458-4571-8dc8-95f47901bb0f/-/preview/)
 
 This handsome boy is Gerri and he is a 7 year old springer 🐶
@@ -23,6 +19,5 @@ Gerri is as you can imagine a little unsure of his new life but he is doing so w
 Gerri is settling into foster with his amazing spaniel loving family who have given him a lovely soft seat to recover 🥰
 
 Welcome Gerri ❤️
-
 
 To help us with our ever rising vet bills check out our **[ Donate](https://www.friendsofrescueni.com/donate/)** page to see all the ways you can donate
