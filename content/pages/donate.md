@@ -2,7 +2,7 @@
 template: DonatePage
 slug: donate
 title: How To Donate
-backgroundImage: https://ucarecdn.com/d28acce7-be58-47f4-999f-2957e09e00c7/-/crop/628x180/427,92/-/preview/
+backgroundImage: https://ucarecdn.com/551ccc76-a263-4590-91c0-362f737b9de8/
 subtitle: "![](https://ucarecdn.com/df6db744-0646-42e8-b796-4695d3d37ae1/-/crop\
   /1236x408/177,229/-/preview/)"
 section1: >-
@@ -23,7 +23,7 @@ section2: >-
   <https://www.paypal.me/friendsofrescue>
 
 
-  ![](https://ucarecdn.com/8b1e1e40-ea3e-42eb-8db0-0a0b3d0edb01/)
+  ![](https://ucarecdn.com/6de5c5dd-1758-446b-8c0d-7515a9cbe9db/)
 section3: >-
   ## Using a Debit Card[](https://gofund.me/97060dda)
 
