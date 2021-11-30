@@ -18,6 +18,8 @@ Yet again we just don’t know what else to say….
 
 This poor dote, again with a serious skin condition in agony and not being heard. She is so shy, so sweet and not a bad bone in her body. She doesn’t deserve this. She has been bred quite obviously a number of times and her wee body is just falling apart….she isn’t even an old girl, she has endured awful neglect during her young life which is just appalling 🤬
 
+![](https://ucarecdn.com/33399359-89b9-4584-93b3-6eefa2b96b4f/)
+
 Thankfully she made her way to us and now she is being treated. Our vets and vet nurses fell in love with her as have her foster family. She is a joy, so grateful, so precious. She deserves the world and more ❤️
 
 We will do that for her. Her journey is just beginning but we will absolutely make it one to remember. She will never know pain, hunger, cold ever again.
