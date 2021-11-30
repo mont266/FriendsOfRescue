@@ -3,7 +3,7 @@ template: SinglePost
 title: Rupert - ADOPTED
 status: Published
 date: 2021-10-13
-featuredImage: https://ucarecdn.com/e693a626-fbb2-43fd-adb5-91fdab44751d/-/crop/470x275/0,83/-/preview/
+featuredImage: https://ucarecdn.com/b816fa73-dd25-4362-ba7b-7acaf87f51f9/-/crop/777x445/0,113/-/preview/
 excerpt: Rupert
 categories:
   - category: Recently Rehomed
@@ -21,8 +21,8 @@ But anyway back to our influencer….[\#famous](https://www.facebook.com/hashtag
 
 Best of luck boyo ❤️
 
-![](https://ucarecdn.com/2ffac34c-43b5-47b1-8a04-0daf9f1984f0/)
+![](https://ucarecdn.com/3c0d49db-238d-417e-9bba-68e3069e7cd6/)
 
-![](https://ucarecdn.com/2ee38387-dab1-4f6a-92ad-f1f9c0241770/)
+![](https://ucarecdn.com/2e3ea85e-c6ae-4743-908b-bcaba1cf4b42/)
 
-![](https://ucarecdn.com/05b2ae5d-6787-4ed1-af0e-057f046d55b4/)
+![](https://ucarecdn.com/830792a1-6de8-4b56-9192-e108591e8888/)
