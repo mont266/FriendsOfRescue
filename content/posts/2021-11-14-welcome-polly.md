@@ -21,3 +21,5 @@ Polly is a dream gal….big, strong and think she is the size of a budgie 😆
 This gal will need lots of ongoing treatment, including daily baths but she is already responding well to her treatment and her dedicated foster team have been amazing. We are so lucky to have them 🙏🏻
 
 Welcome to the family Polly ❤️
+
+![](https://ucarecdn.com/33641784-dd5d-497f-90b7-b675ab4178a4/)
