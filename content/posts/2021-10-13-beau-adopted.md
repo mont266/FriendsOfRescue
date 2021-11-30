@@ -3,7 +3,7 @@ template: SinglePost
 title: Beau - ADOPTED
 status: Published
 date: 2021-10-13
-featuredImage: https://ucarecdn.com/caf4badb-9e0c-442e-bf6f-8895e0c30d16/-/crop/291x157/43,126/-/preview/
+featuredImage: https://ucarecdn.com/b593ada4-5e09-49cb-a827-637c14baec5b/-/crop/338x190/0,132/-/preview/
 excerpt: Beau
 categories:
   - category: Recently Rehomed
@@ -20,6 +20,6 @@ We are absolutely delighted that Beau has landed herself in a first class home. 
 
 Best of luck blue Beau 💙
 
-![](https://ucarecdn.com/0c4b8b0f-03a4-4d20-a6c8-1c78d1436628/)
+![](https://ucarecdn.com/d188a0be-76cf-48be-bf3d-c978a13c97b7/-/crop/338x378/0,69/-/preview/)
 
-![](https://ucarecdn.com/cf11f209-db8f-4404-98ff-40394290e369/)
+![](https://ucarecdn.com/cb2f8f66-fa18-4573-bfb8-e1cd250cd0e7/)
