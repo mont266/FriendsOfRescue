@@ -3,14 +3,14 @@ template: SinglePost
 title: Welcome Polly
 status: Published
 date: 2021-11-14
-featuredImage: https://ucarecdn.com/e7608f29-c47c-4f0b-9422-8d33e305b5c4/-/crop/236x135/68,19/-/preview/
+featuredImage: https://ucarecdn.com/75d6a02d-9aaa-4b81-8de6-426370649886/-/crop/320x160/286,95/-/preview/
 excerpt: polly
 categories:
   - category: Not yet available
 ---
 * **Not yet ready for rehoming**
 
-![](https://ucarecdn.com/ee6e6ed2-de49-4434-9a0e-350cc4d0a0b5/)
+![](https://ucarecdn.com/f9f3aa79-0656-4375-aafa-82fdc5070498/)
 
 This beautiful lab lady is Polly and she is 4 years old 🐶
 
