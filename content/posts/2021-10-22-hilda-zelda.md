@@ -3,16 +3,16 @@ template: SinglePost
 title: "- Hilda & Zelda -"
 status: Published
 date: 2021-10-22
-featuredImage: https://ucarecdn.com/4429d5d7-e623-444f-85ec-f75d2891f9d1/-/crop/483x232/17,14/-/preview/
+featuredImage: https://ucarecdn.com/88def15a-e0aa-42ee-a481-5e57e04e1533/-/crop/720x526/0,0/-/preview/
 excerpt: hilda and zelda
 categories:
   - category: Cats & Kittens
 ---
 > These 2 little kittens have bonded in foster after arriving days apart, and are ready for their new beginning 🏠
 
-![](https://ucarecdn.com/6aee0775-486a-4811-a09f-9d245ebd3f72/)
+![](https://ucarecdn.com/ae3bacd3-dea2-4292-9018-bc2ed5da45f4/)
 
-![](https://ucarecdn.com/2b20fd7f-7777-4f48-aecc-83af71568b2d/)
+![](https://ucarecdn.com/d97fd1b6-98e0-40d9-8915-3e6f74cf287a/)
 
 Not one single message about these gals….growing from kittens to cats in rescue, so unfair 💔
 
