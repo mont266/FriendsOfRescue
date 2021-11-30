@@ -3,7 +3,8 @@ template: DonatePage
 slug: donate
 title: How To Donate
 backgroundImage: https://ucarecdn.com/464e4b8d-0c61-42d7-b1fd-1177d266a7e5/-/crop/442x212/621,124/-/preview/
-subtitle: "![](https://ucarecdn.com/c45caf6f-43e5-473f-a91c-7bb9983b51d8/)"
+subtitle: "![](https://ucarecdn.com/c45caf6f-43e5-473f-a91c-7bb9983b51d8/-/crop\
+  /1263x352/155,290/-/preview/)"
 section1: >-
   ## Bank Transfer
 
