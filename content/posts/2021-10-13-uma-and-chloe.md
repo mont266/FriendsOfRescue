@@ -3,20 +3,20 @@ template: SinglePost
 title: "- Uma & Chloe -"
 status: Featured
 date: 2021-10-13
-featuredImage: https://ucarecdn.com/1b030305-ff82-473b-a454-bc709ba10c38/-/crop/251x172/0,141/-/preview/
+featuredImage: https://ucarecdn.com/27ab1297-19a0-4285-8319-f5887ec169f0/-/crop/280x206/0,146/-/preview/
 excerpt: Uma and Chloe
 categories:
   - category: Cats & Kittens
 ---
 > #### These wee pets are Uma and Chloe and they are about 4/5 months old 😍
 
-![](https://ucarecdn.com/d8af9f46-19a8-4e01-a59b-b8e3750608f7/)
+![](https://ucarecdn.com/f0b11b3b-8bee-4413-ad3c-5daf250b2ff0/-/crop/280x309/0,133/-/preview/)
 
-![](https://ucarecdn.com/f374a418-5ec1-4841-a1da-899891e08b56/)
+![](https://ucarecdn.com/da879b79-c7eb-4df0-ac87-c0c9dd18d7aa/)
 
-![](https://ucarecdn.com/e5617142-03e3-40c4-9e0b-0c696b2cab4e/)
+![](https://ucarecdn.com/40d8342b-cf79-47f9-816c-4b1fd8da81d7/-/crop/1732x1680/0,143/-/preview/)
 
-![](https://ucarecdn.com/e2762822-3a96-43e6-aa88-2e202f3e3024/)
+![](https://ucarecdn.com/f6a74560-7f66-4c26-b2d2-6a6badcf55b7/-/preview/)
 
 These 2 babies are not littermates but fell in love with each other in foster so they now come as a pair 🐱🐱
 
@@ -26,4 +26,4 @@ Chloe arrived as a wee stray, abandoned at less than 8 weeks old and the two rea
 
 Such a loving, gentle affectionate wee pair and whoever adopts them will be extremely lucky 🍀
 
-**Please get in touch if you can offer these girlies a home**
+## **Please get in touch if you can offer these girlies a home**
