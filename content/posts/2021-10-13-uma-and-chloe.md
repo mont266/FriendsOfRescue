@@ -1,7 +1,7 @@
 ---
 template: SinglePost
-title: "- Uma & Chloe -"
-status: Featured
+title: Uma & Chloe - APPLICATIONS CLOSED
+status: Published
 date: 2021-10-13
 featuredImage: https://ucarecdn.com/27ab1297-19a0-4285-8319-f5887ec169f0/-/crop/280x206/0,146/-/preview/
 excerpt: Uma and Chloe
