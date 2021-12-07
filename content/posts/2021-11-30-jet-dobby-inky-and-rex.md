@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Jet, Dobby, Inky and Rex -"
+title: Jet, Dobby, Inky and Rex - APPLICATIONS CLOSED
 status: Published
 date: 2021-11-30
 featuredImage: https://ucarecdn.com/fbba7864-c185-47dc-953d-2f6d3daf5284/-/crop/718x471/0,141/-/preview/
