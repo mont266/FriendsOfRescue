@@ -20,6 +20,6 @@ The girls are both very shy to start and will need a patient and understanding o
 
 Once these girls let their guard down they are such sweethearts and love a wee pet and cuddle and even sleep on fosters bed 🥰
 
-Neither are a fan of dogs, but can live with a placid dog, they are in a multicat household and do fine. They enjoy the company of playful cats but due to their nature they would be easily bullied, so any existing pets must be placid. The girls also require an indoor only home or access to a catio ✔️
+Neither are a fan of dogs, but can live with a placid dog, they are in a multicat household and do fine. They enjoy the company of playful cats but due to their nature they would be easily bullied, so any existing pets must be placid. The girls also require an indoor only home or access to a catio ✔️ 
 
 **Please get in touch if you can offer our girls their forever home 🏡**
