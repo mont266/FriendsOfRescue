@@ -1,12 +1,12 @@
 ---
 template: SinglePost
-title: Welcome Dobby
+title: "- Dobby -"
 status: Published
 date: 2021-12-08
 featuredImage: https://ucarecdn.com/addf28bd-5954-4d71-ba38-d33d12a7fe45/-/crop/600x420/0,48/-/preview/
 excerpt: dobby
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 This handsome fella is Dobby and he is a 7/8 month old lurcher/GSD mix
 
@@ -18,4 +18,4 @@ Dobby was helped by someone who knew he was in need who then got him to us and h
 
 He has settled in great in foster and will be neutered, and any outstanding medical work at the end of the week ✔️ 
 
-Welcome to the fold Dobby ❤️
+**Please get in touch if you can offer Dobby a home 🏡**
