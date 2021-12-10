@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Tom -"
+title: Tom - APPLICATIONS CLOSED
 status: Published
 date: 2021-11-30
 featuredImage: https://ucarecdn.com/d1921431-aec1-4466-b416-f30767101cf3/-/crop/489x416/0,163/-/preview/
