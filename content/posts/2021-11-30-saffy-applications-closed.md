@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Saffy - APPLICATIONS CLOSED
+title: Saffy - ADOPTED
 status: Published
 date: 2021-11-30
 featuredImage: https://ucarecdn.com/94e3a7ac-e56c-44ca-8fb3-c1d08a3cf41e/-/crop/720x505/0,0/-/preview/
