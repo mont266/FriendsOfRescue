@@ -8,7 +8,7 @@ excerpt: Jackie
 categories:
   - category: Not Yet Available
 ---
-**Not yet available for re-homing.**
+* Not yet available for re-homing.
 
 This little silver oldie is Jackie, and she is 11 years old ❤️
 
@@ -16,14 +16,10 @@ This little silver oldie is Jackie, and she is 11 years old ❤️
 
 ![](https://ucarecdn.com/daef10b8-c1bf-4be2-986d-d2904bc95ad9/)
 
-
 Unfortunately Jackie is with us because her owner passed away 💔
-
 
 On arrival she was vet checked, and this poor little one has barely any vision or hearing. She needs a dental, and bloods checked before surgery which will be done on Friday ✔️
 
-
 Jackie is settling well in foster despite the upheaval. She is getting lots of tlc and her foster, much like us, is obsessed with her wee frosted face 😍
-
 
 Welcome sweetheart ❤️
