@@ -6,7 +6,7 @@ date: 2021-11-14
 featuredImage: https://ucarecdn.com/961ccac7-75ae-49f2-a246-3c5afc488311/-/crop/432x382/0,83/-/preview/
 excerpt: jilly
 categories:
-  - category: Not yet available
+  - category: Dogs & Puppies
 ---
 Yet again we just don’t know what else to say….
 
@@ -24,4 +24,6 @@ We will do that for her. Her journey is just beginning but we will absolutely ma
 
 We have now named her Jilly, and you Jilly, my darling girl, are so very deserving of your rescue space and we can’t wait to fix things for you 😊
 
-If you can help with our ever rising vet costs please check out our **[Donate](https://www.friendsofrescueni.com/donate/)** page to see all the way you can donate
+If you can help with our ever rising vet costs please check out our **[Donate](https://www.friendsofrescueni.com/donate/)** page to see all the way you can donate.\
+\
+**If you can offer Jilly her forever home please get in touch**
