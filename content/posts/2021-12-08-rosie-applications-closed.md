@@ -8,8 +8,15 @@ excerpt: rosie
 categories:
   - category: Recently Rehomed
 ---
-> This little cherub is Rosie and she is a 14 week old springer 
+Our little Rosie is home with her new sisters….look at that wee trio of happiness ❤️
 
-![](https://ucarecdn.com/a2425415-a7b2-46b5-b243-e11fa28a7240/-/crop/389x405/40,152/-/preview/)
+![](https://ucarecdn.com/5c1278b0-2aa7-4ec1-94cc-d5cafdd6886e/)
 
-![](https://ucarecdn.com/b9856444-dae7-4264-83c6-99a64563a61e/)
+
+She was playing away today and now snoozing contently on the sofa. She has settled in so well and has landed on all 4 paws 🐾
+
+
+We had a lot of interest for wee Rosie so it was tough to narrow down but I think everyone will agree that she has found her perfect match and that’s all that matters ☺️
+
+
+Good luck Rosie Posie ❤️
