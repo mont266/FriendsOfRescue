@@ -10,7 +10,7 @@ categories:
 ---
 * Not yet available for re-homing.
 
-*This little silver oldie is Jackie, and she is 11 years old ❤️*
+> *This little silver oldie is Jackie, and she is 11 years old ❤️*
 
 ![](https://ucarecdn.com/d372127d-9013-40b6-99b2-e23755b79889/)
 
