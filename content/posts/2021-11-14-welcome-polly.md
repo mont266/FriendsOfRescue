@@ -1,25 +1,31 @@
 ---
 template: SinglePost
-title: Welcome Polly
+title: "- Polly -"
 status: Published
 date: 2021-11-14
 featuredImage: https://ucarecdn.com/75d6a02d-9aaa-4b81-8de6-426370649886/-/crop/320x160/286,95/-/preview/
 excerpt: polly
 categories:
-  - category: Not yet available
+  - category: Dogs & Puppies
 ---
-* **Not yet ready for rehoming**
+> This beautiful lab lady is Polly and she is 5 years old 😍
 
-![](https://ucarecdn.com/f9f3aa79-0656-4375-aafa-82fdc5070498/)
+![](https://ucarecdn.com/21bce913-c022-4c63-8fad-fa336a687f13/)
 
-This beautiful lab lady is Polly and she is 4 years old 🐶
+![](https://ucarecdn.com/5e2872fb-29d7-4537-9f32-b6e11f0c5d14/)
 
-Polly was surrendered to us for a number of reasons but struggling to get on top of her skin condition was one of them and sometimes admitting that they need more is the hardest part so please be kind in your comments.
+![](https://ucarecdn.com/49e6100d-1524-4602-bc32-864c8e48db73/)
 
-Polly is a dream gal….big, strong and think she is the size of a budgie 😆
+![](https://ucarecdn.com/9561ca7d-028e-4d40-8395-e6789cca7c43/)
 
-This gal will need lots of ongoing treatment, including daily baths but she is already responding well to her treatment and her dedicated foster team have been amazing. We are so lucky to have them 🙏🏻
 
-Welcome to the family Polly ❤️
+Polly arrived with us with a bad skin condition that just got out of hand and difficult to keep at bay but finally we have it under control and she is now ready to be spayed ✔️
 
-![](https://ucarecdn.com/33641784-dd5d-497f-90b7-b675ab4178a4/)
+
+Polly is a really affectionate girl who just adores people. Polly gets on ok with other dogs but just steam rolls them with play, so we feel a home of her own would suit better 🐶
+
+
+Polly is a great example of the lab breed and we just love the bones of her and she so deserves this new start ❤️
+
+
+**Please get in touch if you can offer Polly her new home 🏡**
