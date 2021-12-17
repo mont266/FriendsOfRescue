@@ -11,11 +11,3 @@ categories:
 > This little rocket is Saffy and she is a 20 week springer spaniel 😍
 
 ![](https://ucarecdn.com/5bff205f-0a40-4b5a-84b6-3d171da3d11a/)
-
-Saffy arrived to us under very sad circumstances beyond her family's control so we need understanding from our supporters.
-
-Saffy is a typical Springer gal. Nuts, affectionate, beautiful and my goodness is this girl part fish….she loves water 💦 
-
-She will make an amazing family member for whoever is lucky enough to adopt her 🐶 
-
-Welcome Saffy ❤️
