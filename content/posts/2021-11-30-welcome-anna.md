@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Anna -"
+title: Anna - APPLICATIONS CLOSED
 status: Published
 date: 2021-11-30
 featuredImage: https://ucarecdn.com/83398522-eb78-466d-88c2-83b0a6062eb0/-/crop/420x302/68,179/-/preview/
