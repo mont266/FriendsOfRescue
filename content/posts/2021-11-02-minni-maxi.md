@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Maxi -"
+title: Maxi - APPLICATIONS CLOSED
 status: Published
 date: 2021-11-28
 featuredImage: https://ucarecdn.com/3f29d703-0a2e-4be9-9d0d-6d20e1bcef0a/-/crop/680x406/0,202/-/preview/
