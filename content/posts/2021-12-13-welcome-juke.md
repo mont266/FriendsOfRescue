@@ -8,13 +8,11 @@ excerpt: Juke
 categories:
   - category: Dogs & Puppies
 ---
-*Our wee fuzzy 14 month old spaniel mix Juke is now ready for his new 🏠*
+> *Our wee fuzzy 14 month old spaniel mix Juke is now ready for his new 🏠*
 
 ![](https://ucarecdn.com/b4028086-52de-4e29-879f-30579ab6aebc/)
 Juke is a lovely boy. Very energetic, loving and charismatic. He adores, and needs human company, this boy doesn’t like being left in his own very much and anyway who can blame him….who would play ball with him if he was on his own 😆
 
-
 Juke gets on well with other dogs and could live with kids 12+. Juke has been neutered, vaccinated and up to date with all medical work ✔️
-
 
 **Please get in touch if you can offer Juke a home 🏡**
