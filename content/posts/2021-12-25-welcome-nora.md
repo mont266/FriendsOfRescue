@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Nora -"
+title: Nora - APPLICATIONS CLOSED
 status: Published
 date: 2021-12-25
 featuredImage: https://ucarecdn.com/1ce62bcb-5fcc-452b-9b09-0b1a7a856955/-/crop/718x505/0,157/-/preview/
