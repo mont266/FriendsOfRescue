@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Jackie
+title: "- Jackie -"
 status: Published
 date: 2021-12-11
 featuredImage: https://ucarecdn.com/79b24658-6675-4224-a95c-708800935d3e/-/crop/791x599/0,154/-/preview/
