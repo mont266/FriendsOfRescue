@@ -1,21 +1,23 @@
 ---
 template: SinglePost
-title: Dobby - APPLICATIONS CLOSED
+title: Dobby - ADOPTED
 status: Published
 date: 2021-12-08
 featuredImage: https://ucarecdn.com/addf28bd-5954-4d71-ba38-d33d12a7fe45/-/crop/600x420/0,48/-/preview/
 excerpt: dobby
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-This handsome fella is Dobby and he is a 7/8 month old lurcher/GSD mix
+> *Our beautiful big Dobby has been rehomed and has a brand new name to kick start his new journey…Toby ❤️*
 
-![](https://ucarecdn.com/d38db448-6b3f-48b4-b8a6-77a0e4294015/)
+![](https://ucarecdn.com/45055644-8003-4013-b7f7-a95f3e6c6401/)
 
-![](https://ucarecdn.com/76de8d9c-e3bf-47fc-85e0-89cc9d25c09c/-/crop/338x346/0,54/-/preview/)
+![](https://ucarecdn.com/b547183f-11ea-4551-bb46-7826d86463d4/)
 
-Dobby was helped by someone who knew he was in need who then got him to us and he is just the best fella 🐶 
 
-He has settled in great in foster and will be neutered, and any outstanding medical work at the end of the week ✔️ 
+Toby has a new furry brother now called Cooper who sadly lost his brother Freddie just last month so he needed a new friend. Cooper is a blast from the past having been rehomed through two of our admins 6 years ago! Cooper was 1 part of 4, a feral clan of kelpies taken from a boarding scenario and honestly you wouldn’t recognise him. What a transformation. With support and love from his amazing family we have no doubt Toby will flourish just as much as Cooper 😍
 
-**Please get in touch if you can offer Dobby a home 🏡**
+![](https://ucarecdn.com/82b7fc3e-8310-46ed-b973-9e14326226a2/)
+
+
+Best of luck boys, and thanks to his wonderful family for choosing rescue again 🙏🏻
