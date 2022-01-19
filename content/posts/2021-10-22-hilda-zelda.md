@@ -2,7 +2,7 @@
 template: SinglePost
 title: Hilda & Zelda - ADOPTED
 status: Published
-date: 2021-12-17
+date: 2021-12-22
 featuredImage: https://ucarecdn.com/88def15a-e0aa-42ee-a481-5e57e04e1533/-/crop/720x526/0,0/-/preview/
 excerpt: hilda and zelda
 categories:
