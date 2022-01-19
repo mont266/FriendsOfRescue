@@ -18,14 +18,11 @@ categories:
 
 ![](https://ucarecdn.com/9561ca7d-028e-4d40-8395-e6789cca7c43/)
 
-
-Polly arrived with us with a bad skin condition that just got out of hand and difficult to keep at bay but finally we have it under control and she is now ready to be spayed ✔️
-
-
-Polly is a really affectionate girl who just adores people. Polly gets on ok with other dogs but just steam rolls them with play, so we feel a home of her own would suit better 🐶
+Polly arrived with us with a bad skin condition that had simply just got out of hand, but thankfully we now have it under control. She will however need to be on long term medication to keep on top of it with her new family ✔️
 
 
-Polly is a great example of the lab breed and we just love the bones of her and she so deserves this new start ❤️
+Polly is a great example of the lab breed and we just love the bones of her. She is a really affectionate girl who just adores people and children. She is very gentle with kids, but when it comes to dogs shes gets a bit over excited with play and is a bit of a steam rollerso we feel a pet free home of her own would suit her best ❤️
+
 
 
 **Please get in touch if you can offer Polly her new home 🏡**
