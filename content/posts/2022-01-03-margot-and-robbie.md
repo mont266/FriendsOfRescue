@@ -2,7 +2,7 @@
 template: SinglePost
 title: Margot and Robbie - ADOPTED
 status: Published
-date: 2022-01-03
+date: 2022-01-15
 featuredImage: https://ucarecdn.com/4e59b357-ffd4-47d0-97f9-107600c22f55/-/crop/526x439/0,98/-/preview/
 excerpt: Margot and Robbie
 categories:
