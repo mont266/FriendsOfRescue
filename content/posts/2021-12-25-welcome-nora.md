@@ -2,7 +2,7 @@
 template: SinglePost
 title: Nora - ADOPTED
 status: Published
-date: 2021-12-25
+date: 2022-01-08
 featuredImage: https://ucarecdn.com/1ce62bcb-5fcc-452b-9b09-0b1a7a856955/-/crop/718x505/0,157/-/preview/
 excerpt: Nora
 categories:
