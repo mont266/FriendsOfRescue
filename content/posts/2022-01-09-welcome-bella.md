@@ -3,7 +3,7 @@ template: SinglePost
 title: "- Bella -"
 status: Published
 date: 2022-01-09
-featuredImage: https://ucarecdn.com/9736fdc4-d9a0-42bb-9744-6ad9966329b3/-/crop/649x464/0,77/-/preview/
+featuredImage: https://ucarecdn.com/9736fdc4-d9a0-42bb-9744-6ad9966329b3/-/crop/649x323/0,77/-/preview/
 excerpt: Bella
 categories:
   - category: Dogs & Puppies
