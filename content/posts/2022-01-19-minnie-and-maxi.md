@@ -3,7 +3,7 @@ template: SinglePost
 title: "- Minnie and Maxi -"
 status: Published
 date: 2022-01-19
-featuredImage: https://ucarecdn.com/8f695b19-444b-4f8f-889e-5f5371f5d37c/-/crop/643x667/0,171/-/preview/
+featuredImage: https://ucarecdn.com/8f695b19-444b-4f8f-889e-5f5371f5d37c/-/crop/622x360/0,228/-/preview/
 excerpt: M&M
 categories:
   - category: Cats & Kittens
