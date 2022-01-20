@@ -1,6 +1,6 @@
 ---
 slug: about
-backgroundImage: https://ucarecdn.com/0260c069-dd94-4313-b9db-c64ebe039d38/-/crop/525x294/0,39/-/preview/
+backgroundImage: https://ucarecdn.com/7b514890-bf68-4c1d-a88f-0c3d4fee2438/-/crop/2291x1152/126,372/-/preview/
 section1: >-
   ## Our Story
 
