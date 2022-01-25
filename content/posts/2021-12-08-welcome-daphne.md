@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Daphne -"
+title: Daphne - APPLICATIONS CLOSED
 status: Published
 date: 2021-12-08
 featuredImage: https://ucarecdn.com/3c76f37b-a194-46e1-9089-26706a731436/-/crop/450x312/0,113/-/preview/
