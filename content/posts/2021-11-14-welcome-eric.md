@@ -10,23 +10,29 @@ categories:
 ---
 * ### **Not yet ready for rehoming**
 
-We don’t even have the words….
+> *Our handsome man Eric arrived with us 3 months ago ❤️*
 
-🤬🤬🤬🤬🤬🤬🤬🤬
 
-This boy was rescued by a lovely friend of ours who got him safe, got an immediate vet check then brought him to ourselves and we are so glad she did ❗️
+He was in horrendous condition, his skin was green with infection. He was covered in lumps and severely uncomfortable. It was heartbreaking 💔
 
-![](https://ucarecdn.com/cce51bd5-4fe3-4768-b442-45ecc655f90c/)
 
-He is what cruelty and neglect looks like….his life has been shit and it’s all because a human decided it. He can’t talk, he can't say he is sore, itchy and in constant pain. He relies on his family to help and look after him. He should NEVER have had to endure this. He is 4 years old…..
+Thankfully we bagged him an EBT home with lots of experience. They’ve their own EBT Mitch who was rescued in a similar state, so they were well versed in the recovery involved 😃
 
-His skin is raw, red and green with infection. His legs and face are swollen and he is constantly sore and itchy. His eyes and ears are so infected. He hasn’t been living, he has been existing…and miserably existing ❗️
 
-![](https://ucarecdn.com/756703f2-88e5-433a-bf09-5acabdbb06dd/)
+Eric is still getting treatment but he has come on so well, so well that we are expecting him to be signed off this week 🤞🏻 
 
-He is now named Eric and true to English Bull form he is a gentle angel, which just makes the whole thing even worse. He doesn’t expect much, he doesn’t need much, he just needed heard and now Eric my dear, you have been heard loud and clear and we will shout your story from the rooftops, not only for your life but for any others out there silently suffering because people choose not to listen.
 
-We are your voice 🐶🔊
+We know Eric will always need help with his skin as it had gotten so bad but it can be managed quite easily with the treatment he has been receiving. Whoever his new family turn out to be will be made aware of this ✔️ 
+
+
+Below are a few before and after pictures and we want to say a huge thank you to his foster family who have been extremely dedicated and thorough to his care and well being 👏🏻
+
+![](https://ucarecdn.com/784e4567-8bb2-4116-9dc1-f9daf5d425fd/)
+
+![](https://ucarecdn.com/ed96b836-cb56-49bb-a8ab-d92172f157c1/)
+
+
+Also a huge thank to everyone who has donated to Eric’s care, we simply couldn’t have done it without you 🙌🏻
 
 He reminds us so much on our EBT Milah who we lost earlier this year. We believe she helped him find us ❤️
 
