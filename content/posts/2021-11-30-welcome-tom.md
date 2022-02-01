@@ -3,7 +3,7 @@ template: SinglePost
 title: "- Tom - "
 status: Published
 date: 2022-01-27
-featuredImage: https://ucarecdn.com/d1921431-aec1-4466-b416-f30767101cf3/-/crop/489x416/0,163/-/preview/
+featuredImage: https://ucarecdn.com/9e05cc5c-7ca0-4b25-8b28-fc5e9572b070/-/crop/828x481/0,27/-/preview/
 excerpt: tom
 categories:
   - category: Dogs & Puppies
