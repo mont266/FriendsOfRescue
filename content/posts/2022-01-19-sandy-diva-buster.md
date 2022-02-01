@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Sandy - Diva - Buster -"
+title: Sandy - Diva - Buster - APPLICATIONS CLOSED
 status: Published
 date: 2022-01-19
 featuredImage: https://ucarecdn.com/bcec4b8e-6dd1-4b98-b275-f419746616b0/-/crop/491x403/0,85/-/preview/
