@@ -1,32 +1,29 @@
 ---
 template: SinglePost
-title: Welcome Tess
+title: "- Tess -"
 status: Published
 date: 2022-01-09
 featuredImage: https://ucarecdn.com/0bfb5cfa-f077-4396-873c-60c8637c77c5/-/crop/720x544/0,227/-/preview/
 excerpt: Tess
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
-💔💔💔💔💔💔
+> *Our beautiful lady Tess is on the hunt for her forever home 🏡* 
 
-> *This wee pet is Tess, she is 11 years old and her wee world has been turned upside down 💔*
-
-![](https://ucarecdn.com/efdf038c-a04a-4fab-88a7-9cc8a3dd336e/)
-
-![](https://ucarecdn.com/4b571ae9-3b28-4c06-b472-d4c353a49d06/)
+![](https://ucarecdn.com/75ce663b-ff70-4e84-b378-069cd0d091ef/)
 
 
-Unfortunately Tess’ owner passed away and she has taken it really bad. She couldn’t breathe with pure stress, her wee eyes were rolling in her head. She just wants her wee life back. Today we travelled to get her and she needed some mediation for the journey, but understandably she was still anxious about what was happening 😞
+Tess came to us in very sad circumstances after her owner passed away. She is 11 years old and was incredibly stressed having lost everything she had ever known. And she was in such a bad way she needed sedation to be transported 💔
 
 
-She is now in foster and up until now it has all been lovely rescue ladies looking after her, but her owner was a man and her fosters partner seems to be settling her which is brilliant. She ate her dinner and even gave a tail wag so we are hoping we can get her comfortable enough to be happy again 🙏🏻
+Thankfully after a few days in foster she started to come round and they learnt she is the lovliest little lady who adores snacks and human company. Tess has now completed all her medical work and has been described as her foster as the easiest dog. She enjoys her walks but lives her naps and spends most of her day snoozing beside her foster mum while she works from home 💤
+
+![](https://ucarecdn.com/625441d4-e1c3-437e-aa84-b36dfd7ddef1/)
+
+![](https://ucarecdn.com/14b5a1b5-c576-423c-b721-4db7d1fc8665/)
 
 
-Tess will be vet checked when she settles ✔️ 
+Tess seeking a quiet home where she will be the only pet and her human is home alongside her for most of the day. While she enjoys snuggles she prefers them on her own terms so she isn’t suitable to live with young children ✔️
 
 
-If you can help with our ever rising vet bills please contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420 or click our PayPal link below ⬇️
-
-
-<https://www.paypal.me/friendsofrescue>
+**Please get in touch if you would like to give Tess a spot on your sofa for the rest of her days 🏡**
