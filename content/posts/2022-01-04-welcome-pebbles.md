@@ -3,7 +3,7 @@ template: SinglePost
 title: "- Pebbles -"
 status: Published
 date: 2022-01-04
-featuredImage: https://ucarecdn.com/7fd88c69-4793-4d59-af10-74e74a23b59c/-/crop/611x571/0,51/-/preview/
+featuredImage: https://ucarecdn.com/1c4b7106-c542-4493-8ea2-96d1ea4a8721/-/crop/526x441/0,197/-/preview/
 excerpt: Pebbles
 categories:
   - category: Dogs & Puppies
