@@ -1,35 +1,24 @@
 ---
 template: SinglePost
-title: Daphne - APPLICATIONS CLOSED
+title: Daphne - ADOPTED
 status: Published
-date: 2021-12-08
+date: 2022-02-04
 featuredImage: https://ucarecdn.com/3c76f37b-a194-46e1-9089-26706a731436/-/crop/450x312/0,113/-/preview/
 excerpt: daphne
 categories:
-  - category: Cats & Kittens
+  - category: Recently Rehomed
 ---
-> *This beautiful Persian princess is Daphne and she is approx 2 years old* 
+> *Daphne our long haired lady has been adopted 🐈‍⬛*
 
-![](https://ucarecdn.com/699ea40a-9423-489a-b09e-7af6b8869dce/)
+![](https://ucarecdn.com/b51c8d66-307b-459e-8076-eea92542bce5/)
 
-![](https://ucarecdn.com/28e6416e-bd86-4f0f-9429-c3e661ddcfb0/)
+![](https://ucarecdn.com/fe88f5c6-8a9c-4856-a29a-0be9264ef017/)
 
-![](https://ucarecdn.com/347e3a42-2290-40d3-b4fb-5585bb44d2e9/)
 
-Our beautiful Persian girl is now ready for her new home after her recovery from her surgery 🐱
+Daphne came to us a few months ago, and she wasn't in the best condition. Her long hair was quite badly matted, so although she would have to wait a little longer we wanted to be sure and find her a home with breed experience to be sure she was in the best hands 🤗
 
-Daphne has been in foster with an experienced Persian cat owner and has been doing extremely well and we have got some useful information that will now help us find her perfect home 🏠
 
-Daphne's needs ⬇️
+Thankfully, the perfect home came along and Daphne now lives with fellow Persians Polly and Reggie. Daphne can be easily stressed, but with patience and love from her foster mum, Daphne was set up well for her forever home and she has been settling great since the move. She slept on the bed with her new mum on her first night and took an instant liking to her new cat tree 🌳
 
-🔸A home that she can be the only cat (indoor only) she’s very friendly with humans just not felines 
 
-🔸No dogs as it would stress her out 
-
-🔸No young children as she’s pretty quiet 
-
-🔸Definitely needs long hair feline experience, needs brushed everyday (her coat is matted, so we are working on that 😉) 
-
-Whoever rehomes Daphne will need to also keep a close on eye on her toileting as she suffers with stress induced UTI’S as well as kidney stones and although we have this issue well under control it may be something she will suffer with throughout her life ✔️
-
-**Please get in touch to offer Daphne a home 🏡**
+**We’re not sure you’ll need much of it, but wishing you the best of luck Daphne ❤️**
