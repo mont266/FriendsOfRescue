@@ -12,11 +12,14 @@ categories:
 
 ![](https://ucarecdn.com/20eed973-2ca9-4987-82c6-186472c2a90e/)
 
+This little tabby gal came into our care a few weeks ago with severe allergies that caused her to self mutilate and scratch her head until it bled 😭
 
-Lottie had been self mutilating and scratching at her own skin until it bleeds. She is a very friendly girl and clearly used to human company so it is believed she was once a pet and then dumped because of her condition 💔
+Lottie has been undergoing treatment, she has changed her diet, is getting Hibiscrub washes every other day on her wee head and now thankfully some hair is starting to grow back. She does still have a tendency to scratch when her cone comes off but when the hair thickens a bit more this should settle down. So we are definitely heading in the right direction ✔️
 
+Lotties's welcome post stated how friendly she was, suggesting she was once a loved pet which leads us to believe that she was abandoned because of her condition 🤬
 
-She has had a scratch test that has come back negative, so we believe it is likely to be  a flea allergy which is thankfully very manageable. She will be back to the vets soon for a review but in the meantime shes had a change of diet and medication and is responding very well. She has been great in foster and loves nothing more than sitting on their lap for some cuddles 🤗
+She has been so let down and lived for too long in pain and discomfort. Yet somehow she holds no grudges and is so incredibly loving. Now she has settled in foster, we can see just how affectionate she is. She purrs during her wee washes just because she loves any kind of human interaction. In fact, she is just a wee purring machine, a total lovebug and her foster said if anybody meets her she is sure to win round their heart 😍
 
+She still has a few weeks of treatment to go, but this girl deserves the world and we cannot wait to find Lottie her special person ❤️
 
-**Welcome to the family Lottie 💞**
+**Welcome to the family Lottie ❤️**
