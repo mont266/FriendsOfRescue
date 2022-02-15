@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Mango
 status: Published
 date: 2022-02-15
-featuredImage: https://ucarecdn.com/332dae42-5a3b-496a-a5c6-fa68bbe7c992/-/crop/720x502/0,109/-/preview/
+featuredImage: https://ucarecdn.com/332dae42-5a3b-496a-a5c6-fa68bbe7c992/-/crop/720x490/0,109/-/preview/
 excerpt: Mango
 categories:
   - category: Not Yet Available
