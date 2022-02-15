@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Daphne
 status: Published
 date: 2022-01-25
-featuredImage: https://ucarecdn.com/cf02163e-714d-491f-b62a-264f5ca4fa76/-/crop/1536x1443/0,328/-/preview/
+featuredImage: https://ucarecdn.com/cf02163e-714d-491f-b62a-264f5ca4fa76/-/crop/1536x1114/0,328/-/preview/
 excerpt: Daphne
 categories:
   - category: Not Yet Available
