@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Mickey
 status: Published
 date: 2022-02-14
-featuredImage: https://ucarecdn.com/8038447c-0c61-4d35-9f39-c6d06fc64ebf/-/crop/450x347/0,85/-/preview/
+featuredImage: https://ucarecdn.com/8038447c-0c61-4d35-9f39-c6d06fc64ebf/-/crop/450x236/0,85/-/preview/
 excerpt: Mickey
 categories:
   - category: Not Yet Available
