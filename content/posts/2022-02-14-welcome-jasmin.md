@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Jasmine
 status: Published
 date: 2022-02-14
-featuredImage: https://ucarecdn.com/be60b6e4-75cd-4811-9a25-faf394c749af/-/crop/526x418/0,68/-/preview/
+featuredImage: https://ucarecdn.com/be60b6e4-75cd-4811-9a25-faf394c749af/-/crop/526x300/0,68/-/preview/
 excerpt: Jasmin
 categories:
   - category: Not Yet Available
