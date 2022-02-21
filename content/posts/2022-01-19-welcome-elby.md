@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Elby -"
+title: Elby - APPLICATIONS CLOSED
 status: Published
 date: 2022-01-19
 featuredImage: https://ucarecdn.com/7db9c42b-4684-476e-a0c4-8d9db41d8377/-/crop/720x620/0,245/-/preview/
