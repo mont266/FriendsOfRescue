@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Teddy
+title: Teddy - APPLICATIONS CLOSED
 status: Published
 date: 2022-02-01
 featuredImage: https://ucarecdn.com/0835ea97-5154-405e-b704-3516c9cd9f5e/-/crop/249x142/0,92/-/preview/
