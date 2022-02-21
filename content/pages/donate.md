@@ -17,7 +17,7 @@ section2: >-
   ## PayPal Donation
 
 
-  You can donate via PayPal by clicking the below link, scanning the QR code or searching for us on PayPal using our email address : friendsofrescueni@gmail.com
+  You can donate via PayPal by clicking the below link, scanning the QR code or searching for us on PayPal using our email address : ***friendsofrescueni@gmail.com***
 
 
   <https://www.paypal.me/friendsofrescue>
