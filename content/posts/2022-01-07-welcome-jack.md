@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Jack
+title: Jack - APPLICATIONS CLOSED
 status: Published
 date: 2022-01-07
 featuredImage: https://ucarecdn.com/d5783b17-e3a4-448e-8a12-ef4746fc19fb/-/crop/1536x1393/0,44/-/preview/
