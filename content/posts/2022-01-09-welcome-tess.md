@@ -1,29 +1,27 @@
 ---
 template: SinglePost
-title: Tess - APPLICATIONS CLOSED
+title: Tess - ADOPTED
 status: Published
-date: 2022-01-09
+date: 2022-02-24
 featuredImage: https://ucarecdn.com/0bfb5cfa-f077-4396-873c-60c8637c77c5/-/crop/720x544/0,227/-/preview/
 excerpt: Tess
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *Our beautiful lady Tess is on the hunt for her forever home 🏡* 
-
-![](https://ucarecdn.com/75ce663b-ff70-4e84-b378-069cd0d091ef/)
+> *Our Little Tess has been adopted 🤗*
 
 
-Tess came to us in very sad circumstances after her owner passed away. She is 11 years old and was incredibly stressed having lost everything she had ever known. And she was in such a bad way she needed sedation to be transported 💔
 
 
-Thankfully after a few days in foster she started to come round and they learnt she is the lovliest little lady who adores snacks and human company. Tess has now completed all her medical work and has been described as her foster as the easiest dog. She enjoys her walks but lives her naps and spends most of her day snoozing beside her foster mum while she works from home 💤
+![](https://ucarecdn.com/bbbbfb7c-15a7-4125-b382-673cd4c6fd99/)
 
-![](https://ucarecdn.com/625441d4-e1c3-437e-aa84-b36dfd7ddef1/)
-
-![](https://ucarecdn.com/14b5a1b5-c576-423c-b721-4db7d1fc8665/)
+Before she came to us, all Tess ever knew was life with her and her dad. So when her dad passed away she was incredibly grief stricken and stressed 💔
 
 
-Tess seeking a quiet home where she will be the only pet and her human is home alongside her for most of the day. While she enjoys snuggles she prefers them on her own terms so she isn’t suitable to live with young children ✔️
+Once she came round and settled in foster we met the lovliest little lady who just adored human company, her grub and snoozes 😴
 
 
-**Please get in touch if you would like to give Tess a spot on your sofa for the rest of her days 🏡**
+Tess now has a new dad, and they are instantly the best of friends. She was a little unsettled to begin with as expected but overall she has just been a wee delight. Shes loving pottering about the garden with her dad and getting tucked in for her wee naps 🤗
+
+
+**Best of luck little lady with your new best friend in your new home 🏡**
