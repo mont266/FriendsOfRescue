@@ -1,34 +1,31 @@
 ---
 template: SinglePost
-title: Welcome Daphne
+title: "- Daphne -"
 status: Published
 date: 2022-01-25
 featuredImage: https://ucarecdn.com/cf02163e-714d-491f-b62a-264f5ca4fa76/-/crop/1536x1114/0,328/-/preview/
 excerpt: Daphne
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
-> *So yesterday we got in a discarded breeding pair 😡*
+> *Our bulldog lady Daphne is 4 years old and finally seeking a forever home 🏡*
 
 
 
 
-![](https://ucarecdn.com/316582ea-6ca8-42ef-a5db-503dc384126d/)
+![](https://ucarecdn.com/c1995788-ed15-4e42-97da-450a952a078f/)
 
-A 3/4 year old male and female British Bulldog. These 2 have now been separated for a much needed time out. They are no longer cash cows they are not working for their shitty keeper to make money off them. 
-Where do we even begin….
-Firstly we would like to talk about the smell of them. The journey was broken up with 2 drivers and both needed a valet after, it would have made you sick. 
-We will start with our little lady, the newly named Daphne, who is 3 years old. On meeting Daphne you hear her awful breathing, you will see her teets dragging on the ground. You will see her red inflamed skin, with dermatitis and green ooze dripping from every skin fold that has never been cleaned or treated. She has inter digital cysts all over her body (video in comments). She is also urinating blood which is likely caused by untreated UTI’S. And lastly this lady was so stressed out, so worried that the last litter of 6 babies she had she ate 3 of them. This is something that happens in extreme situations of stress and distress and a rotten puppy farm/backyard breeder is exactly that.
-This is likely why this gorgeous, sweet gentle lady has lost her job. She is no longer useful. Not bringing in enough money 😡 
+She came to us a few weeks ago after having spent her life in a cage to line peoples pockets on a puppy farm. Thankfully, that is a world she has left behind, and she has since been spayed, had a splenectomy, and her skin and sores have come on the best 🙏🏼
 
-![](https://ucarecdn.com/2f1d4e21-3075-4cbf-9857-59a91aec4d88/)
+![](https://ucarecdn.com/63a0c7a0-95e8-4a1b-8154-67ae69a63014/)
 
 
-Anyway, she is now here with us. That will be the last litter that will be ripped off her. That will be the last time a male will be forced on her and the last time she will ever be someone’s commodity.
+Daphne is a loveable squish, she loves nothing more than a good snore on the sofa, cuddles, and her beloved squeaky ball 🎾
+
+![](https://ucarecdn.com/fa04d99e-8158-4b5a-96dc-197bd2a8998d/)
 
 
-**Daphne you are now safe with us, and we will get you fixed up your happy ending isn’t far away ❤️**
+Daphne is suitable to live with other calmer dogs, kids that are dog savvy and she can also live with cats ✔️
 
 
-As always if you can help us with our ever explaining vet bills please contact our Vets4Pets Crescent Link in person or via phone on 02871314420 or click our PayPal link below ⬇️ 
-<https://www.paypal.me/friendsofrescue>
+**Please get in touch if you can offer this girl a spot on your sofa ❤️**
