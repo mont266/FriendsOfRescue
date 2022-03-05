@@ -1,32 +1,20 @@
 ---
 template: SinglePost
-title: "- Pebbles -"
+title: Pebbles - ADOPTED
 status: Published
-date: 2022-01-04
+date: 2022-03-03
 featuredImage: https://ucarecdn.com/1c4b7106-c542-4493-8ea2-96d1ea4a8721/-/crop/526x441/0,197/-/preview/
 excerpt: Pebbles
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *Our beautiful Pebbles at 11 years old is seeking her final retirement home where she can enjoy the life she should always have had ❤️*
+> *Our wee Pebbles has finally been adopted and this time it’s for keeps 🥰*
 
 
-
-![](https://ucarecdn.com/65c3f978-0b16-4c59-9b82-5311a6bed2a7/)
-
-Pebbles is a very special girl to us and when any animal is returned to rescue for whatever reason it is hard. But to be returned in a barely recognisable state is soul destroying. This won’t happen again. 
-
-![](https://ucarecdn.com/13a8435c-050c-4cfc-bd8f-1d45606ab998/)
-
-![](https://ucarecdn.com/9443f05d-2a2f-4eb1-9d39-63599c32bedd/)
-
-![](https://ucarecdn.com/6f0ab9e0-b5d5-4608-9457-553c328c4a78/)
-
-Pebbles, same as before, will be on medication for the rest of her life to keep her allergies at bay and on drops to keep her eyes well hydrated and from being damaged any further. Pebbles can’t see anything out of her left eye, but can see shapes and shadows out of her right eye although this is very very limited. This gal is no dozer, she is full of fun, confidence, love and she knows if there is a plate of chicken in front of her whether she sees it or not.
-Pebbles can live with other dog’s but we do want a peaceful home for her even though she is full of craic and loves her walks 😊
+Her lovely new family already have a little fluffer who has welcomed Pebbles in with open arms (well slightly open 😆) and Pebbles is just delighted 😃
 
 
-To chat more about Pebbles meds etc please get in touch ✔️ 
+We can’t even describe how amazing this little girl is, she was always was and she deserves this and more ❤️
 
 
-**Please get in touch if you can offer pebbles her new start ❤️**
+**Pebbles will receive FOR support for the rest of her days just because she is so special and her new family we have no doubt will make her retirement a very special one 🥰**
