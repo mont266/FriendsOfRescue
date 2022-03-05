@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Lir
+title: Lir - APPLICATIONS CLOSED
 status: Published
 date: 2022-01-17
 featuredImage: https://ucarecdn.com/69bc34ac-e123-4b5b-8448-1b93ee1f93d8/-/crop/960x534/0,0/-/preview/
