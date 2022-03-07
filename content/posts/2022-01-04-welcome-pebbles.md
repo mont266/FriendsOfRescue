@@ -3,7 +3,7 @@ template: SinglePost
 title: Pebbles - ADOPTED
 status: Published
 date: 2022-03-03
-featuredImage: https://ucarecdn.com/1c4b7106-c542-4493-8ea2-96d1ea4a8721/-/crop/526x441/0,197/-/preview/
+featuredImage: https://ucarecdn.com/1c4b7106-c542-4493-8ea2-96d1ea4a8721/-/crop/526x305/0,197/-/preview/
 excerpt: Pebbles
 categories:
   - category: Recently Rehomed
