@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Jacky
 status: Published
 date: 2022-03-05
-featuredImage: https://ucarecdn.com/18884929-8a9a-4a58-8342-41b48ee6d6c6/-/crop/370x417/0,108/-/preview/
+featuredImage: https://ucarecdn.com/18884929-8a9a-4a58-8342-41b48ee6d6c6/-/crop/370x273/0,108/-/preview/
 excerpt: Jacky
 categories:
   - category: Not Yet Available
