@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Jasmine
+title: Jasmine - APPLICATIONS CLOSED
 status: Published
 date: 2022-02-14
 featuredImage: https://ucarecdn.com/be60b6e4-75cd-4811-9a25-faf394c749af/-/crop/526x300/0,68/-/preview/
