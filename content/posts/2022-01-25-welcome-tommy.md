@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Tommy -"
+title: Tommy - APPLICATIONS CLOSED
 status: Published
 date: 2022-01-25
 featuredImage: https://ucarecdn.com/3a7c364c-e1c8-4e30-91d3-9e442aec0cae/-/crop/526x470/0,41/-/preview/
