@@ -1,47 +1,34 @@
 ---
 template: SinglePost
-title: Welcome Mango
+title: "- Mango -"
 status: Published
 date: 2022-02-15
-featuredImage: https://ucarecdn.com/332dae42-5a3b-496a-a5c6-fa68bbe7c992/-/crop/720x490/0,109/-/preview/
+featuredImage: https://ucarecdn.com/42f25dd6-be55-4797-bd85-3e6714d7cf21/-/crop/961x744/0,92/-/preview/
 excerpt: Mango
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
-> *💔💔💔💔💔💔*
->
-> *We feel like a broken record “our bills are sky high”, “we’re bursting at the seams” but there are some animals that really, really need us and we can’t say no….*
+> *Our wee man is finally ready for the next leg of his journey 🥰*
 
 
 
 
-![](https://ucarecdn.com/3283bf2c-db20-49c2-b18e-fcb0d1a04bd9/)
+![](https://ucarecdn.com/114a1247-96f6-4cb5-ad9a-0f9bbf1e6e86/)
 
-![](https://ucarecdn.com/c1fa75f7-55b7-4a29-8d17-c05fcdeb8ccc/)
+When Mango was found he was so emaciated, in such a poor physical and mental state we just didn’t see how we were gonna get him to this point but with the help of his amazing foster family here we are ❤️
 
-Yesterday we received a call from someone saying they had found a pup in awful condition, dumped in the middle of nowhere. He was emaciated, filthy, and just a sad, sorry looking sight. He was a lost soul looking for someone to help him 😞
-
-![](https://ucarecdn.com/78816833-8561-48a8-8abb-a577012ff602/)
+![](https://ucarecdn.com/e34b961b-3e09-419e-93ff-f72056d34764/)
 
 
-So of course we had him taken straight to our vets. Upon arrival both ourselves and our vets were in shock. It’s not often our vets use the word ‘skeletal’ so that gives you some indication of just how thin and malnourished this poor boy is. What appeared to be a 4-5 month old pup is actually a 2-4 year old adult with a full set of well used adult teeth.
-He weighs the same as a pup of 4-5 months, his head and body have all fallen in because of lack of muscle mass due to his poor diet. His ears and face have next to no hair on them at all. He had maggots, lice and fleas all over his his wee body. So first things first was to get rid of that coat, he had to be sedated as the coat was so heavy. It had been dragging his skin and causing it to break and bruise 🥺
+Something a little different for his appeal, written by his fosters. The people that know him best 👇🏻 
 
 
-Once shaved, his poor wee body told the story of how he had been living and it's soul destroying. Such a sweet gentle boy and so trusting, it’s heartbreaking. He was just waiting on the right person and we are so glad someone cared enough to stop by him 🙏🏻
+Everyone needs a Mango in their life at some point....forgiving, gentle, loves connection and a good belly rub...he's good for the soul 🥰 Mango has come a long way! He loves children and other dogs. I cant imagine him ever being cross. He cries after other dogs when out a walk....especially if their kind to him and up for a play about. He's never been around cats so unsure about this. In true Collie style he's fun and energetic, loves his squeaky ball. He'll even play away by himself in the garden with it. He's content on his own but prefers company. Despite being full of energy, he loves cuddles at night and winding down with his humans. Mango sleeps all night and is fully house trained, loves his home comforts, and is definitely not a street dog anymore 🙌🙌 despite how far he has come he still needs support and someone with patience to understand his journey. He's comfortable with most house noises now but can still be very easily freaked and needs a lot of reassurance at times.  Mango can be very puppy like and still needs more training. He's bouncy, daft as a brush, so playful, and extremely affectionate, would let you pet him all day, and is basically a big ball of fluff (after a bath). You just canny help but fall in love with this wee man 🥰
 
-![](https://ucarecdn.com/ce19a838-5f4c-4268-8ac7-ddfff11b975d/)
-
-![](https://ucarecdn.com/d8b38c67-b178-474d-98f1-3f6eee9e8375/)
+![](https://ucarecdn.com/847881f0-92af-423a-a435-7f45ee2aaddb/)
 
 
-This little man has been named Mango by our vets, as that was the fragrance of nice shampoo they used to wash that old life away. 
+Now with the boring but essential stuff. His foster said that if Mango is being walked he needs to be kept on the lead. His collie instinct is strong and he does try to run after cars so will need some time and training with this. This does make it more challenging when out walks!! He also loves a good wee chew ....like all dogs if they get bored!! We would love to find him a home with another gentle dog, he really loves them (although with human company at home this isn’t essential) ✔️ 
 
 
-**So this is your brand new beginning Mango, you are so very welcome. This is where you can forget all the old bad stuff, forget it ever happened and it’s all up from here ❤️**
-
-
-As always we are asking for anyone who can spare, even £1, to donate to our ever expanding vet costs to help animals like Mango. If you can help please contact out vets [Vets4Pets Crescent Link](https://www.facebook.com/Vets4PetsCrescentLink/) in person or via phone on 02871314420 or click our PayPal link below ⬇️
-
-
-<https://www.paypal.me/friendsofrescue>
+**Please get in touch to offer mango his new start ❤️**
