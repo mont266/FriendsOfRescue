@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Polly - "
+title: Polly - APPLICATIONS CLOSED
 status: Published
 date: 2022-01-17
 featuredImage: https://ucarecdn.com/75d6a02d-9aaa-4b81-8de6-426370649886/-/crop/320x160/286,95/-/preview/
