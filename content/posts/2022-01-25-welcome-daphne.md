@@ -1,31 +1,27 @@
 ---
 template: SinglePost
-title: Daphne - APPLICATIONS CLOSED
+title: Daphne - ADOPTED
 status: Published
-date: 2022-01-25
+date: 2022-03-17
 featuredImage: https://ucarecdn.com/cf02163e-714d-491f-b62a-264f5ca4fa76/-/crop/1536x1114/0,328/-/preview/
 excerpt: Daphne
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *Our bulldog lady Daphne is 4 years old and finally seeking a forever home 🏡*
+> *Our Daphne is home ❤️*
+
+![](https://ucarecdn.com/0d63ed82-69ba-4a29-8148-f19be9b96445/)
 
 
+This gal is a bloody cracker, best wee lady and an allrounder. Her new family are in love with her already 🥰
 
 
-![](https://ucarecdn.com/c1995788-ed15-4e42-97da-450a952a078f/)
+Her very experienced new home are British bulldog owners so understand the health concerns and everything there is to know about bulldogs including how lovable and great they are. Daphne now has 2 bully siblings but of course she is alpha and that works out for everyone 😉
 
-She came to us a few weeks ago after having spent her life in a cage to line peoples pockets on a puppy farm. Thankfully, that is a world she has left behind, and she has since been spayed, had a splenectomy, and her skin and sores have come on the best 🙏🏼
-
-![](https://ucarecdn.com/63a0c7a0-95e8-4a1b-8154-67ae69a63014/)
+![](https://ucarecdn.com/4b8af46c-1e9d-4c9f-9321-e5bd66237577/)
 
 
-Daphne is a loveable squish, she loves nothing more than a good snore on the sofa, cuddles, and her beloved squeaky ball 🎾
-
-![](https://ucarecdn.com/fa04d99e-8158-4b5a-96dc-197bd2a8998d/)
+We have no doubt Daphne will miss her foster brother Jake even if they didn't start out as friends 😅 but stay tuned for a tear jerker later this evening 😥
 
 
-Daphne is suitable to live with other calmer dogs, kids that are dog savvy and she can also live with cats ✔️
-
-
-**Please get in touch if you can offer this girl a spot on your sofa ❤️**
+**Best of luck Daffers, it was a total pleasure ❤️**
