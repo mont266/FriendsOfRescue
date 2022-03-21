@@ -6,7 +6,7 @@ date: 2022-03-11
 featuredImage: https://ucarecdn.com/ec3dae9e-e8a7-4fad-b942-4d49cac9eed2/-/crop/720x552/0,328/-/preview/
 excerpt: Obi
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 > *We could count on just two hands how many returns we have had with our animals, and we pride ourselves in choosing the perfect home and fit for our babies, but sometimes it just isn’t to be 💔*
 
