@@ -6,7 +6,7 @@ date: 2022-03-11
 featuredImage: https://ucarecdn.com/c2cfbfeb-60a3-4d76-84e5-c9f12e8d0213/-/crop/843x641/0,78/-/preview/
 excerpt: Marshall
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 > *This handsome breeze block is Marshall and he is an approx 2/3 year old staffie 🥰*
 
