@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Stella
+title: Stella - APPLICATIONS CLOSED
 status: Published
 date: 2021-11-30
 featuredImage: https://ucarecdn.com/065997fe-6a8d-4d90-a7d7-2edab997cfab/-/crop/720x559/0,147/-/preview/
