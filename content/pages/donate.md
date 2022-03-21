@@ -28,30 +28,6 @@ section3: >-
   ## Using a Debit Card[](https://gofund.me/97060dda)
 
 
-  #### Via bank transfer link
-
-
-  Click the following link and enter the amount you wish to donate, it will be deposited directly into our bank account.
-
-
-  [Donate here](https://monzo.me/suzannefleming6/1.00?d=Friends%20of%20Rescue%20Donation)
-
-
-  Or click one the the quick links below
-
-
-  [Donate £5](https://monzo.me/suzannefleming6/5.00?d=Friends%20of%20Rescue%20Donation)
-
-
-  [Donate £10](https://monzo.me/suzannefleming6/10.00?d=Friends%20of%20Rescue%20donation)
-
-
-  [Donate £15](https://monzo.me/suzannefleming6/15.00?d=Friends%20of%20Rescue%20Donation)
-
-
-  [Donate £20](https://monzo.me/suzannefleming6/20.00?d=Friends%20of%20Rescue%20Donation)
-
-
   #### Directly to our Vet
 
 
@@ -67,9 +43,6 @@ section4: >-
 
 
   ### **[Longer Term Fosters](https://gofund.me/22d6b0d3)**
-
-
-  ### **[Pebbles Fundraiser](https://gofund.me/e0134fce)**
 meta:
   description: Different ways you can donate to our organisation
   title: Donate
