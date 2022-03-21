@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Lucy - APPLICATIONS CLOSED
+title: "- Lucy -"
 status: Published
 date: 2022-03-11
 featuredImage: https://ucarecdn.com/574ae81a-3a5b-469f-93ab-97b15f0eab7a/-/crop/717x455/0,227/-/preview/
