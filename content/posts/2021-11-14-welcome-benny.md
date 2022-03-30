@@ -1,29 +1,32 @@
 ---
 template: SinglePost
-title: Welcome Benny
+title: "- Benny -"
 status: Published
 date: 2021-11-14
 featuredImage: https://ucarecdn.com/2ba54ef7-c5a2-4ee5-8ac0-eb8b3eb0df68/-/crop/671x463/0,141/-/preview/
 excerpt: benny
 categories:
-  - category: Not yet available
+  - category: Dogs & Puppies
 ---
-* ### **Not yet ready for rehoming**
+> *After months and months of treatment our wee Benny is finally ready for the next leg of his journey ☺️*
 
-> This wee cloud is Benny and he is a 9 year old Bichon 
+![](https://ucarecdn.com/8da9c0bb-7a05-41bf-be6c-3ae491a4fe52/)
 
-![](https://ucarecdn.com/ef8d891e-59f5-468f-81b5-f0b2112e046a/)
+Benny is an elderly bichon frise at 11/12 years old. Until rescue he had been living outdoors/garage so has been learning about indoor comforts. He loves to watch the world go by from the back of a sofa at a window 🧐 
 
 
-Little Benny has awful red sore skin, as well as being very bloated so we are doing a wee bit of investigating 😞
 
-Benny's family told us that he always got the best of food (never any scraps from the table) as he always had sensitive skin so please be mindful of your comments as it was difficult for the family to surrender Benny to us. 
-Thankfully once we confirm the issue there is lots of medication that allows him to live a healthy normal life once the correct dosage is established ✔️ 
 
-Little Benny just adores his foster mum and furry foster brother Beau. We are hoping for the best for this man because he is such a sweet wee pooch 🐾
+![](https://ucarecdn.com/a3bbe0bb-22f4-4749-84ec-1a5d5794eab7/)
 
-Welcome Benny ❤️
+Like many of us older folk Benny is overweight, arthritic, sometimes grumpy and has sensitive skin issues. He is on life long meds to relieve his health problems and his grumpiness isn’t just as bad now he’s feeling much better. However he will settle best in a quiet dog free home or possibly with another senior dog and a human companion who is around a lot. Benny isn’t a lap dog but does need to know where his human is. He just adores a good old ear scratch and head rub while looking up with those expressive eyes 😍
 
-![](https://ucarecdn.com/45cbd85b-8ff7-433b-9554-4e80108bebf6/)
 
-If you would like to help with the cost of Benny's ongoing care, visit our **[Donate](https://www.friendsofrescueni.com/donate/)** page to see all the ways you can help
+
+
+![](https://ucarecdn.com/c94acd78-3f30-44be-93c8-73f05fe85254/)
+
+He's a very happy boy for all his pain, he loves his short, frequent walks and responds well to praise. However he could and would eat for Ireland meaning diet is important. He likes vegetables and is fed them in his dinner and as treats 🥕 Benny has been fine with people of all ages but has displayed intolerance to young playful dogs who perhaps bounced too close to his weary bones. He walks with a limp but is more agile than would be expected with so many sore joints. Benny deserves to be spoiled and loved for the rest of his twilight years 🐶
+
+ 
+**Please get in touch If you feel you could offer Benny his retirement home 🏠**
