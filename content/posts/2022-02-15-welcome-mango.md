@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Mango -"
+title: Mango - APPLICATIONS CLOSED
 status: Published
 date: 2022-02-15
 featuredImage: https://ucarecdn.com/42f25dd6-be55-4797-bd85-3e6714d7cf21/-/crop/961x744/0,92/-/preview/
