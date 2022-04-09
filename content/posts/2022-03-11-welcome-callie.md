@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Callie -"
+title: Callie - APPLICATIONS CLOSED
 status: Published
 date: 2022-03-11
 featuredImage: https://ucarecdn.com/1c9850d1-aa11-47e6-ba14-ed3876afa9db/-/crop/720x667/0,113/-/preview/
