@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Mabel
+title: "- Mabel -"
 status: Published
 date: 2022-03-30
 featuredImage: https://ucarecdn.com/c103cdcc-a1d0-403c-bb42-5d5eeafdadb5/-/crop/1186x632/0,352/-/preview/
