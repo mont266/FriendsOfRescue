@@ -1,31 +1,25 @@
 ---
 template: SinglePost
-title: Welcome Bruce
+title: Bruce - APPLICATIONS CLOSED
 status: Published
-date: 2022-04-20
+date: 2022-04-22
 featuredImage: https://ucarecdn.com/337ce7a0-b5a4-46ab-8bba-5622892ff8af/-/crop/372x218/0,0/-/preview/
 excerpt: Bruce
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 > *This beautiful fella is Bruce and he is a 17 month old cocker 😍*
 
-
-
-
 ![](https://ucarecdn.com/3baf004f-f1c9-4051-8382-5dc3931cfc01/)
 
-Bruce was surrendered to us due to having arguments with the resident dog in the home. Both male, both unneutered due to veterinary advice and unfortunately neither dog were happy, so the family made the call to let Bruce go and we feel this was the right call.
-Bruce has settled brilliantly into foster. He is great boy with a lovely temperament and handled his neutering procedure like a champ 😉
+Bruce arrived with us after constant bickering between him and another dog in the home.
 
 
-Bruce will be available for rehoming when his assessment period is over ✔️
+Bruce has been amazing with us which his original family did tell us so we aren’t surprised. He's quite easy going for a cocker man and has plenty of manners. 
+Bruce is fine with other dogs but he prefers to live as an only dog. Bruce is fine with kids (dog savvy) but does need company through the day so no long working hours 😊
 
 
-**Welcome Bruce ❤️**
+Bruce has been neutered and all outstanding medical work completed and now ready for his new start ✔️ 
 
 
-To help Bruce and our ever rising vet cost please contact our vets in person or via phone on 02871314420 or click our PayPal link below ⬇️ 
-
-
-https://www.paypal.me/friendsofrescue
+Please get in touch to apply for Bruce 🐕
