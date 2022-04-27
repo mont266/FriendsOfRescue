@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: " Lola - APPLICATIONS CLOSED"
+title: Lola - APPLICATIONS CLOSED
 status: Published
 date: 2022-04-06
 featuredImage: https://ucarecdn.com/7257927e-29d8-48b2-88ac-9839a3243ee0/-/crop/720x691/0,80/-/preview/
