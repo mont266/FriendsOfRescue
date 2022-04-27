@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Domino -"
+title: Domino - APPLICATIONS CLOSED
 status: Published
 date: 2022-02-21
 featuredImage: https://ucarecdn.com/f5ec2a13-9fe1-4284-9889-a38378307dd0/-/crop/720x572/0,91/-/preview/
