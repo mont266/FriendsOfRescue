@@ -1,31 +1,27 @@
 ---
 template: SinglePost
-title: Welcome Lola
+title: " Lola - APPLICATIONS CLOSED"
 status: Published
 date: 2022-04-06
 featuredImage: https://ucarecdn.com/7257927e-29d8-48b2-88ac-9839a3243ee0/-/crop/720x691/0,80/-/preview/
 excerpt: Lola
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
-> ***This lovely wee girl is Lola and she is a 3 year old Frenchie 😍***
-
-
-
+> ***This lovely wee girl is Lola and she is a wee Frenchie 😍***
 
 ![](https://ucarecdn.com/cf9aebeb-c83c-44f8-af18-ea83fa3ee344/)
 
-Lola was surrendered to us yesterday and has been settling brilliantly into foster. 
-She is a very sweet little girl who just loves company of people and is also doing well with foster's doggy 🐶
+Our cute little 2 year old Frenchie lady Lola is now ready for her new home 🏡 
 
 
-We are letting this little love settle and next week she will be vet checked and any outstanding vet work will be done ✔️ 
+Lola has been the most perfect little girl in foster. She loves carrying on with her foster brother Beau and generally loves a bit of craic but also stacks of cuddles 🥰 
 
 
-**Welcome to the family sweetie ❤️**
+This wee dote will be a great addition to one very lucky family ❤️
 
 
-To help with our ever rising vet bills please contact our vets [Vets4Pets Crescent](https://www.facebook.com/Vets4PetsCrescentLink/) Link in person or via phone 02871314420 or click our PayPal link below ⬇️ 
+Lola can live with kids 8+ and other dogs ✔️ 
 
 
-<https://www.paypal.me/friendsofrescue>
+Please get in touch to offer Lola her new home 🏡
