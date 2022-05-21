@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Bambi and Beau -"
+title: Bambi and Beau - APPLICATIONS CLOSED
 status: Published
 date: 2022-04-09
 featuredImage: https://ucarecdn.com/978f42e1-e452-496f-851f-b9fdef9a4360/-/crop/596x484/0,133/-/preview/
