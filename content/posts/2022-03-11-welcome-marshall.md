@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Marshall -"
+title: Marshall  - APPLICATIONS CLOSED
 status: Published
 date: 2022-03-11
 featuredImage: https://ucarecdn.com/c2cfbfeb-60a3-4d76-84e5-c9f12e8d0213/-/crop/843x641/0,78/-/preview/
