@@ -8,4 +8,13 @@ excerpt: Jack
 categories:
   - category: Recently Rehomed
 ---
-> *This little guy is Jack and he is a 2 year old JRT who is in awful shape bless him 😞*
+> *Our wee Jack the JRT has been adopted 🤗*
+
+
+Jack came to us a few months ago as a case of accidental neglect. His nails were curled and his skin was red raw. He was on meds but sadly for this wee man it was way out of control 😭
+
+
+Jack went to an experienced JRT foster and fitted in like a glove with the furry residents. After a change of meds, which he’ll be on for life, and regular medicated baths this boy came on leaps and bounds and nobody needed to tell us he was already home 🏡
+
+
+**He has even taken up the fostering himself with our wee old man Jacky. You couldn’t be in a better place Jack, wishing you all the luck that you’ll never need ❤️**
