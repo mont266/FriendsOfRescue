@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Welcome Bear - "
+title: Welcome Bear
 status: Published
 date: 2022-05-22
 featuredImage: https://ucarecdn.com/3eedb1d6-bb8d-434d-96cf-a8965e66f848/-/crop/453x318/0,116/-/preview/
