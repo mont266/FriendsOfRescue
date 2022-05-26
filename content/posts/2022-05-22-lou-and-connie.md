@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Lou and Connie -"
+title: Lou and Connie - APPLICATIONS CLOSED
 status: Published
 date: 2022-05-22
 featuredImage: https://ucarecdn.com/16780487-a964-4b22-898c-8e6ea36fb4a4/-/crop/401x295/0,69/-/preview/
