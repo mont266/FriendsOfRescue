@@ -1,12 +1,12 @@
 ---
 template: SinglePost
-title: Welcome Wilma
+title: Wilma - APPLICATIONS CLOSED
 status: Published
 date: 2022-04-27
 featuredImage: https://ucarecdn.com/4bc12846-3fee-40c9-a136-10a45ec4b60c/-/crop/526x411/0,0/-/preview/
 excerpt: Wilma
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 > *This little golden oldie is Wilma and she is 14 years young (her chip is 14 years old and last registered when she was sold 12 years ago) 🥺*
 
