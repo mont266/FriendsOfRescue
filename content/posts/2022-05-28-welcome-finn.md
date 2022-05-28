@@ -8,7 +8,7 @@ excerpt: Finn
 categories:
   - category: Not Yet Available
 ---
-This pretty boy is Finn and he is a 2 and a half year old Saluki 🥰
+> This pretty boy is Finn and he is a 2 and a half year old Saluki 🥰
 
 Finn was a little confused when he first arrived but he is a chilled out, easy going guy and has settled well 💙
 
