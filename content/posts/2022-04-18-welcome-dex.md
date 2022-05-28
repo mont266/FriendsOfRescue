@@ -1,27 +1,23 @@
 ---
 template: SinglePost
-title: Welcome Dex
+title: Dex - ADOPTED
 status: Published
-date: 2022-04-18
-featuredImage: https://ucarecdn.com/1e193d3a-dc52-4c6a-b806-59b778fd43cf/-/crop/531x336/0,88/-/preview/
+date: 2022-05-04
+featuredImage: https://ucarecdn.com/b500ef49-5107-433f-a291-cfdba587a84f/-/crop/444x392/0,107/-/preview/
 excerpt: Dex
 categories:
-  - category: Not Yet Available
+  - category: Recently Rehomed
 ---
-> *This handsome boy is DEX and he is a 7 month old labradoodle 😍*
+Our big doodle noodle Dex has been adopted 🥰
 
+Dex is only 8 months old, he is a child
 
+ in a man's body and he is the daftest, most playful and most lovable big melon you can find. His new mum says she needs eyes on the back of her head because he is actually wired to the moon🌛
 
+Dex went into foster with our golden mum Daisy. Daisy is a gentle gal who was never very forthcoming with other dogs, but despite being chalk and cheese on paper, these two just work. They are the dream pairing and bring the best out of each other and so that was that. He was going nowhere 💙
 
-![](https://ucarecdn.com/82d23f4b-8449-4aa7-a9f4-0ab97aae11e3/)
+Dex and Daisy spend their days horsing about the garden, knackering themselves and then curling up for snoozes together on the sofa. And they're off this weekend with their amazing mum, dad and human siblings for their first family holiday to the beach 🏖
 
-Dex is a typical big puppy who just loves a good carry on. Such a lovely temperament and is having a great time getting to know his furry foster sister Daisy 🐶
+We are so happy for you Dex, you found yourself the most perfect home 🏡
 
-![](https://ucarecdn.com/f73d3f30-bf55-4078-9cb6-50a1dff24e7c/)
-
-
-Dex was neutered and all outstanding medical work completed. 
-Dex will be available for rehoming after his assessment period is complete ✔️ 
-
-
-**Welcome Dex ❤️**
+![](https://ucarecdn.com/bfef5fe3-1bd4-48d7-9b6f-a7fa7283a018/)
