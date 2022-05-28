@@ -17,10 +17,16 @@ section2: >-
   ## PayPal Donation
 
 
-  You can donate via PayPal by clicking the below link, scanning the QR code or searching for us on PayPal using our email address : ***friendsofrescueni@gmail.com***
+  You can donate via PayPal by 
 
 
-  <https://www.paypal.me/friendsofrescue>
+  * Clicking the following link: [PayPal Donation](<https://www.paypal.me/friendsofrescue>) 
+
+  * scanning the QR code below
+
+  * searching for us on PayPal using our email address : ***friendsofrescueni@gmail.com***
+
+
 
 
   ![](https://ucarecdn.com/6de5c5dd-1758-446b-8c0d-7515a9cbe9db/)
@@ -31,7 +37,7 @@ section3: >-
   #### Directly to our Vet
 
 
-  You can donate directly to our vet: ***Vets4Pets - Crescent Link***, in person or via phone **028 7131 4420**
+  You can donate directly to our vet: ***[Vets4Pets - Crescent Link](https://www.facebook.com/Vets4PetsCrescentLink)***, in person or via phone **028 7131 4420**
 section4: >-
   ## GoFundMe Fundraisers
 
