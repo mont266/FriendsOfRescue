@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Finn
 status: Published
 date: 2022-05-28
-featuredImage: https://ucarecdn.com/a1b9f906-4ffe-43e0-a6a0-57301f109270/
+featuredImage: https://ucarecdn.com/a1b9f906-4ffe-43e0-a6a0-57301f109270/-/crop/2015x1100/294,0/-/preview/
 excerpt: Finn
 categories:
   - category: Not Yet Available
