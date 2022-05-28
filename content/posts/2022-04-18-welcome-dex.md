@@ -10,9 +10,7 @@ categories:
 ---
 Our big doodle noodle Dex has been adopted 🥰
 
-Dex is only 8 months old, he is a child
-
- in a man's body and he is the daftest, most playful and most lovable big melon you can find. His new mum says she needs eyes on the back of her head because he is actually wired to the moon🌛
+Dex is only 8 months old, he is a child in a man's body and he is the daftest, most playful and most lovable big melon you can find. His new mum says she needs eyes on the back of her head because he is actually wired to the moon🌛
 
 Dex went into foster with our golden mum Daisy. Daisy is a gentle gal who was never very forthcoming with other dogs, but despite being chalk and cheese on paper, these two just work. They are the dream pairing and bring the best out of each other and so that was that. He was going nowhere 💙
 
