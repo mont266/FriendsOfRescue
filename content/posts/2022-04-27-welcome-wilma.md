@@ -1,24 +1,19 @@
 ---
 template: SinglePost
-title: Wilma - APPLICATIONS CLOSED
+title: Wilma - ADOPTED
 status: Published
-date: 2022-04-27
+date: 2022-05-29
 featuredImage: https://ucarecdn.com/4bc12846-3fee-40c9-a136-10a45ec4b60c/-/crop/526x411/0,0/-/preview/
 excerpt: Wilma
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *This little golden oldie is Wilma and she is 14 years young (her chip is 14 years old and last registered when she was sold 12 years ago) 🥺*
+> *Our little golden oldie Wilma the JRT has been adopted 💗*
 
+This wee woman found herself homeless at 14 years old which just broke our heart. But as soon as she was in foster she instantly settled and soaked up the home comforts and cuddles with her foster mum. It was clear early on she was going nowhere 🏡
 
+Wilma, now called Suzi, lives with her new mum and fur sister Pepper. She has a new lease of life, her energy levels are improving and shes just been given a new lease of life. She is loving her walks, playing with her toys, watching the TV and so happy just being loved 🥰
 
+Best of luck lovely lady, you’re never to old to find a happy ending ❤️
 
-![](https://ucarecdn.com/9da03d9e-3532-4094-b459-bfbd53741f5d/)
-
-Wilma found herself as an unclaimed stray which at her age just breaks our heart that she found herself homeless. She has been settling into foster the best, shes a massive fan of cuddles, snoozes under the blanket and is just so grateful to be there and have home comforts 🏡
-
-
-Wilma will need some bloods, a wee dental and an xray on her back legs that are slightly bowed. These will be done next week before we find a nice warm spot on someone’s sofa for her to retire on ✔️
-
-
-**Welcome to the FOR family Wilma ❤️**
+![](https://ucarecdn.com/e80d6348-bd2e-4b75-8d25-b76d20aa6546/)
