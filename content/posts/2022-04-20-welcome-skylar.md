@@ -18,6 +18,6 @@ Skylar is an incredibly gentle wee soul. Her confidence is growing all the time,
 
 ![](https://ucarecdn.com/0e4da4ec-baa5-4db1-b6a8-e0627587e57a/)
 
-Skylar needs a quiet and relaxed home with no young children. She is very docile and chilled, so she can happily be the only pet or she could also live with a similarly natured calm dog ✔️\
-\
+Skylar needs a quiet and relaxed home with no young children. She is very docile and chilled, so she can happily be the only pet or she could also live with a similarly natured calm dog ✔️
+
 ***Please get in touch if you can offer Skylar a cosy spot on your sofa ❤️***
