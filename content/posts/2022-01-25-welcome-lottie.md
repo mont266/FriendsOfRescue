@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Lottie
 status: Published
 date: 2022-01-25
-featuredImage: https://ucarecdn.com/21934e6b-978b-4d6f-afa2-ba38fb80618e/-/crop/450x337/0,161/-/preview/
+featuredImage: https://ucarecdn.com/5f8032a7-6cba-4c07-b23a-50548532bef0/-/crop/1097x1712/0,0/-/preview/
 excerpt: Lottie
 categories:
   - category: Not Yet Available
