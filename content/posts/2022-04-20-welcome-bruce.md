@@ -1,25 +1,19 @@
 ---
 template: SinglePost
-title: Bruce - APPLICATIONS CLOSED
+title: Bruce - ADOPTED
 status: Published
-date: 2022-04-22
+date: 2022-05-25
 featuredImage: https://ucarecdn.com/337ce7a0-b5a4-46ab-8bba-5622892ff8af/-/crop/372x218/0,0/-/preview/
 excerpt: Bruce
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *This beautiful fella is Bruce and he is a 17 month old cocker 😍*
+> *Bruce our super popular cocker man has been adopte*d 🥰
 
-![](https://ucarecdn.com/3baf004f-f1c9-4051-8382-5dc3931cfc01/)
+Cocker spaniels are one of the breeds where we have to clear our schedules for when their appeal goes up. They are so popular that there is never a shortage of home offers. But as always its about finding the right one for the dog in question, and it turns out that for Bruce, we didn’t have to look too far 🏡
 
-Bruce arrived with us after constant bickering between him and another dog in the home.
+Bruce, now called Buster, instantly thrived with his new family. They couldn’t say a bad thing about him and the feeling was mutual. He spent his evenings having sofa snuggles with his mum and we’re sure there will be plenty more of those to come 🤗
 
+You won’t really need it, but best of luck in your new forever wee man ❤️
 
-Bruce has been amazing with us which his original family did tell us so we aren’t surprised. He's quite easy going for a cocker man and has plenty of manners. 
-Bruce is fine with other dogs but he prefers to live as an only dog. Bruce is fine with kids (dog savvy) but does need company through the day so no long working hours 😊
-
-
-Bruce has been neutered and all outstanding medical work completed and now ready for his new start ✔️ 
-
-
-Please get in touch to apply for Bruce 🐕
+![](https://ucarecdn.com/4aa6847b-8369-4e72-be6c-28cb1c6640d8/)
