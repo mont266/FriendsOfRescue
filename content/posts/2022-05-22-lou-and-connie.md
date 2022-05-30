@@ -8,7 +8,7 @@ excerpt: Lou and Connie
 categories:
   - category: Recently Rehomed
 ---
-> *Lou & Connie are two little deaf puppies have both been adopted 💗*
+> *Lou & Connie our two little deaf puppies have both been adopted 💗*
 
 Lou now lives with collie brother Blu, they love a bit of tug of war, zoomies and digging holes in the garden like the two wee rips they are, but that hasnt stopped her new family being absolutely smitten with her 🥰
 
