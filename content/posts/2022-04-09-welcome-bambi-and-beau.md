@@ -1,25 +1,21 @@
 ---
 template: SinglePost
-title: Bambi and Beau - APPLICATIONS CLOSED
+title: Bambi and Beau - ADOPTED
 status: Published
-date: 2022-04-09
+date: 2022-05-15
 featuredImage: https://ucarecdn.com/978f42e1-e452-496f-851f-b9fdef9a4360/-/crop/596x484/0,133/-/preview/
 excerpt: Bambi and Beau
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *Our wee chihuahua duo are now ready for their new home 🏠*
+> *Our mother and daughter duo Bambi and Beau have found their forever home* ❤️
 
-![](https://ucarecdn.com/b1a97bbd-7b1c-46d9-9ed3-c45a7aa53138/)
+![](https://ucarecdn.com/afe98e8a-a08f-48a5-a778-86463870815f/)
 
-Bambi and Beau are a mother daughter duo who are 2 completely amazing little dogs. They love snuggles, walks, craic, kids and other animals they are ready made family doggos ❤️
+When dogs come in pairs it often takes a little longer for them to be rehomed, but for these two it was so worth the wait 💗
 
-![](https://ucarecdn.com/56b4793d-ba17-440e-9414-5eeef9b373aa/)
+Bambi and Beau now live with their new mum and dad and human sisters and they are thriving. They instantly settled into their new routine when they moved, and have been enjoying runs about the garden, a bit of training, playtime with their siblings and of course an abundance of snuggles 🤗
 
-![](https://ucarecdn.com/390f876f-44da-4bc1-9d45-6ce6db5569fa/)
-These girls are bonded so will be looking for a home together. They have both been spayed, vaccinated, chipped and all medical work completed ✔️ 
+![](https://ucarecdn.com/8a2b9b21-3310-4718-8610-03d7332c5509/)
 
-No long working hours ❌
-
-
-**Please get in touch if you can offer them both a home 🏡**
+> *Good luck ladies, so happy you found your perfect home 🏡*
