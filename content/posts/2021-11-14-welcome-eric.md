@@ -1,39 +1,23 @@
 ---
 template: SinglePost
-title: Welcome Eric
+title: Eric - ADOPTED
 status: Published
-date: 2021-11-14
+date: 2022-05-17
 featuredImage: https://ucarecdn.com/63a1ca65-a4de-40ad-9e80-189f633b1135/
 excerpt: eric
 categories:
-  - category: Not yet available
+  - category: Recently Rehomed
 ---
-* ### **Not yet ready for rehoming**
+> *Our long term patient and handsome Bull Terrier Eric has been adopted 💙*
 
-> *Our handsome man Eric arrived with us 3 months ago ❤️*
+Eric came to us with severe skin problems, he went to foster and we began the long journey to get it under control. Finally he was signed off from our vets with a plan for future management and it was time to find Eric his new home 🏡
 
+![](https://ucarecdn.com/bf786791-43a7-4cb1-aff3-1e6c20b07a2a/)
 
-He was in horrendous condition, his skin was green with infection. He was covered in lumps and severely uncomfortable. It was heartbreaking 💔
+But it didnt take much searching. Eric had been on such a journey with his dedicated foster family with constant vet visits, baths, adjusting food and medications that it was inevitable they would build quite a bond 🔗
 
+![](https://ucarecdn.com/bc95c789-4e32-4539-ba5a-3e94a64d9691/)
 
-Thankfully we bagged him an EBT home with lots of experience. They’ve their own EBT Mitch who was rescued in a similar state, so they were well versed in the recovery involved 😃
+Eric wouldnt be where he is without them, and importantly he wouldnt want to be anywhere else. They had fallen in love months ago so there was never any chance this boy was leaving, and we couldn’t be happier for all of them 🥰
 
-
-Eric is still getting treatment but he has come on so well, so well that we are expecting him to be signed off this week 🤞🏻 
-
-
-We know Eric will always need help with his skin as it had gotten so bad but it can be managed quite easily with the treatment he has been receiving. Whoever his new family turn out to be will be made aware of this ✔️ 
-
-
-Below are a few before and after pictures and we want to say a huge thank you to his foster family who have been extremely dedicated and thorough to his care and well being 👏🏻
-
-![](https://ucarecdn.com/784e4567-8bb2-4116-9dc1-f9daf5d425fd/)
-
-![](https://ucarecdn.com/ed96b836-cb56-49bb-a8ab-d92172f157c1/)
-
-
-Also a huge thank to everyone who has donated to Eric’s care, we simply couldn’t have done it without you 🙌🏻
-
-He reminds us so much on our EBT Milah who we lost earlier this year. We believe she helped him find us ❤️
-
-Eric has a long road ahead with extensive treatment so we are appealing for any help funding his medical work. Everything is greatly appreciated, check out the **[Donate](https://www.friendsofrescueni.com/donate/)** page to see all the ways you can help.
+**All the best beautiful boy, the pleasure was all ours** ❤️
