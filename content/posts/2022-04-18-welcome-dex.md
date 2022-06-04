@@ -2,7 +2,7 @@
 template: SinglePost
 title: Dex - ADOPTED
 status: Published
-date: 2022-05-04
+date: 2022-04-30
 featuredImage: https://ucarecdn.com/b500ef49-5107-433f-a291-cfdba587a84f/-/crop/444x392/0,107/-/preview/
 excerpt: Dex
 categories:
