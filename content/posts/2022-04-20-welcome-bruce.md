@@ -2,7 +2,7 @@
 template: SinglePost
 title: Bruce - ADOPTED
 status: Published
-date: 2022-05-25
+date: 2022-05-03
 featuredImage: https://ucarecdn.com/337ce7a0-b5a4-46ab-8bba-5622892ff8af/-/crop/372x218/0,0/-/preview/
 excerpt: Bruce
 categories:
