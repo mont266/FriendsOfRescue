@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import '../fonts/verveine/verveineregular.ttf';
 
 import Image from './Image'
 import Content from './Content'
