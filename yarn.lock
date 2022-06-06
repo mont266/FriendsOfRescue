@@ -7560,6 +7560,14 @@
   dependencies:
     "joi" "^17.2.1"
 
+"gatsby-plugin-web-font-loader@^1.0.4":
+  "integrity" "sha512-3c39bX9CcsYJQFhhmTyjuMJSqpld2rX+HsTOxP9k1PKFR4Rvo3lpzBW4d1tVpmUesR8BNL6u9eHT7/XksS1iog=="
+  "resolved" "https://registry.npmjs.org/gatsby-plugin-web-font-loader/-/gatsby-plugin-web-font-loader-1.0.4.tgz"
+  "version" "1.0.4"
+  dependencies:
+    "babel-runtime" "^6.26.0"
+    "webfontloader" "^1.6.28"
+
 "gatsby-react-router-scroll@^3.7.0":
   "integrity" "sha512-8sm04EQac7fccJZlllFEo349wAlNEuPVu35juuL0hgMDTyWlk4nPwPH/ACdpn2MgpEmrTSfp2yPxyzaRKVyzeQ=="
   "resolved" "https://registry.npmjs.org/gatsby-react-router-scroll/-/gatsby-react-router-scroll-3.7.0.tgz"
@@ -18836,6 +18844,11 @@
   "integrity" "sha1-mM6VCXsp4x++czBT4Q5XFkLRxsc="
   "resolved" "https://registry.npmjs.org/webfont-matcher/-/webfont-matcher-1.1.0.tgz"
   "version" "1.1.0"
+
+"webfontloader@^1.6.28":
+  "integrity" "sha1-23hhKSU8tujq5UwvsF+HCvZnW64="
+  "resolved" "https://registry.npmjs.org/webfontloader/-/webfontloader-1.6.28.tgz"
+  "version" "1.6.28"
 
 "webidl-conversions@^3.0.0":
   "integrity" "sha1-JFNCdeKnvGvnvIZhHMFq4KVlSHE="

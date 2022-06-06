@@ -1,7 +1,6 @@
 @font-face {
   font-family: "verveine";
-  src: local("verveineregular"),
-   url("../fonts/verveine/verveineregular.TTF") format("truetype");
+  src: url("../fonts/verveine/verveineregular.TTF");
   font-weight: bold;
   }
 
