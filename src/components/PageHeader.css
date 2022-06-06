@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "Verveine";
-  src: local("VerveineRegular"),
-   url("../fonts/Verveine/VerveineRegular.ttf") format("truetype");
+  font-family: "verveine";
+  src: local("verveineregular"),
+   url("../fonts/verveine/verveineregular.ttf") format("truetype");
   font-weight: bold;
   }
 
@@ -21,13 +21,13 @@
 }
 
 .PageHeader--Title {
-  font-family: Verveine;
+  font-family: verveine;
   font-size: 8.5rem;
   margin-bottom: 0;
 }
 
 .PageHeader--Subtitle {
-  font-family: Verveine;
+  font-family: verveine;
   font-weight: 400;
   font-size: 2.8rem;
 }

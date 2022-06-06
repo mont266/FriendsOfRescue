@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
-import '../fonts/Verveine/VerveineRegular.ttf';
+import '../fonts/verveine/verveineregular.ttf';
 
 
 // Export Template for use in CMS preview
