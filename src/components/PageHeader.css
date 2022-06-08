@@ -1,8 +1,14 @@
+@font-face {
+  font-family: 'verveine';
+  src: local('verveine'), url('fonts/verveine.woff2') format('woff2');
+}
+
 .PageHeader {
   background-color: var(--darkGrey);
   color: white;
   text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
   padding: 15rem 0;
+  
 }
 
 .PageHeader .BackgroundImage {
@@ -16,11 +22,13 @@
 .PageHeader--Title {
   font-size: 8.5rem;
   margin-bottom: 0;
+  font-family: verveine;
 }
 
 .PageHeader--Subtitle {
   font-weight: 400;
   font-size: 2.8rem;
+  font-family: verveine;
 }
 
 .PageHeader .container {
@@ -35,6 +43,3 @@
     padding: 12.5rem 0;
   }
 }
-
-
-  
