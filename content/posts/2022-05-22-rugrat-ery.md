@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Rugrat & Ery -"
+title: Rugrat & Ery - APPLICATIONS CLOSED
 status: Published
 date: 2022-05-22
 featuredImage: https://ucarecdn.com/edc44f10-0cd1-4165-b996-427666698680/-/crop/589x326/0,0/-/preview/
