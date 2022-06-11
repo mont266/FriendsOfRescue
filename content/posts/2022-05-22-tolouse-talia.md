@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Tolouse & Talia -"
+title: Tolouse & Talia - APPLICATIONS CLOSED
 status: Published
 date: 2022-05-22
 featuredImage: https://ucarecdn.com/8d06a7a1-11cc-483e-bb4e-3542bda5c27e/-/crop/588x318/0,12/-/preview/
