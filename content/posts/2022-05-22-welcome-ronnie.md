@@ -1,8 +1,8 @@
 ---
 template: SinglePost
-title: "- Ronnie -"
+title: Ronnie - APPLICATIONS CLOSED
 status: Published
-date: 2022-05-25
+date: 2022-06-19
 featuredImage: https://ucarecdn.com/7e882d20-8d30-493b-bff7-4e124ad64de4/-/crop/526x330/0,45/-/preview/
 excerpt: Ronnie
 categories:
