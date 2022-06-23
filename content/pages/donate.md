@@ -52,6 +52,9 @@ section4: >-
 
 
   #### **[Darragh's Journey](https://gofund.me/00304dda)**
+
+
+  #### **[Maze's Amputation](https://gofund.me/e21f35a4)**
 meta:
   description: Different ways you can donate to our organisation
   title: Donate
