@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Sully-APPLICATIONS CLOSED
+title: Sully - APPLICATIONS CLOSED
 status: Published
 date: 2022-06-03
 featuredImage: https://ucarecdn.com/e843ee07-b2bf-4338-babb-4c80350b8972/
