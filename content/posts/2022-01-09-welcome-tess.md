@@ -1,8 +1,8 @@
 ---
 template: SinglePost
-title: "- Tess - "
+title: Tess - APPLICATIONS CLOSED
 status: Published
-date: 2022-06-10
+date: 2022-06-20
 featuredImage: https://ucarecdn.com/0fd64b20-7452-4d67-8670-b7eff4a8dd86/-/crop/954x585/6,0/-/preview/
 excerpt: Tess
 categories:
