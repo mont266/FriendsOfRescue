@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Darragh -"
+title: Darragh - APPLICATIONS CLOSED
 status: Published
 date: 2022-06-11
 featuredImage: https://ucarecdn.com/7030f8ed-a3e0-431d-a949-7d188abe4da3/-/crop/580x282/0,25/-/preview/
