@@ -1,33 +1,23 @@
 ---
 template: SinglePost
-title: Rugrat & Ery - APPLICATIONS CLOSED
+title: Rugrat & Ery, Toulouse & Talia - ADOPTED
 status: Published
-date: 2022-05-22
+date: 2022-06-09
 featuredImage: https://ucarecdn.com/edc44f10-0cd1-4165-b996-427666698680/-/crop/589x326/0,0/-/preview/
-excerpt: Rugrat and Ery
+excerpt: Rugrat and Ery, Toulouse and Talia
 categories:
-  - category: Cats & Kittens
+  - category: Recently Rehomed
 ---
-> *8 weeks ago these 4 tiny newborn kittens arrived into our care. We welcomed them in but we haven’t done many updates, purely because last year we lost so many and it was hard on us and more so on their foster mum lisa 🙌🏻*
+> *Our two little pairs of hand reared kittens have found their forever homes 🏡*
 
+These babies came to us before their eyes had even opened, they didnt have the best of chances but thanks to the night feeds and dedication of foster mum lisa they are now all away to start their new forevers ❤️
 
-Lisa took on the task as she does every year feeding hourly to keep these wee ones alive. And what a fantastic job she has done…..they are now vaccinated and ready for their new homes 🏡 
+Rugrat and Ery now live with their new mum and they settled the best. Ery is a bit more shy but thankfully has her brother with her to show her the ropes as he’s constantly lapping up the cuddles 🤗
 
+![](https://ucarecdn.com/8af3ad2d-62ea-43be-b562-8fd9fa20aabe/)
 
+Toulouse and Talia now live with their new family which includes two Rottweiler siblings who got a nice welcoming hiss 😆but they werent a bit phased and instantly set about exploring. They have since settled into a routine of being fed and read bedtime stories by their youngest human sibling 🥰
 
+![](https://ucarecdn.com/b3600447-f76f-4be1-8b8a-c81735fe5096/)
 
-
-So formally introducing Talia (Pink), Toulouse (Blue), Rugrat (Green) and Ery (Red/Orange) and this is what they need ⬇️ 
-
-![](https://ucarecdn.com/334dcbfc-b554-4f19-a441-c77300fcb009/)
-
-![](https://ucarecdn.com/df4eeb56-8821-4617-b763-667ef8807cad/)
-
-
-• They must be rehomed in pairs, which they have chosen themselves as they developed- Toulouse & Talia, Rugrat & Ery
-• These babies are in a multicat home with a very cat friendly dog
-• They can live with cat savvy children - remember they are only babies themselves so will scratch and bite if they do not want lifted.
-• They are babies and are still being fed 4 small meals a day, due to this no long working hours
-
-
-**Please get in touch if you would like to offer any of our babies a 🏡**
+**All the best with your new families little ones, we are so happy for you all** ❤️
