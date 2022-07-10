@@ -6,7 +6,7 @@ date: 2022-01-25
 featuredImage: https://ucarecdn.com/5f8032a7-6cba-4c07-b23a-50548532bef0/-/crop/1097x1712/0,0/-/preview/
 excerpt: Lottie
 categories:
-  - category: Not Yet Available
+  - category: Cats & Kittens
 ---
 > *This tabby beauty is Lottie. She came into our care after her finder who had several cats of their own struggled to get on top of her allergies 🤧* 
 
