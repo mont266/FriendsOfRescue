@@ -2,7 +2,7 @@
 template: SinglePost
 title: Welcome Lottie
 status: Published
-date: 2022-01-25
+date: 2022-07-10
 featuredImage: https://ucarecdn.com/5f8032a7-6cba-4c07-b23a-50548532bef0/-/crop/1097x1712/0,0/-/preview/
 excerpt: Lottie
 categories:
@@ -20,6 +20,6 @@ Lotties's welcome post stated how friendly she was, suggesting she was once a lo
 
 She has been so let down and lived for too long in pain and discomfort. Yet somehow she holds no grudges and is so incredibly loving. Now she has settled in foster, we can see just how affectionate she is. She purrs during her wee washes just because she loves any kind of human interaction. In fact, she is just a wee purring machine, a total lovebug and her foster said if anybody meets her she is sure to win round their heart 😍
 
-She still has a few weeks of treatment to go, but this girl deserves the world and we cannot wait to find Lottie her special person ❤️
+We cannot wait to find Lottie her special person ❤️
 
-**Welcome to the family Lottie ❤️**
+**Please get in touch if you can offer Lottie her forever home ❤️**
