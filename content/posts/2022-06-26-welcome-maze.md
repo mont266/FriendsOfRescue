@@ -1,12 +1,12 @@
 ---
 template: SinglePost
-title: Welcome Maze
+title: Maze - APPLICATIONS CLOSED
 status: Published
 date: 2022-06-18
 featuredImage: https://ucarecdn.com/a3229a54-9ede-4c46-8a98-b3582d2d2ec4/
 excerpt: Maze
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 > *This little 12 week old baby was surrendered to a local vet on Monday after an accident causing her front leg to shatter. The vet contacted us to help and we collected her first thing 💔*
 
