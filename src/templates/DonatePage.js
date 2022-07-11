@@ -5,6 +5,7 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
 import Accordion from '../components/Accordion'
+import { Messenger } from '../components/Messenger.js'
 
 // Export Template for use in CMS preview
 export const DonatePageTemplate = ({
@@ -21,6 +22,7 @@ export const DonatePageTemplate = ({
   fosterAccordion
 }) => (
   <main>
+    <Messenger />
     <PageHeader
       title={title}
       subtitle={subtitle}

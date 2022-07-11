@@ -7,6 +7,7 @@ import Contact from '../components/Contact'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './ContactPage.css'
+import { Messenger } from '../components/Messenger.js'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({
@@ -18,6 +19,7 @@ export const ContactPageTemplate = ({
   email
 }) => (
   <main className="Contact">
+    <Messenger />
     <PageHeader
       title={title}
       subtitle={subtitle}

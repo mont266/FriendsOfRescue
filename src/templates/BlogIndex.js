@@ -7,6 +7,7 @@ import PageHeader from '../components/PageHeader'
 import PostSection from '../components/PostSection'
 import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
+import { Messenger } from '../components/Messenger'
 
 /**
  * Filter posts by date. Feature dates will be fitered
@@ -63,6 +64,7 @@ export const BlogIndexTemplate = ({
 
       return (
         <main className="Blog">
+          <Messenger />
           <PageHeader
             title={title}
             subtitle={subtitle}

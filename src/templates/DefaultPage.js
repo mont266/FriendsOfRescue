@@ -5,6 +5,7 @@ import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import SVGIcon from '../components/SVGIcon'
+import { Messenger } from '../components/Messenger.js'
 
 // Export Template for use in CMS preview
 export const DefaultPageTemplate = ({
@@ -14,6 +15,7 @@ export const DefaultPageTemplate = ({
   body
 }) => (
   <main className="DefaultPage">
+    <Messenger />
     <PageHeader
       title={title}
       subtitle={subtitle}
