@@ -2,7 +2,7 @@
 template: SinglePost
 title: Rugrat & Ery, Toulouse & Talia - ADOPTED
 status: Published
-date: 2022-06-09
+date: 2022-06-26
 featuredImage: https://ucarecdn.com/edc44f10-0cd1-4165-b996-427666698680/-/crop/589x326/0,0/-/preview/
 excerpt: Rugrat and Ery, Toulouse and Talia
 categories:
