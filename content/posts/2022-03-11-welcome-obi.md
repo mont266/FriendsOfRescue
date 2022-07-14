@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Obi -"
+title: Obi - APPLICATIONS CLOSED
 status: Published
 date: 2022-04-26
 featuredImage: https://ucarecdn.com/224b8acf-5dba-414d-852d-5546c50112d1/-/crop/1545x910/121,150/-/preview/
