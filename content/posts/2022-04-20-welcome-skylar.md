@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Skylar -"
+title: Skylar - APPLICATIONS CLOSED
 status: Published
 date: 2022-04-20
 featuredImage: https://ucarecdn.com/2e30c2e1-8db3-484f-ae18-d62f89f100fc/-/crop/1103x824/0,322/-/preview/
