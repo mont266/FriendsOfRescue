@@ -20,13 +20,13 @@ section2: >-
   You can donate via PayPal by 
 
 
-  * Clicking the following link: [PayPal Donation](<https://www.paypal.me/friendsofrescue>) 
-
-  * scanning the QR code below
-
-  * searching for us on PayPal using our email address : ***friendsofrescueni@gmail.com***
+  ~ Clicking the following link: [PayPal Donation](https://www.paypal.me/friendsofrescue) 
 
 
+  ~ Scanning the QR code below
+
+
+  ~ Searching for us on PayPal using our email address : ***friendsofrescueni@gmail.com***
 
 
   ![](https://ucarecdn.com/6de5c5dd-1758-446b-8c0d-7515a9cbe9db/)
