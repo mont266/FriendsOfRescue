@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Ronnie - APPLICATIONS CLOSED
+title: Ronnie - ADOPTED
 status: Published
 date: 2022-07-16
 featuredImage: https://ucarecdn.com/7e882d20-8d30-493b-bff7-4e124ad64de4/-/crop/526x330/0,45/-/preview/
