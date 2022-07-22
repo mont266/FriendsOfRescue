@@ -9,7 +9,6 @@ categories:
 ---
 > These two cuties arrived at 3weeks with their siblings after their mum died on a farm 💔
 
-
 Their siblings Cheeky and Lala have since been rehomed and now these beautiful boys are ready for their new start 😊
 
 ![](https://ucarecdn.com/eb1cf9b7-7fc7-471b-8c00-cfa9fe7098dd/)
@@ -18,7 +17,7 @@ Their siblings Cheeky and Lala have since been rehomed and now these beautiful b
 
 These boys love a good carry on, cuddling and giving kisses and both are massive foodies 🤤 
 
-Chacha and Boomboom can live together as a pair or with another playful cat in the home🐱
+ChaCha and BoomBoom can live together as a pair or with another playful cat in the home🐱
 
 • They are both fully vaccinated ✔️
 
