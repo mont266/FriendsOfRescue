@@ -3,6 +3,7 @@ template: SinglePost
 title: "- ChaCha & BoomBoom -"
 status: Published
 date: 2022-07-18
+featuredImage: https://ucarecdn.com/ed1acac5-34e9-433e-9d8f-c5a321b85617/-/crop/1638x1280/0,158/-/preview/
 excerpt: ChaCha & BoomBoom
 categories:
   - category: Cats & Kittens
