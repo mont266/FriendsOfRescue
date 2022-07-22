@@ -3,7 +3,7 @@ template: SinglePost
 title: Maze - ADOPTED
 status: Published
 date: 2022-07-19
-featuredImage: https://ucarecdn.com/a3229a54-9ede-4c46-8a98-b3582d2d2ec4/
+featuredImage: https://ucarecdn.com/a3229a54-9ede-4c46-8a98-b3582d2d2ec4/-/crop/1284x1077/0,896/-/preview/
 excerpt: Maze
 categories:
   - category: Recently Rehomed
