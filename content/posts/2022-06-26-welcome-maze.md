@@ -1,23 +1,27 @@
 ---
 template: SinglePost
-title: Maze - APPLICATIONS CLOSED
+title: Maze - ADOPTED
 status: Published
-date: 2022-06-18
+date: 2022-07-19
 featuredImage: https://ucarecdn.com/a3229a54-9ede-4c46-8a98-b3582d2d2ec4/
 excerpt: Maze
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *This little 12 week old baby was surrendered to a local vet on Monday after an accident causing her front leg to shatter. The vet contacted us to help and we collected her first thing 💔*
+> Maze our little JRT pup has been adopted 🤗
 
-The leg was in pieces and after weighing up all the pros and cons we decided the best option for this wee pet taking into consideration length of recovery, chances of successful recovery and potential problems later with age, was to amputate. 
 
-![](https://ucarecdn.com/11449b65-859a-4fd1-8c98-02a89d8db43d/)
+Maze was surrendered to a local vets with a badly broken leg. The leg had to be removed but now she's a perfectly happy and healthy little girl who is loving her new beginning 💗
 
-Due to her young age she will adapt just fine and is already in much less pain post surgery than she was before, so we are hoping it’s onwards and upwards from here 🙏🏻
+
+Maze now lives with her new Mum and Dad and fur sister Jazz. She is so well adapted and she's just a typical wee playful and lovable pup who has more toys than she knows what to do with 🧸
+
+
+**Best of luck little tripawd lady in your new forever home 🏡**
+
+
+
+
+![](https://ucarecdn.com/6ac07f4a-db87-49f8-8bfb-85ea9f629d90/)
 
 ![](https://ucarecdn.com/ce882edf-5c35-432a-b6ac-59c60dc9f2d1/)
-
-**If you can help us please contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420 or click our PayPal link below ⬇️**
-
-<https://www.paypal.me/friendsofrescue>
