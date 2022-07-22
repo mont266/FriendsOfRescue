@@ -1,27 +1,31 @@
 ---
 template: SinglePost
-title: Welcome Abbie
+title: "- Abbie -"
 status: Published
-date: 2022-06-12
+date: 2022-07-21
 featuredImage: https://ucarecdn.com/92869de7-4454-48a6-bf5e-483a99125e8d/-/crop/1170x1358/0,0/-/preview/
 excerpt: Abbie
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
-> *You may remember an appeal for a foster for a GSD earlier in the week that had found herself on death row in a dog pound 🥺*
+> This beautiful German Shepherd is Abbie and she is approx 8 years old 😍
 
-She was surrendered by her owner due to ill health and she was condemned as quite undesirable because she doesn’t like other dogs….but so what? Theres plenty of humans I don’t like either but that doesn’t mean I should lose my life 😡
 
-![](https://ucarecdn.com/5bf57d65-e10e-4f9f-9cef-582cebceb672/)
+Abbie found herself in the pound due to her owners ill-health. Sadly Abbie was deemed “undesirable” and was due to be put to sleep just because she isn’t keen on other dogs 😡
 
-Anyway this is our gal Abbie, a very happy, friendly, middle aged girl with so much life to live ❤️
 
-Abbie is settling well into foster and will get her vet check this week and any outstanding medical work will be completed ✔️ 
+
+
+![](https://ucarecdn.com/d69430a6-7313-4eea-8dc5-2cde2b77d066/)
 
 ![](https://ucarecdn.com/efc91573-107b-4d86-8748-7a6002994a1e/)
 
-**Abbie we are so happy to have you with us ❤️**
+We thought it was ridiculous, and now having assessed her in foster it's even more ridiculous, as even though she doesn't like dogs, this girl has so much to give her new family. She is intelligent, beautiful and loving ❤️
 
-To donate to Abbie, and all the other animals in our care please contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420 or click our PayPal link below ⬇️ 
 
-https://www.paypal.me/friendsofrescue
+Abbie has had several lumps tested and removed which were caused by an infection and has since been treated with medication that cleared it right up making her good to go ✔️
+
+
+Abbie is a happy and friendly girl who loves humans, but she is seeking a home where she is the only pet. She is also pretty agile for an older lady so your garden must be secure. She is suitable to live with children 12+ who are dog savvy, as although she is gentle, she is pretty big and jumps up for cuddles 🤗
+
+**Please get in touch if you can offer this beautiful girl her forever home 🏡**
