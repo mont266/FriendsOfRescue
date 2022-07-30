@@ -1,23 +1,26 @@
 ---
 template: SinglePost
-title: Skylar - APPLICATIONS CLOSED
+title: Skylar - ADOPTED
 status: Published
-date: 2022-04-20
+date: 2022-07-29
 featuredImage: https://ucarecdn.com/2e30c2e1-8db3-484f-ae18-d62f89f100fc/-/crop/1103x824/0,322/-/preview/
 excerpt: Skylar
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *This beautiful girl is Skylar and she is a 16 month old Saluki mix 😍*
+> ### Our beautiful Skylar has been adopted 🤗
 
-Skylar came to us from the pound, she was running a fever, terrified and incredibly shut down. But after plenty of TLC from her foster mum, and a wee holiday to herself in Donegal she is now ready to find a home to call her own 🏡
 
-![](https://ucarecdn.com/bfc6bc0d-b15f-4c26-9d3c-a30b53ac0de8/)
+Skylar initially came to us from the pound, she was very shut down and scared but since then, and thanks to her amazing foster she has blossomed 🌸
 
-Skylar is an incredibly gentle wee soul. Her confidence is growing all the time, she loves getting out for wee walks, but not as much as snuggling up under a blanket on the sofa to watch some Disney. She is very sweet and placid in nature, and although a little timid, her personality shines through with those she trusts and you can't help but love her. She is just such a sweetheart 💗
+![](https://ucarecdn.com/167aa8e1-f5cd-455f-b527-ac28bb5c6011/)
 
-![](https://ucarecdn.com/0e4da4ec-baa5-4db1-b6a8-e0627587e57a/)
 
-Skylar needs a quiet and relaxed home with no young children. She is very docile and chilled, so she can happily be the only pet or she could also live with a similarly natured calm dog ✔️
+Although still a shy and timid gal, she is, as many of you will remember, fond of an adventure. Hopefully her exploration days are now behind her and she can enjoy the quiet life in her new home 🏡
 
-***Please get in touch if you can offer Skylar a cosy spot on your sofa ❤️***
+
+Skylar, now called Willow, lives with her new Mum and Dad and fur sister Bailey who actually were some of the volunteers that helped out in the search for her. Little did we know then that it would turn out they are her perfect fit, and when they finally met her along with Bailey it was just meant to be 🥰
+
+![](https://ucarecdn.com/806f10a3-686a-4299-9fbf-1e0daeaf470e/)
+
+### Best of luck in your new forever home beautiful girl, you so deserve it ❤️
