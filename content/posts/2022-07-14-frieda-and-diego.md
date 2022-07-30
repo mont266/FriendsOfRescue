@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Frieda and Diego -"
+title: Frieda and Diego - APPLICATIONS CLOSED
 status: Published
 date: 2022-07-15
 featuredImage: https://ucarecdn.com/5a0ef5db-b15b-46e2-90a3-260fda6eb9d2/-/crop/211x317/22,26/-/preview/-/rotate/90/
