@@ -1,25 +1,27 @@
 ---
 template: SinglePost
-title: Welcome Lottie
+title: "- Lottie -"
 status: Published
 date: 2022-07-10
-featuredImage: https://ucarecdn.com/5f8032a7-6cba-4c07-b23a-50548532bef0/-/crop/1097x1712/0,0/-/preview/
+featuredImage: https://ucarecdn.com/a9a3e312-7461-485c-8bf0-22d8505dc5c9/-/crop/1049x566/0,366/-/preview/
 excerpt: Lottie
 categories:
   - category: Cats & Kittens
 ---
-> *This tabby beauty is Lottie. She came into our care after her finder who had several cats of their own struggled to get on top of her allergies 🤧* 
+> This gorgeous nugget of tabby love is Lottie and she is looking for a new lap to sit on 🥰
 
-![](https://ucarecdn.com/20eed973-2ca9-4987-82c6-186472c2a90e/)
+![](https://ucarecdn.com/1c9a7048-823a-47c2-8158-0c7c8b208b3f/)
 
-This little tabby gal came into our care a few weeks ago with severe allergies that caused her to self mutilate and scratch her head until it bled 😭
 
-Lottie has been undergoing treatment, she has changed her diet, is getting Hibiscrub washes every other day on her wee head and now thankfully some hair is starting to grow back. She does still have a tendency to scratch when her cone comes off but when the hair thickens a bit more this should settle down. So we are definitely heading in the right direction ✔️
 
-Lotties's welcome post stated how friendly she was, suggesting she was once a loved pet which leads us to believe that she was abandoned because of her condition 🤬
 
-She has been so let down and lived for too long in pain and discomfort. Yet somehow she holds no grudges and is so incredibly loving. Now she has settled in foster, we can see just how affectionate she is. She purrs during her wee washes just because she loves any kind of human interaction. In fact, she is just a wee purring machine, a total lovebug and her foster said if anybody meets her she is sure to win round their heart 😍
+Lottie arrived with FOR a good few months ago, with an extremely bad skin condition. She was in so much distress. Since being in foster she has come on leaps and bounds, her skin condition in now under control and managed with medication, giving her so much relief 🙏🏼
 
-We cannot wait to find Lottie her special person ❤️
 
-**Please get in touch if you can offer Lottie her forever home ❤️**
+Lottie is an adorable and chatty wee lady. She loves cuddles and sitting on your lap.  She loves playing with her toys and doing “zoomies” around the house. Lottie also likes to interact with you, show her personality and remind you when it is feeding time 😆
+
+
+Lottie will need to be an indoor only cat in order to avoid potential flare ups with her skin. She gets on really well with other cats, and could live with others or she would also be contented on her own. As a friendly gal she can live with cat savvy kids and she would be a wonderful addition to any family✔️
+
+
+**Please get in touch if you can offer this beautiful girl her forever home 🏡**
