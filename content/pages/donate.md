@@ -5,83 +5,162 @@ title: How To Donate
 backgroundImage: https://ucarecdn.com/464e4b8d-0c61-42d7-b1fd-1177d266a7e5/-/crop/442x212/621,124/-/preview/
 subtitle: "![](https://ucarecdn.com/c45caf6f-43e5-473f-a91c-7bb9983b51d8/-/crop\
   /1263x352/155,290/-/preview/)"
-section1: >-
-  ## Bank Transfer
+section1: "## Bank Transfer
 
 
-  Please get in touch if you would like to donate via direct bank transfer and we can provide you with our details.
+  Please get in touch if you would like to donate via direct bank transfer and
+  we can provide you with our details.
 
 
-  You can also set up a monthly standing order, using these details, via your online banking or by clicking the buttons below.
+  You can also set up a monthly standing order, using these details, via your
+  online banking or by clicking the buttons below.
 
 
-    <div style="
-    overflow: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: center;
-    width: 259px;
-    background: #FAA014;
-    border: 2px solid rgba(0, 0, 0, 0.1);
-    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
-    border-radius: 40px;
-    font-family: SQ Market, Helvetica, Arial, sans-serif;
-    ">
-    <div style="padding: 5px;">
-    <a target="_blank" data-url="https://square.link/u/f4EydAnl?src=embd" href="https://square.link/u/f4EydAnl?src=embed" style="
-      display: inline-block;
-      font-size: 20px;
-      line-height: 48px;
-      height: 48px;
-      color: #000000;
-      min-width: 212px;
-      background-color: #FAA014;
-      text-align: center;
-      box-shadow: 0 0 0 1px rgba(0,0,0,0) inset;
-      
-    ">£10 Monthly Donation</a>
-    </div>
-  </div>
+  <div>\r
 
-  </div>
+  \  <div><div style=\"\r
 
-    <script>
-      function showCheckoutWindow(e) {
-        e.preventDefault();
+  \  overflow: auto;\r
 
-        const url = document.getElementById('embedded-checkout-modal-checkout-button').getAttribute('data-url');
-        const title = 'Square Online Checkout';
+  \  display: flex;\r
 
-        // Some platforms embed in an iframe, so we want to top window to calculate sizes correctly
-        const topWindow = window.top ? window.top : window;
+  \  flex-direction: column;\r
 
-        // Fixes dual-screen position                                Most browsers          Firefox
-        const dualScreenLeft = topWindow.screenLeft !==  undefined ? topWindow.screenLeft : topWindow.screenX;
-        const dualScreenTop = topWindow.screenTop !==  undefined   ? topWindow.screenTop  : topWindow.screenY;
+  \  justify-content: flex-end;\r
 
-        const width = topWindow.innerWidth ? topWindow.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
-        const height = topWindow.innerHeight ? topWindow.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+  \  align-items: center;\r
 
-        const h = height * .75;
-        const w = 500;
+  \  width: 259px;\r
 
-        const systemZoom = width / topWindow.screen.availWidth;
-        const left = (width - w) / 2 / systemZoom + dualScreenLeft;
-        const top = (height - h) / 2 / systemZoom + dualScreenTop;
-        const newWindow = window.open(url, title, `scrollbars=yes, width=${w / systemZoom}, height=${h / systemZoom}, top=${top}, left=${left}`);
+  \  background: #FAA014;\r
 
-        if (window.focus) newWindow.focus();
-      }
+  \  border: 2px solid rgba(0, 0, 0, 0.1);\r
 
-      // This overrides the default checkout button click handler to show the embed modal
-      // instead of opening a new tab with the given link url
-      document.getElementById('embedded-checkout-modal-checkout-button').addEventListener('click', function (e) {
-        showCheckoutWindow(e);
-      });
-    </script>
+  \  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);\r
 
-  </div>
+  \  border-radius: 40px;\r
+
+  \  font-family: SQ Market, Helvetica, Arial, sans-serif;\r
+
+  \  \">\r
+
+  \  <div style=\"padding: 5px;\">\r
+
+  \  <a target=\"_blank\" data-url=\"https://square.link/u/f4EydAnl?src=embd\"
+  href=\"https://square.link/u/f4EydAnl?src=embed\" style=\"\r
+
+  \    display: inline-block;\r
+
+  \    font-size: 20px;\r
+
+  \    line-height: 48px;\r
+
+  \    height: 48px;\r
+
+  \    color: #000000;\r
+
+  \    min-width: 212px;\r
+
+  \    background-color: #FAA014;\r
+
+  \    text-align: center;\r
+
+  \    box-shadow: 0 0 0 1px rgba(0,0,0,0) inset;\r
+
+  \    \r
+
+  \  \">£10 Monthly Donation</a>\r
+
+  \  </div>\r
+
+  </div>\r
+
+  </div>\r
+
+  \r
+
+  \  <script>\r
+
+  \    function showCheckoutWindow(e) {\r
+
+  \      e.preventDefault();\r
+
+  \r
+
+  \      const url =
+  document.getElementById('embedded-checkout-modal-checkout-button').getAttribu\
+  te('data-url');\r
+
+  \      const title = 'Square Online Checkout';\r
+
+  \r
+
+  \      // Some platforms embed in an iframe, so we want to top window to
+  calculate sizes correctly\r
+
+  \      const topWindow = window.top ? window.top : window;\r
+
+  \r
+
+  \      // Fixes dual-screen position                                Most
+  browsers          Firefox\r
+
+  \      const dualScreenLeft = topWindow.screenLeft !==  undefined ?
+  topWindow.screenLeft : topWindow.screenX;\r
+
+  \      const dualScreenTop = topWindow.screenTop !==  undefined   ?
+  topWindow.screenTop  : topWindow.screenY;\r
+
+  \r
+
+  \      const width = topWindow.innerWidth ? topWindow.innerWidth :
+  document.documentElement.clientWidth ? document.documentElement.clientWidth :
+  screen.width;\r
+
+  \      const height = topWindow.innerHeight ? topWindow.innerHeight :
+  document.documentElement.clientHeight ? document.documentElement.clientHeight
+  : screen.height;\r
+
+  \r
+
+  \      const h = height * .75;\r
+
+  \      const w = 500;\r
+
+  \r
+
+  \      const systemZoom = width / topWindow.screen.availWidth;\r
+
+  \      const left = (width - w) / 2 / systemZoom + dualScreenLeft;\r
+
+  \      const top = (height - h) / 2 / systemZoom + dualScreenTop;\r
+
+  \      const newWindow = window.open(url, title, `scrollbars=yes, width=${w
+  / systemZoom}, height=${h / systemZoom}, top=${top}, left=${left}`);\r
+
+  \r
+
+  \      if (window.focus) newWindow.focus();\r
+
+  \    }\r
+
+  \r
+
+  \    // This overrides the default checkout button click handler to show the
+  embed modal\r
+
+  \    // instead of opening a new tab with the given link url\r
+
+  \    document.getElementById('embedded-checkout-modal-checkout-button').add\
+  EventListener('click', function (e) {\r
+
+  \      showCheckoutWindow(e);\r
+
+  \    });\r
+
+  \  </script>\r
+
+  </div>\r\n"
 section2: >-
   ## PayPal Donation
 
