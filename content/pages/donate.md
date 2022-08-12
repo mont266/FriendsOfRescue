@@ -15,10 +15,7 @@ section1: >-
   You can also set up a monthly standing order, using these details, via your online banking or by clicking the buttons below.
 
 
-
-
-  <div>
-    <div><div style="
+    <div style="
     overflow: auto;
     display: flex;
     flex-direction: column;
