@@ -38,17 +38,25 @@ section3: >-
 
 
   You can donate directly to our vet: ***[Vets4Pets - Crescent Link](https://www.facebook.com/Vets4PetsCrescentLink)***, in person or via phone **028 7131 4420**
+
+
+
+
+  #### Via Our Merchandise Shop
+
+
+  You can send one-time donations or set up recurring donations via our new **[Merch Shop](https://friendsofrescuemerch.square.site/donate)**
 section4: >-
   ## GoFundMe Fundraisers
 
 
-  We have a number of GoFundMe Fundraisers set up for some of our animals. Our active fundraisers can be found below:
+  We have a number of GoFundMe Fundraisers set up for some of our animals. Our current fundraisers can be found below:
 
 
-  #### **[Molly's Knee Surgery](https://gofund.me/97060dda)**
+  ### **[Molly's Knee Surgery](https://gofund.me/97060dda)**
 
 
-  #### **[Longer Term Fosters](https://gofund.me/22d6b0d3)**
+  ### **[Longer Term Fosters](https://gofund.me/22d6b0d3)**
 meta:
   description: Different ways you can donate to our organisation
   title: Donate
