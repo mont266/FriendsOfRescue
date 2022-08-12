@@ -12,7 +12,79 @@ section1: >-
   Please get in touch if you would like to donate via direct bank transfer and we can provide you with our details.
 
 
-  You can also set up a monthly standing order, using these details, via your online banking.
+  You can also set up a monthly standing order, using these details, via your online banking or by clicking the buttons below.
+
+
+
+
+  <div>
+    <div><div style="
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 259px;
+    background: #FAA014;
+    border: 2px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 40px;
+    font-family: SQ Market, Helvetica, Arial, sans-serif;
+    ">
+    <div style="padding: 5px;">
+    <a target="_blank" data-url="https://square.link/u/f4EydAnl?src=embd" href="https://square.link/u/f4EydAnl?src=embed" style="
+      display: inline-block;
+      font-size: 20px;
+      line-height: 48px;
+      height: 48px;
+      color: #000000;
+      min-width: 212px;
+      background-color: #FAA014;
+      text-align: center;
+      box-shadow: 0 0 0 1px rgba(0,0,0,0) inset;
+      
+    ">£10 Monthly Donation</a>
+    </div>
+  </div>
+
+  </div>
+
+    <script>
+      function showCheckoutWindow(e) {
+        e.preventDefault();
+
+        const url = document.getElementById('embedded-checkout-modal-checkout-button').getAttribute('data-url');
+        const title = 'Square Online Checkout';
+
+        // Some platforms embed in an iframe, so we want to top window to calculate sizes correctly
+        const topWindow = window.top ? window.top : window;
+
+        // Fixes dual-screen position                                Most browsers          Firefox
+        const dualScreenLeft = topWindow.screenLeft !==  undefined ? topWindow.screenLeft : topWindow.screenX;
+        const dualScreenTop = topWindow.screenTop !==  undefined   ? topWindow.screenTop  : topWindow.screenY;
+
+        const width = topWindow.innerWidth ? topWindow.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
+        const height = topWindow.innerHeight ? topWindow.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
+
+        const h = height * .75;
+        const w = 500;
+
+        const systemZoom = width / topWindow.screen.availWidth;
+        const left = (width - w) / 2 / systemZoom + dualScreenLeft;
+        const top = (height - h) / 2 / systemZoom + dualScreenTop;
+        const newWindow = window.open(url, title, `scrollbars=yes, width=${w / systemZoom}, height=${h / systemZoom}, top=${top}, left=${left}`);
+
+        if (window.focus) newWindow.focus();
+      }
+
+      // This overrides the default checkout button click handler to show the embed modal
+      // instead of opening a new tab with the given link url
+      document.getElementById('embedded-checkout-modal-checkout-button').addEventListener('click', function (e) {
+        showCheckoutWindow(e);
+      });
+    </script>
+
+  </div>
 section2: >-
   ## PayPal Donation
 
