@@ -1,30 +1,23 @@
 ---
 template: SinglePost
-title: Frieda and Diego - APPLICATIONS CLOSED
+title: Frieda and Diego - ADOPTED
 status: Published
-date: 2022-07-15
+date: 2022-07-28
 featuredImage: https://ucarecdn.com/5a0ef5db-b15b-46e2-90a3-260fda6eb9d2/-/crop/211x317/22,26/-/preview/-/rotate/90/
 excerpt: Frieda and Diego
 categories:
-  - category: Cats & Kittens
+  - category: Recently Rehomed
 ---
-> These two darlings are Diego (ginger) and Frieda (black) and they are approx. 8 weeks old 😻
+> Our little bonded pair of kitties have been adopted 🤗
+
+
+Frieda and Diego came to us after being found at the side of the road. They had a bad dose of cat flu but a trip to the vets and some TLC from their foster for a few weeks and they were ready to find a home of their own 🏡
+
+
+Frieda and Diego, now called Jinx and Pablo, are living their best life with their new parents. They groom away at each other and love nothing more then a wee cosy nook like their new igloo. Their new family is absolutely smitten and the feeling is definitely mutual 🥰
 
 
 
-![](https://ucarecdn.com/ada39627-756c-4636-b33c-1b8016161ec1/)
+### **Good luck little ones in your new home ❤️**
 
-
-These poor babies were found at the side of the road with no sign of Mum 💔
-
-
-They had a bad dose of cat flu which has since cleared, so now they are ready for their new forever home 🏡
-
-
-These two are bonded and so will be rehomed as a pair ✌🏼
-
-
-Frieda and Diego are still getting used to human interaction and so will need a cat experienced home that can help build their confidence ✔️
-
-
-**Please get in touch if you can offer this gorgeous pair a home 🏡**
+![](https://ucarecdn.com/e54c751e-74f0-4c4d-8212-eea057175d91/)
