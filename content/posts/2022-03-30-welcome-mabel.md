@@ -1,32 +1,30 @@
 ---
 template: SinglePost
-title: Mabel - APPLICATIONS CLOSED
+title: Mabel - ADOPTED
 status: Published
-date: 2022-03-30
+date: 2022-08-06
 featuredImage: https://ucarecdn.com/c103cdcc-a1d0-403c-bb42-5d5eeafdadb5/-/crop/1186x632/0,352/-/preview/
 excerpt: Mabel
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *This beautiful bag of sharpei/bulldog smoosh is Mabel and she is 2 years old 😍*
+> Our beautiful Sharpei mix Mabel has been adopted 🤗
+
+
+Mabel came to us after being passed about as a pup. She wasn’t well socialised, wasn’t sure how to play and overall was just a rambunctious big lump of love that just needed to find herself the right home 🏡
+
+
+As soon as she arrived with us, it was clear Mabel was a special girl. Lovable, stubborn, clever, misunderstood, but above all else just a big dote. She just needed love and patience, which was provided by the bucketload from her foster mum 💗
+
+
+Mabel was in our care for quite a long time and we were starting to wonder if we would ever find the right family for her. But when she moved foster home, it was clear we had stumbled right upon it 🙏🏼
+
+
+Mabels new family were amazed at just how well she instantly fit in. She literally just rocked up and made herself part of the furniture. They were all instantly head over heels and we just knew they were her people. We couldn’t be happier for her 🥰
+
+
+**Good luck in your new forever Mabel, the best homes are always worth the wait ❤️**
 
 
 
-![](https://ucarecdn.com/59e10426-d2c9-4a56-aedd-510f06d3554e/)
-
-Mabel is stubborn, rambunctious, and is as graceful as an elephant. She is also fiercely loyal, a fabulous companion, lovable, sensitive and really needs a family of her own ❤️
-
-
-
-![](https://ucarecdn.com/dcd67341-96cf-4a3e-92d6-3cc432d6115f/)
-Unfortunately she has never been taught how to play properly. What she been given is toys to wreck, or shred, or kill so we have been working with a behaviourist to manage that and turn her rough play into more enrichment based play. And in pure sharpei style she is resisting every step of the way…..stubborn as a mule. Her crate training is going well, and for a dog that hated walking she is walking like a dream. We feel with the correct guidance from an experienced owner she will be 100% and a brilliant addition to her new home 🏠
-
-
-
-![](https://ucarecdn.com/81c5e02d-eaa0-4e20-8d24-77f4417a7529/)
-
-Mabel can live with kids 16+ and with another dog pending a successfully meet and greet, but would happily be an only pet ✔️ 
-
-
-
-**Please get in touch if you would like to offer Mabel a home ❤️**
+![](https://ucarecdn.com/320bf266-1429-41af-bff2-e756aad9cf15/)
