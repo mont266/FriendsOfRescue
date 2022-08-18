@@ -1,35 +1,28 @@
 ---
 template: SinglePost
-title: Obi - APPLICATIONS CLOSED
+title: Obi - ADOPTED
 status: Published
-date: 2022-04-26
+date: 2022-07-18
 featuredImage: https://ucarecdn.com/224b8acf-5dba-414d-852d-5546c50112d1/-/crop/1545x910/121,150/-/preview/
 excerpt: Obi
 categories:
-  - category: Dogs & Puppies
+  - category: Recently Rehomed
 ---
-> *Obi is very much a typical 1 year old lab mix pup 🐶*
-
-![](https://ucarecdn.com/2d536392-2009-4379-b73b-97a171d340c6/)
-
-![](https://ucarecdn.com/8bd7c883-a3fc-456b-b927-8ee9795a9466/)
-Why has no one snapped this boy up 🥺
+> Our Obi has finally been adopted 🤗
 
 
-Obi is very much a typical 1 year old lab mix pup 🐶 
+Obi was a typical 1 year old lab mix pup. Playful, goofy, happy, friendly, and he was brimming with more intelligence than he knew what to do with 🐶
 
 
-Playful and a little goofy. He's a very happy, friendly boy who absolutely loves all people and all dogs ☺️
+Fast forward a few months, and after some work and training he is just such a well rounded boy, and happier than ever. We are so proud of him, and to top it off he has found himself his perfect home 🏡
 
 
-He loves a run about but equally loves to curl up on the sofa for cuddles with his foster humans. He's an extremely lovable wee guy….a good spooning would be up there with his favourite  things 😄
+Obi now lives with his new dad, and has settled extremely well. He has landed on all four paws in a stable and experienced home and we couldn’t be happier for him. Sometimes some of our animals take a little longer to complete their rescue journey, but this is an example of how its worth the wait 💙
 
-
-Obi would prefer another playful dog in the home and he could live with older or dog savvy kids only due to him play mouthing ✔️ 
-
-
-Please get in touch if you can offer Obi his forever home 🏡
+### 
+**All the best beautiful boy in your new forever. The pleasure was all ours ❤️**
 
 
 
-![](https://ucarecdn.com/ef627a0a-a8dd-4a93-b45b-19f11788b805/)
+
+![](https://ucarecdn.com/17edd2a1-4634-46f2-8424-d81984a4ade5/)
