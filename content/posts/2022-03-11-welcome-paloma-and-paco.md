@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Paloma and Paco -"
+title: Paloma and Paco - APPLICATIONS CLOSED
 status: Published
 date: 2022-07-11
 featuredImage: https://ucarecdn.com/f5853288-e33c-4482-9afc-bdf07e55ab96/-/crop/911x478/0,131/-/preview/
