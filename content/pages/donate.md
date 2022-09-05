@@ -6,13 +6,19 @@ backgroundImage: https://ucarecdn.com/464e4b8d-0c61-42d7-b1fd-1177d266a7e5/-/cro
 subtitle: "![](https://ucarecdn.com/c45caf6f-43e5-473f-a91c-7bb9983b51d8/-/crop\
   /1263x352/155,290/-/preview/)"
 section1: >-
-  ## Bank Transfer
+  ## Using a Debit Card[](https://gofund.me/97060dda)
 
 
-  Please get in touch if you would like to donate via direct bank transfer and we can provide you with our details.
+  #### Directly to our Vet
 
 
-  You can also set up a monthly standing order, using these details.
+  You can donate directly to our vet: ***[Vets4Pets - Crescent Link](https://www.facebook.com/Vets4PetsCrescentLink)***, in person or via phone **028 7131 4420**
+
+
+  #### Via Our Merchandise Shop
+
+
+  You can send one-time donations or set up recurring donations via our new **[Merch Shop](https://friendsofrescuemerch.square.site/donate)**
 section2: >-
   ## PayPal Donation
 
@@ -31,21 +37,13 @@ section2: >-
 
   ![](https://ucarecdn.com/6de5c5dd-1758-446b-8c0d-7515a9cbe9db/)
 section3: >-
-  ## Using a Debit Card[](https://gofund.me/97060dda)
+  ## Bank Transfer
 
 
-  #### Directly to our Vet
+  Please get in touch if you would like to donate via direct bank transfer and we can provide you with our details.
 
 
-  You can donate directly to our vet: ***[Vets4Pets - Crescent Link](https://www.facebook.com/Vets4PetsCrescentLink)***, in person or via phone **028 7131 4420**
-
-
-
-
-  #### Via Our Merchandise Shop
-
-
-  You can send one-time donations or set up recurring donations via our new **[Merch Shop](https://friendsofrescuemerch.square.site/donate)**
+  You can also set up a monthly standing order, using these details.
 section4: >-
   ## GoFundMe Fundraisers
 
