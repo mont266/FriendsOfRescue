@@ -9,16 +9,22 @@ section1: >-
   ## Using a Debit Card[](https://gofund.me/97060dda)
 
 
+  #### Via Our Merchandise Shop
+
+
+  You can send one-time donations or set up recurring donations via our new 
+
+
+  ### [Merch Shop](https://friendsofrescuemerch.square.site/donate)
+
+
+  ####  ﻿
+
+
   #### Directly to our Vet
 
 
   You can donate directly to our vet: ***[Vets4Pets - Crescent Link](https://www.facebook.com/Vets4PetsCrescentLink)***, in person or via phone **028 7131 4420**
-
-
-  #### Via Our Merchandise Shop
-
-
-  You can send one-time donations or set up recurring donations via our new **[Merch Shop](https://friendsofrescuemerch.square.site/donate)**
 section2: >-
   ## PayPal Donation
 
@@ -26,7 +32,7 @@ section2: >-
   You can donate via PayPal by 
 
 
-  ~ Clicking the following link: [PayPal Donation](https://www.paypal.me/friendsofrescue) 
+  ~ Clicking the following link: **[PayPal Donation](https://www.paypal.me/friendsofrescue)** 
 
 
   ~ Scanning the QR code below
@@ -49,9 +55,6 @@ section4: >-
 
 
   We have a number of GoFundMe Fundraisers set up for some of our animals. Our current fundraisers can be found below:
-
-
-  ### **[Molly's Knee Surgery](https://gofund.me/97060dda)**
 
 
   ### **[Longer Term Fosters](https://gofund.me/22d6b0d3)**
