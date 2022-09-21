@@ -2,7 +2,7 @@
 template: SinglePost
 title: "- Minni -"
 status: Published
-date: 2022-06-04
+date: 2022-09-21
 featuredImage: https://ucarecdn.com/293af079-9194-43fc-ba39-9bc17b2c69f0/-/crop/1732x1218/0,98/-/preview/
 excerpt: minni
 categories:
