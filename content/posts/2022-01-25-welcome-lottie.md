@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Lottie -"
+title: Lottie - APPLICATIONS CLOSED
 status: Published
 date: 2022-07-10
 featuredImage: https://ucarecdn.com/a9a3e312-7461-485c-8bf0-22d8505dc5c9/-/crop/1049x566/0,366/-/preview/
