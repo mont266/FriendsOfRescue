@@ -1,23 +1,19 @@
 ---
 template: SinglePost
-title: "- Minnie -"
+title: "- Minni -"
 status: Published
 date: 2022-06-04
-featuredImage: https://ucarecdn.com/8f695b19-444b-4f8f-889e-5f5371f5d37c/-/crop/622x360/0,228/-/preview/
-excerpt: M&M
+featuredImage: https://ucarecdn.com/293af079-9194-43fc-ba39-9bc17b2c69f0/-/crop/1732x1218/0,98/-/preview/
+excerpt: minni
 categories:
   - category: Cats & Kittens
 ---
-> *This wee gen came to us after his owner sadly passed away*
+> *This wee gent came to us after his owner sadly passed away*
 
-![](https://ucarecdn.com/3b6b8cfc-ac28-4377-bbfc-a402816c4575/)
+![](https://ucarecdn.com/f7aae520-2335-4225-b83d-add8f0a4d6f7/-/crop/1732x1478/0,0/-/preview/)
 
-
-
-![](https://ucarecdn.com/b8ea74bc-6a5b-4a8f-8204-8883f62ec564/)
-
-![](https://ucarecdn.com/0e0f38ba-8ad6-4779-b3c9-556dd2a6cca3/)
+![](https://ucarecdn.com/ae9dc1d4-2421-47c8-b250-ca08e5e20ad8/-/crop/3634x1790/186,0/-/preview/)
 
 At 7 years old he is very calm and settled. Love treats and curling up for a snooze when he's not looking for a pet. Anybody who adopts him will be very lucky as he just want to be loved ❤️
 
-**Please get in touch if you can offer  a forever home 🏡**
+**Please get in touch if you can offer a forever home 🏡**
