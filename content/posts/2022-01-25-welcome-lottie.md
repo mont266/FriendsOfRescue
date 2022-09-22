@@ -1,27 +1,23 @@
 ---
 template: SinglePost
-title: Lottie - APPLICATIONS CLOSED
+title: Lottie - ADOPTED
 status: Published
 date: 2022-07-10
 featuredImage: https://ucarecdn.com/a9a3e312-7461-485c-8bf0-22d8505dc5c9/-/crop/1049x566/0,366/-/preview/
 excerpt: Lottie
 categories:
-  - category: Cats & Kittens
+  - category: Recently Rehomed
 ---
-> This gorgeous nugget of tabby love is Lottie and she is looking for a new lap to sit on 🥰
+❤️❤️ ADOPTION NEWS ❤️❤️
 
-![](https://ucarecdn.com/1c9a7048-823a-47c2-8158-0c7c8b208b3f/)
+Our beautiful tabby cat Lottie has found her forever home 🥰
 
+Lottie arrived with us several months ago in a bad way. She had an allergy and she had scratched herself into a bloody mess, where she should of had fur was covered in scabs or fresh wounds 🩹
 
+After a lot of dedication and numerous vet visit with her foster, we finally found her balance and she was ready to rock. Like most adult cats Lottie was over looked for a while, that was until her new mum saw her appeal and it was love at first sight 😻
 
+Lottie is now settling in a home where she is the only pet and is lapping up all the love and attention on offer 💗
 
-Lottie arrived with FOR a good few months ago, with an extremely bad skin condition. She was in so much distress. Since being in foster she has come on leaps and bounds, her skin condition in now under control and managed with medication, giving her so much relief 🙏🏼
+Good luck in your new home little lady, we know you'll do great 🏡
 
-
-Lottie is an adorable and chatty wee lady. She loves cuddles and sitting on your lap.  She loves playing with her toys and doing “zoomies” around the house. Lottie also likes to interact with you, show her personality and remind you when it is feeding time 😆
-
-
-Lottie will need to be an indoor only cat in order to avoid potential flare ups with her skin. She gets on really well with other cats, and could live with others or she would also be contented on her own. As a friendly gal she can live with cat savvy kids and she would be a wonderful addition to any family✔️
-
-
-**Please get in touch if you can offer this beautiful girl her forever home 🏡**
+![](https://ucarecdn.com/c296a524-205f-40d2-a67a-ca47058121b0/)
