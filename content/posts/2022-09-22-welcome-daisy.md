@@ -9,7 +9,11 @@ categories:
   - category: Not Yet Available
 ---
 🌼🌼 WELCOME DAISY 🌼🌼
+
 This little babe is Daisy and she is only 6 months old 😍
+
 Daisy is an absolute angel, she adores people and so eager to please ❤️
+
 Daisy mixes well with other dogs and just wants to be friends with everyone. She is going to make a fabulous addition to any family who are lucky to adopt her 🐶
+
 Welcome Daisy ❤️
