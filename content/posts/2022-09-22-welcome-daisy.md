@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Daisy!
+title: Welcome Daisy
 status: Published
 date: 2022-09-22
 featuredImage: https://ucarecdn.com/7f413f03-85c8-4239-807e-97fd057a30b7/
