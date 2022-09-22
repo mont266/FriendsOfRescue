@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Welcome Sky!
+title: Welcome Sky
 status: Published
 date: 2022-09-22
 featuredImage: https://ucarecdn.com/5be03973-a0ab-4b65-a50d-40a0f82b174b/
