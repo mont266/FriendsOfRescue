@@ -1,12 +1,12 @@
 ---
 template: SinglePost
-title: Welcome Peggy
+title: Peggy - APPLICATIONS CLOSED
 status: Published
 date: 2022-06-18
 featuredImage: https://ucarecdn.com/cba9cde4-1b9a-4107-875a-22b3e782a283/-/crop/1284x1440/0,0/-/preview/
 excerpt: Peggy
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 > *Everyone meet Peggy, she is a 6/7 year old pug who found herself in a pound. And we can’t even imagine how this wee dote feels everyday* 🥺
 
