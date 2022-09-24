@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Sky
 status: Published
 date: 2022-09-22
-featuredImage: https://ucarecdn.com/5be03973-a0ab-4b65-a50d-40a0f82b174b/
+featuredImage: https://ucarecdn.com/47772e94-79fc-418a-a7da-14cc7ad176ab/
 excerpt: Sky
 categories:
   - category: Not Yet Available
