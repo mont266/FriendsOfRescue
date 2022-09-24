@@ -2,7 +2,7 @@
 template: SinglePost
 title: Welcome Dennis
 status: Published
-date: 2022-09-22
+date: 2022-09-15
 featuredImage: https://ucarecdn.com/2afedecb-8bf6-455f-8016-cd1064b32e54/
 excerpt: Dennis
 categories:
