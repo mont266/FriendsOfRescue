@@ -6,11 +6,13 @@ date: 2022-09-22
 featuredImage: https://ucarecdn.com/2afedecb-8bf6-455f-8016-cd1064b32e54/
 excerpt: Dennis
 categories:
-  - category: Not Yet Available
+  - category: Cats & Kittens
 ---
 🧡🧡 WELCOME DENNIS 🧡🧡
 
 This handsome little fella is Dennis and he is bursting full of kitten energy 🧶
+
+
 Dennis arrived with us several days ago crawling with fleas, he has since been treated and his vaccines started ✅️
 
 Dennis loves his humans and follows them everywhere so be prepared to have a little shadow 🐈‍⬛️
