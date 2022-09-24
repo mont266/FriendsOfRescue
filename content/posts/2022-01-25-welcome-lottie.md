@@ -2,13 +2,13 @@
 template: SinglePost
 title: Lottie - ADOPTED
 status: Published
-date: 2022-07-10
+date: 2022-09-14
 featuredImage: https://ucarecdn.com/a9a3e312-7461-485c-8bf0-22d8505dc5c9/-/crop/1049x566/0,366/-/preview/
 excerpt: Lottie
 categories:
   - category: Recently Rehomed
 ---
-❤️❤️ ADOPTION NEWS ❤️❤️
+#### ❤️❤️ ADOPTION NEWS ❤️❤️
 
 Our beautiful tabby cat Lottie has found her forever home 🥰
 
@@ -18,6 +18,6 @@ After a lot of dedication and numerous vet visit with her foster, we finally fou
 
 Lottie is now settling in a home where she is the only pet and is lapping up all the love and attention on offer 💗
 
-Good luck in your new home little lady, we know you'll do great 🏡
+**Good luck in your new home little lady, we know you'll do great 🏡**
 
 ![](https://ucarecdn.com/c296a524-205f-40d2-a67a-ca47058121b0/)
