@@ -19,3 +19,19 @@ Daisy is an absolute angel, she adores people and so eager to please ❤️
 Daisy mixes well with other dogs and just wants to be friends with everyone. She is going to make a fabulous addition to any family who are lucky to adopt her 🐶
 
 **Welcome Daisy ❤️**
+
+
+To donate to our ongoing medical costs to help dogs like Daisy just click one of the links below ⬇️ 
+
+
+➡️Contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420
+
+
+➡️Click our PayPal link
+https://www.paypal.me/friendsofrescue
+
+
+➡️Check out the donation page on our merchandise shop where you can donate by debit/credit card
+https://friendsofrescuemerch.square.site/donate
+
+T﻿hank You!
