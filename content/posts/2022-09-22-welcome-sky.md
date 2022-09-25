@@ -24,15 +24,12 @@ Sky will receive any outstanding medical work when her heat is over ✔
 
 As always we are asking for any donations towards our cause to help animals like Sky. If you can help please select any of our donation links below ⬇️
 
-
 ➡️Contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420
-
 
 ➡️Click our PayPal link
 https://www.paypal.me/friendsofrescue
 
-
 ➡️Check out the donation page on our merchandise shop where you can donate by debit/credit card
 https://friendsofrescuemerch.square.site/donate
 
-![May be an image of one or more people and dog](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/306321558_1200653433814497_3015500079962038421_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0Cpu67Ln09kAX9dXppV&_nc_ht=scontent-lhr8-1.xx&oh=00_AT8SkA_8D96PivQ0hH2rN84zhn6Hc7fQNWM8C2aeDF9sGw&oe=6334F74B)
+![](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/306321558_1200653433814497_3015500079962038421_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0Cpu67Ln09kAX9dXppV&_nc_ht=scontent-lhr8-1.xx&oh=00_AT8SkA_8D96PivQ0hH2rN84zhn6Hc7fQNWM8C2aeDF9sGw&oe=6334F74B)
