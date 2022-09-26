@@ -20,7 +20,3 @@ Then just like that their wait was worth it. Their new family just adore them an
 **Best of luck you beautiful little pair, it was a pleasure** 🥰
 
 ![](https://ucarecdn.com/b65811c6-e2f4-436b-bf3a-bd13252fa756/)
-
-![]()
-
-![]()
