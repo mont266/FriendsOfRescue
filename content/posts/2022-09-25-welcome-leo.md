@@ -6,11 +6,11 @@ date: 2022-09-25
 featuredImage: https://ucarecdn.com/3a8b8e86-6d01-4026-8535-b23aa4ba95b1/
 excerpt: Leo
 categories:
-  - category: Not Yet Available
+  - category: Cats & Kittens
 ---
 🧡🧡 WELCOME LEO 🧡🧡
 
-This little cutie is Leo and he is our first male calico 🥰
+> This little cutie is Leo and he is our first male calico 🥰
 
 Leo was surrendered earlier in the week along with his mummy. 
 
@@ -22,12 +22,10 @@ To donate to our ongoing medical costs to help animals like Leo just click one o
 
 ➡️Contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420
 
-➡️Click our PayPal link
-https://www.paypal.me/friendsofrescue
+➡️Click our [PayPal link](https://www.paypal.me/friendsofrescue)
 
-➡️Check out the donation page on our merchandise shop where you can donate by debit/credit card
-https://friendsofrescuemerch.square.site/donate
 
-T﻿hank You!
+➡️Check out the [donation page](https://friendsofrescuemerch.square.site/donate) on our merchandise shop where you can donate by debit/credit card
 
-![]()
+
+**T﻿hank You!**
