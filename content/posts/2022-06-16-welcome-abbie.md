@@ -12,7 +12,7 @@ categories:
 
 Come on folks we have had no interest in this beautiful girl….just look at that silver face 😍
 
-This beautiful German Shepherd is Abbie and she is approx 8 years old 😍
+> This beautiful German Shepherd is Abbie and she is approx 8 years old 😍
 
 Abbie found herself in the pound due to her owners ill-health. Sadly Abbie was deemed “undesirable” and was due to be put to sleep just because she isn’t keen on other dogs 😡
 
