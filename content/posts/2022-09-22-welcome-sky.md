@@ -18,9 +18,9 @@ Sky was taken a month ago from her life on a chain, and due to Sky being so ment
 
 Sky is just a wee broken soul. Terrified, won’t look at you just wanted to be invisible with no idea what is going to happen bless her 💔
 
+![](https://ucarecdn.com/3094e2c8-171d-4cf7-b75a-a78e9b40b580/)
 
-
-![](https://scontent-lhr8-1.xx.fbcdn.net/v/t39.30808-6/306321558_1200653433814497_3015500079962038421_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=0Cpu67Ln09kAX9dXppV&_nc_ht=scontent-lhr8-1.xx&oh=00_AT8SkA_8D96PivQ0hH2rN84zhn6Hc7fQNWM8C2aeDF9sGw&oe=6334F74B)
+![]()
 
 Sky is now in foster and has just come into heat but she is doing the best she can. We know it’s going to be a process but we aren’t in a rush, so this little pet can take her time and be assured she will never be in danger again ❤️
 
