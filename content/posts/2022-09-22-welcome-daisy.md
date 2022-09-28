@@ -3,10 +3,10 @@ template: SinglePost
 title: Welcome Daisy
 status: Published
 date: 2022-09-16
-featuredImage: https://ucarecdn.com/7f413f03-85c8-4239-807e-97fd057a30b7/
+featuredImage: https://ucarecdn.com/2ffda199-6a63-48be-a2e6-f11e98b31cf6/-/crop/249x285/4,0/-/preview/
 excerpt: Daisy
 categories:
-  - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 🌼🌼 WELCOME DAISY 🌼🌼
 
