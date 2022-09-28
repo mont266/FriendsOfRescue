@@ -3,7 +3,7 @@ template: SinglePost
 title: Welcome Riley
 status: Published
 date: 2022-09-28
-featuredImage: https://ucarecdn.com/70429cdb-2b07-4b8d-aecf-d073f22221a9/
+featuredImage: https://ucarecdn.com/27b006e2-3771-467a-82c3-814976c7016d/-/crop/1534x1386/2,0/-/preview/
 excerpt: Riley
 categories:
   - category: Dogs & Puppies
