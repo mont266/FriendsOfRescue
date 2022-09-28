@@ -18,7 +18,9 @@ Sky was taken a month ago from her life on a chain, and due to Sky being so ment
 
 Sky is just a wee broken soul. Terrified, won’t look at you just wanted to be invisible with no idea what is going to happen bless her 💔
 
-![](https://ucarecdn.com/3094e2c8-171d-4cf7-b75a-a78e9b40b580/)
+![](https://ucarecdn.com/3d31dcd7-8316-43b2-9708-6f13dcd0b341/)
+
+![]()
 
 ![]()
 
