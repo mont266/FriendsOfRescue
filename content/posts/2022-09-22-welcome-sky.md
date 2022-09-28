@@ -20,10 +20,6 @@ Sky is just a wee broken soul. Terrified, won’t look at you just wanted to be 
 
 ![](https://ucarecdn.com/3d31dcd7-8316-43b2-9708-6f13dcd0b341/)
 
-![]()
-
-![]()
-
 Sky is now in foster and has just come into heat but she is doing the best she can. We know it’s going to be a process but we aren’t in a rush, so this little pet can take her time and be assured she will never be in danger again ❤️
 
 Sky will receive any outstanding medical work when her heat is over ✔
