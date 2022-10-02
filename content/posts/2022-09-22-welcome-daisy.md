@@ -8,7 +8,7 @@ excerpt: Daisy
 categories:
   - category: Dogs & Puppies
 ---
-🌼🌼 WELCOME DAISY 🌼🌼
+**🌼🌼 WELCOME DAISY 🌼🌼**
 
 > This little babe is Daisy and she is only 6 months old 😍
 
@@ -20,16 +20,12 @@ Daisy mixes well with other dogs and just wants to be friends with everyone. She
 
 ### **Welcome Daisy ❤️**
 
- ﻿ 
-
 To donate to our ongoing medical costs to help dogs like Daisy just click one of the links below ⬇️ 
 
 ➡️Contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420
 
 ➡️Click our [PayPal link](https://www.paypal.me/friendsofrescue)
 
-
 ➡️Check out the [donation page](https://friendsofrescuemerch.square.site/donate) on our merchandise shop where you can donate by debit/credit card
-
 
 **T﻿hank You!**
