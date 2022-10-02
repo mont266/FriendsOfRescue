@@ -8,7 +8,7 @@ excerpt: Paloma and Paco
 categories:
   - category: Recently Rehomed
 ---
-❤️❤️ DOUBLE ADOPTION NEWS ❤️❤️
+**❤️❤️ DOUBLE ADOPTION NEWS ❤️❤️**
 
 Our little mummy and daddy pair have had quite the journey with us….
 Both arriving as an unwanted pair and Paloma heavily pregnant. They raised their 5 babies and did an excellent job.
