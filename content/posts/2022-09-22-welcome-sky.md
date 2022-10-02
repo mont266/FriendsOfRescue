@@ -10,7 +10,7 @@ categories:
 ---
 💔💔💔💔
 
-This little angel is Sky. She isn’t even a year old and has spent her most of her life at the end of a chain. Look at her wee worried face 🥺
+**This little angel is Sky. She isn’t even a year old and has spent her most of her life at the end of a chain. Look at her wee worried face 🥺**
 
 Unfortunately this a common story for ‘farm dogs’ in this part of the world and Sky is just a product of that shit life 😡
 
@@ -24,7 +24,7 @@ Sky is now in foster and has just come into heat but she is doing the best she c
 
 Sky will receive any outstanding medical work when her heat is over ✔
 
-As always we are asking for any donations towards our cause to help animals like Sky. If you can help please select any of our donation links below ⬇️
+**As always we are asking for any donations towards our cause to help animals like Sky. If you can help please select any of our donation links below ⬇️**
 
 ➡️Contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420
 
