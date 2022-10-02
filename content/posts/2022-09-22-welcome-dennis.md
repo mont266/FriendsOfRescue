@@ -8,17 +8,14 @@ excerpt: Dennis
 categories:
   - category: Recently Rehomed
 ---
-❤️❤️ ADOPTION NEWS ❤️❤️
-
+**❤️❤️ ADOPTION NEWS ❤️❤️**
 
 Our little Dennis has landed on all 4 paws with his new home 🏡
 Newly named Felix, he shares his new home with a former FOR kitty Penny and has new doggy brother 🐾 
 
-
 Felix is lapping up the snuggles like the cat who got the cream 🥛
 
-
-We are so happy for you little guy, good luck in your new home!
+**We are so happy for you little guy, good luck in your new home!**
 
 ![](https://ucarecdn.com/cb18fa38-acfe-43a6-b467-887bb875fd51/)
 
