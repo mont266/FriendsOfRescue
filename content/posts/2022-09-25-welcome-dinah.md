@@ -8,17 +8,17 @@ excerpt: Dinah
 categories:
   - category: Cats & Kittens
 ---
-💜💜 WELCOME DINAH 💜💜
+**💜💜 WELCOME DINAH 💜💜**
 
 This wee beauty is 13 weeks old and bought as a British short haired a few weeks ago. Unfortunately due to allergies she is now in rescue.
 
-
-
 Her name is Dinah and she is a love bug, she also knows how pretty she is 😆Dinah would benefit from a home with other feline company. She could also live with a cat friendly dog if introduced properly ✔️ 
 
-Welcome to the family Dinah ❤️
+**Welcome to the family Dinah ❤️**
 
-To donate to our ongoing medical costs to help animals like  just click one of the links below ⬇️ 
+![](https://ucarecdn.com/32c13ba5-1d2e-4147-937f-6497346b0dad/)
+
+**To donate to our ongoing medical costs to help animals like  just click one of the links below ⬇️** 
 
 ➡️Contact our vets Vets4Pets Crescent Link in person or via phone on 02871314420
 
