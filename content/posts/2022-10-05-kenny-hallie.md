@@ -3,7 +3,7 @@ template: SinglePost
 title: Kenny & Hallie- ADOPTED
 status: Published
 date: 2022-10-05
-featuredImage: https://ucarecdn.com/9e3e0b4c-ff04-405e-84b5-754f4c0e4747/-/crop/279x274/0,98/-/preview/
+featuredImage: https://ucarecdn.com/ac5988a6-4817-49ab-b286-431533e8eb2f/-/crop/190x124/80,47/-/preview/
 excerpt: Kenny & Hallie
 categories:
   - category: Recently Rehomed
