@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Kenny & Hallie
+title: Kenny & Hallie- ADOPTED
 status: Published
 date: 2022-10-05
 featuredImage: https://ucarecdn.com/9e3e0b4c-ff04-405e-84b5-754f4c0e4747/-/crop/279x274/0,98/-/preview/
