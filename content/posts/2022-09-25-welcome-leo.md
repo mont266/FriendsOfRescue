@@ -1,33 +1,28 @@
 ---
 template: SinglePost
-title: "- Leo -"
+title: Leo - ADOPTED
 status: Published
 date: 2022-09-25
 featuredImage: https://ucarecdn.com/3a8b8e86-6d01-4026-8535-b23aa4ba95b1/
 excerpt: Leo
 categories:
-  - category: Cats & Kittens
+  - category: Recently Rehomed
 ---
-**🧡🧡 LEO'S APPEAL 🧡🧡**
+🧡🧡 ADOPTION NEWS 🧡🧡
 
-Our little Leo is now seeking his new home 🏡
 
-He will be signed off from our vets on friday after his little head wobble ✔️ 
+Our handsome little Leo, newly named Edward, has snagged himself a 5 home 🌟 
 
-Leo is the perfect mix of cute and cheeky 😸
 
-• Leo has started his vaccines ✅️
+Edward shares his new home with another kitten sister Susan and the two of them couldn't be more excited to have each other 🐈‍⬛️
 
-• He loves to snuggle up with the resident cats so another cat is essential 🐈
 
-• Leo can live with cat friendly dogs and cat savvy children 👦🏻 
+We cant wait to hear all the mischief that the pair of you will cause, good luck little fella 🍀
 
-Leo is still a baby so he is still learning how to perfect his pounce, how his claws work and all about heights, he also loves snuggling up on the bed at night time after his 15mins of zoomies 🐱 
+![](https://ucarecdn.com/b897c9bc-a7a5-40b2-8ebc-deafafe64731/)
+
+![](https://ucarecdn.com/e3a264b3-1e64-41f6-9c69-8af93386c28b/)
 
 ![](https://ucarecdn.com/959657f4-2814-40bf-a268-e38ffa090d9f/)
 
 ![]()
-
-**Please get in touch for an application  if you are able to offer Leo his forever home 🏠**
-
-**T﻿hank You!**
