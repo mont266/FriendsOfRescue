@@ -8,14 +8,11 @@ excerpt: Leo
 categories:
   - category: Recently Rehomed
 ---
-🧡🧡 ADOPTION NEWS 🧡🧡
-
+**🧡🧡 ADOPTION NEWS 🧡🧡**
 
 Our handsome little Leo, newly named Edward, has snagged himself a 5 home 🌟 
 
-
 Edward shares his new home with another kitten sister Susan and the two of them couldn't be more excited to have each other 🐈‍⬛️
-
 
 We cant wait to hear all the mischief that the pair of you will cause, good luck little fella 🍀
 
