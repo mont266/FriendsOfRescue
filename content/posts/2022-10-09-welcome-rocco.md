@@ -7,6 +7,7 @@ featuredImage: https://ucarecdn.com/b66f9caa-7170-4b76-aed1-4c143435a05e/-/crop/
 excerpt: Rocco
 categories:
   - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 
 **This wee pint sized Pom is Rocco and he is 8 years old 😍**
