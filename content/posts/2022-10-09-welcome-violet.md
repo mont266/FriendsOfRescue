@@ -7,6 +7,7 @@ featuredImage: https://ucarecdn.com/ca864814-6ba7-4375-b6d7-feeb00fc08a1/-/crop/
 excerpt: Violet
 categories:
   - category: Not Yet Available
+  - category: Dogs & Puppies
 ---
 
 This little chihuahua is Violet and she is 5 years old 😍
