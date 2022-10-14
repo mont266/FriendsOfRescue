@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Dinah -"
+title: Dinah - APPLICATIONS CLOSED
 status: Published
 date: 2022-09-25
 featuredImage: https://ucarecdn.com/d29f28ad-d6a1-477c-b612-7558d6501c52/-/crop/1434x961/0,59/-/preview/
