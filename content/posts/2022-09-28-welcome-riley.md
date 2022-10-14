@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Riley -"
+title: Riley - APPLICATIONS CLOSED
 status: Published
 date: 2022-09-28
 featuredImage: https://ucarecdn.com/27b006e2-3771-467a-82c3-814976c7016d/-/crop/1534x1386/2,0/-/preview/
