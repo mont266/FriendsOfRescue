@@ -1,10 +1,10 @@
 ---
 template: SinglePost
-title: "- Daisy -"
+title: "- Daisy - "
 status: Published
 date: 2022-09-16
 featuredImage: https://ucarecdn.com/2ffda199-6a63-48be-a2e6-f11e98b31cf6/-/crop/249x285/4,0/-/preview/
-excerpt: Daisy
+excerpt: Daisy beagle
 categories:
   - category: Dogs & Puppies
 ---
