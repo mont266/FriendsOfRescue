@@ -11,17 +11,14 @@ categories:
 **🌼🌼 DAISY 🌼🌼**
 
 > This little babe is Daisy and she is only 7 months old 😍
->
-> Daisy has settled brilliantly into foster and is just one of those amazing all rounder kinda pooches 🐶
->
->
-> Daisy is smart, well mannered (wee bit mad) and just the best girl 🥰
->
->
-> Daisy definitely needs doggy company. She can also live with kids 5+ but this is purely because she can be bouncy! 
->
->
-> Please get in touch to offer Daisy her new start ❤️
+
+Daisy has settled brilliantly into foster and is just one of those amazing all rounder kinda pooches 🐶
+
+Daisy is smart, well mannered (wee bit mad) and just the best girl 🥰
+
+Daisy definitely needs doggy company. She can also live with kids 5+ but this is purely because she can be bouncy! 
+
+**Please get in touch to offer Daisy her new start ❤️**
 
 ![](https://ucarecdn.com/b70a046e-937c-4b82-b1ab-5de604ee6386/)
 
