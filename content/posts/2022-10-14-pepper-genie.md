@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: "- Pepper & Genie -"
+title: Pepper & Genie - APPLICATIONS CLOSED
 status: Published
 date: 2022-10-14
 featuredImage: https://ucarecdn.com/f918c998-f78a-4869-85b2-7dd6f6baf2cc/-/crop/2048x909/0,215/-/preview/
