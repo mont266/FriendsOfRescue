@@ -6,7 +6,7 @@ date: 2022-10-14
 featuredImage: https://ucarecdn.com/c3aac567-57ef-4d03-8c61-bdc3b594eb07/-/crop/1656x952/0,0/-/preview/
 excerpt: Maeve & Cora
 categories:
-  - category: Not Yet Available
+  - category: Cats & Kittens
 ---
 **❤️❤️ WELCOME BABIES ❤️❤️**
 
