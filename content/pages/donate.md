@@ -66,6 +66,6 @@ section4: >-
   ### **[O﻿llie's Wheels](https://gofund.me/afdc7edd)**
 meta:
   description: Different ways you can donate to our organisation
-  title: Donate
+  title: Donate & Merchandise
 video: https://ucarecdn.com/c7d58576-2bb4-4b79-af42-81ffcf390cb0/-/crop/528x357/0,170/-/preview/
 ---
