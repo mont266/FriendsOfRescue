@@ -15,10 +15,10 @@ section1: >-
   You can send one-time donations or set up recurring donations via our new 
 
 
-  ### [Merch Shop](https://friendsofrescuemerch.square.site/donate)
+  ### [M﻿erchandise Shop](https://friendsofrescuemerch.square.site/)
 
 
-  ####  ﻿
+  ###    ﻿
 
 
   #### Directly to our Vet
