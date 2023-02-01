@@ -5,7 +5,7 @@ import qs from 'qs'
 
 import PageHeader from '../components/PageHeader'
 import PostSection from '../components/PostSection'
-import PostCategoriesNav from '../components/PostCategoriesNav'
+import ItemCategoriesNav from '../components/ItemCategoriesNav'
 import Layout from '../components/Layout'
 import { Messenger } from '../components/Messenger'
 
@@ -63,7 +63,7 @@ export const ShopIndexTemplate = ({
       }
 
       return (
-        <main className="Shop">
+        <main className="Blog">
           <Messenger />
           <PageHeader
             title={title}
@@ -74,7 +74,7 @@ export const ShopIndexTemplate = ({
           {!!itemCategories.length && (
             <section className="section thin">
               <div className="container">
-                <PostCategoriesNav enableSearch categories={itemCategories} />
+                <ItemCategoriesNav enableSearch categories={itemCategories} />
               </div>
             </section>
           )}
@@ -138,8 +138,8 @@ export const pageQuery = graphql`
       }
     }
 
-    posts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "posts" } } }
+    items: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "items" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -159,8 +159,8 @@ export const pageQuery = graphql`
         }
       }
     }
-    postCategories: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "postCategories" } } }
+    itemCategories: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "itemCategories" } } }
       sort: { order: ASC, fields: [frontmatter___title] }
     ) {
       edges {

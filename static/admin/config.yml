@@ -131,7 +131,6 @@ collections: # A list of collections the CMS should be able to edit
                   widget: boolean,
                   required: false,
                 }
-
       - file: 'content/pages/about.md'
         label: 'About Page'
         name: 'about'
@@ -192,7 +191,27 @@ collections: # A list of collections the CMS should be able to edit
                 { media_library: { config: { imageShrink: 2600x2600 } } },
             }
           - { label: Subtitle, name: subtitle, widget: markdown }
-
+      - file: 'content/pages/shop.md'
+        label: 'Shop'
+        name: 'ShopIndex'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: ShopIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'shop' }
+          - { label: Title, name: title, widget: string }
+          - {
+              label: Featured Image,
+              name: featuredImage,
+              widget: image,
+              options:
+                { media_library: { config: { imageShrink: 2600x2600 } } },
+            }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+ 
   - name: posts
     label: Our Animals
     editor:
@@ -266,12 +285,12 @@ collections: # A list of collections the CMS should be able to edit
         }
       - { label: Content, name: body, widget: markdown }
       - label: 'Categories'
-        name: 'categories'
+        name: 'itemCategories'
         widget: 'list'
         required: false
         fields:
           - label: 'Category'
-            name: 'category'
+            name: 'itemCategory'
             widget: 'relation'
             collection: 'itemCategories'
             searchFields: ['title']
