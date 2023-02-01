@@ -1,30 +1,25 @@
 import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
-import { ChevronLeft, ChevronRight } from 'react-feather'
 
 import Content from '../components/Content'
 import Layout from '../components/Layout'
-import './SinglePost.css'
+import './SingleItem.css'
 
-export const SinglePostTemplate = ({
+export const SingleItemTemplate = ({
   title,
   date,
   body,
-  nextPostURL,
-  prevPostURL,
+  purchaseURL,
   categories = []
 }) => (
   <main>
     <article
       className="SinglePost section light"
       itemScope
-      itemType="http://schema.org/BlogPosting"
+      itemType="http://schema.org/Blogiteming"
     >
       <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/">
-          <ChevronLeft /> BACK
-        </Link>
         <div className="SinglePost--Content relative">
           <div className="SinglePost--Meta">
             {date && (
@@ -64,20 +59,12 @@ export const SinglePostTemplate = ({
           </div>
 
           <div className="SinglePost--Pagination">
-            {prevPostURL && (
-              <Link
-                className="SinglePost--Pagination--Link prev"
-                to={prevPostURL}
-              >
-                <ChevronLeft /> Previous Post
-              </Link>
-            )}
-            {nextPostURL && (
+            {purchaseURL && (
               <Link
                 className="SinglePost--Pagination--Link next"
-                to={nextPostURL}
+                to={purchaseURL}
               >
-                Next Post <ChevronRight />
+                Purchase
               </Link>
             )}
           </div>
@@ -87,34 +74,34 @@ export const SinglePostTemplate = ({
   </main>
 )
 
-// Export Default SinglePost for front-end
-const SinglePost = ({ data: { post, allPosts } }) => {
-  const thisEdge = allPosts.edges.find(edge => edge.node.id === post.id)
+// Export Default SingleItem for front-end
+const SingleItem = ({ data: { item, allitems } }) => {
+  const thisEdge = allitems.edges.find(edge => edge.node.id === item.id)
   return (
     <Layout
-      meta={post.frontmatter.meta || false}
-      title={post.frontmatter.title || false}
+      meta={item.frontmatter.meta || false}
+      title={item.frontmatter.title || false}
     >
-      <SinglePostTemplate
-        {...post}
-        {...post.frontmatter}
-        body={post.html}
-        nextPostURL={_get(thisEdge, 'next.fields.slug')}
-        prevPostURL={_get(thisEdge, 'previous.fields.slug')}
+      <SingleItemTemplate
+        {...item}
+        {...item.frontmatter}
+        body={item.html}
+        nextitemURL={_get(thisEdge, 'next.fields.slug')}
+        previtemURL={_get(thisEdge, 'previous.fields.slug')}
       />
     </Layout>
   )
 }
 
-export default SinglePost
+export default SingleItem
 
 export const pageQuery = graphql`
-  ## Query for SinglePost data
+  ## Query for SingleItem data
   ## Use GraphiQL interface (http://localhost:8000/___graphql)
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
-  query SinglePost($id: String!) {
-    post: markdownRemark(id: { eq: $id }) {
+  query SingleItem($id: String!) {
+    item: markdownRemark(id: { eq: $id }) {
       ...Meta
       html
       id
@@ -129,8 +116,8 @@ export const pageQuery = graphql`
       }
     }
 
-    allPosts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "posts" } } }
+    allitems: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "items" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {

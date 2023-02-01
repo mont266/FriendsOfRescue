@@ -47,7 +47,7 @@ export default function Contact() {
         <input type="hidden" name="form-name" value="contact" />
         <p hidden>
           <label>
-            Don’t fill this out: <input name="bot-field" onChange={handleChange} />
+            Don’t fill this out: <input name="bot-field" onBlur={handleChange} />
           </label>
         </p>
         <div className="Form--Group">
@@ -57,7 +57,7 @@ export default function Contact() {
                 type="text"
                 placeholder="Name"
                 name="name"
-                onChange={handleChange}
+                onBlur={handleChange}
                 required
               />
               <span>Your name:</span>
@@ -69,7 +69,7 @@ export default function Contact() {
               type="email"
               placeholder="Email"
               name="emailAddress"
-              onChange={handleChange}
+              onBlur={handleChange}
               required
             />
             <span>Your email:</span>
@@ -80,7 +80,7 @@ export default function Contact() {
               className="Form--Input Form--Select"
               name="type"
               defaultValue="Type of Enquiry"
-              onChange={handleChange}
+              onBlur={handleChange}
               required
             >
               <option disabled hidden>
@@ -99,7 +99,7 @@ export default function Contact() {
               placeholder="Message"
               name="message"
               rows="10"
-              onChange={handleChange}
+              onBlur={handleChange}
               required
             />
             <span>Message:</span>

@@ -33,7 +33,7 @@ collections: # A list of collections the CMS should be able to edit
               default: BlogIndex,
             }
           - { label: Slug, name: slug, widget: hidden, default: 'contact' }
-          - { label: Title, name: title, widget: string}
+          - { label: Title, name: title, widget: string }
           - {
               label: Featured Image,
               name: featuredImage,
@@ -63,7 +63,7 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Subtitle, name: subtitle, widget: markdown }
           - { label: Body, name: body, widget: markdown }
-          - { label: Facebook Page, name: facebook, widget: string}
+          - { label: Facebook Page, name: facebook, widget: string }
           - { label: Email Address, name: email, widget: string }
           - label: 'Meta'
             required: false
@@ -172,6 +172,27 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
+       - file: 'content/pages/shop.md'
+        label: 'Shop'
+        name: 'ShopIndex'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: ShopIndex,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: 'shop' }
+          - { label: Title, name: title, widget: string }
+          - {
+              label: Featured Image,
+              name: featuredImage,
+              widget: image,
+              options:
+                { media_library: { config: { imageShrink: 2600x2600 } } },
+            }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+
   - name: posts
     label: Our Animals
     editor:
@@ -207,6 +228,91 @@ collections: # A list of collections the CMS should be able to edit
             collection: 'postCategories'
             searchFields: ['title']
             valueField: 'title'
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+  - name: items
+    label: Our Items
+    editor:
+      preview: true
+    folder: content/items
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: SingleItem }
+      - { label: Title, name: title, widget: string }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
+      - { label: Content, name: body, widget: markdown }
+      - label: 'Categories'
+        name: 'categories'
+        widget: 'list'
+        required: false
+        fields:
+          - label: 'Category'
+            name: 'category'
+            widget: 'relation'
+            collection: 'itemCategories'
+            searchFields: ['title']
+            valueField: 'title'
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          - { label: Noindex, name: noindex, widget: boolean, required: false }
+
+  - name: itemCategories
+    label: Item Category
+    editor:
+      preview: false
+    folder: content/itemCategories
+    slug: '{{slug}}'
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: Template, name: template, widget: hidden, default: ShopIndex }
+      - { label: Title, name: title, widget: string }
+      - { label: Subtitle, name: subtitle, widget: string, required: false }
+      - {
+          label: Featured Image,
+          name: featuredImage,
+          widget: image,
+          required: false,
+        }
       - label: 'Meta'
         required: false
         name: 'meta'
