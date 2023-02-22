@@ -4,7 +4,7 @@ import { Location } from '@reach/router'
 import qs from 'qs'
 
 import PageHeader from '../components/PageHeader'
-import PostSection from '../components/PostSection'
+import ItemSection from '../components/ItemSection'
 import ItemCategoriesNav from '../components/ItemCategoriesNav'
 import Layout from '../components/Layout'
 import { Messenger } from '../components/Messenger'
@@ -82,7 +82,7 @@ export const ShopIndexTemplate = ({
           {!!items.length && (
             <section className="section">
               <div className="container">
-                <PostSection posts={filteredItems} />
+                <ItemSection posts={filteredItems} />
               </div>
             </section>
           )}
@@ -131,26 +131,20 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
-        excerpt
         template
-        subtitle
         featuredImage
       }
     }
 
-    items: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "items" } } }
-      sort: { order: DESC, fields: [frontmatter___date] }
-    ) {
+    items: allMarkdownRemark {
       edges {
         node {
-          excerpt
           fields {
             slug
           }
           frontmatter {
+            template
             title
-            date
             categories {
               category
             }
