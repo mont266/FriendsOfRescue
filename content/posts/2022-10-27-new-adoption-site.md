@@ -19,5 +19,5 @@ T﻿o see the animals who are currently looking for their forever home click the
 
 # [A﻿doption Site](https://www.petadoptionwebsite.com/charity/friends-of-rescue-ni)
 
-`<section id="pam-available-pets"></section>
-<script src="https://www.pawrescuemanager.com/embed/ddf852c0-349b-4f2a-910c-8327c4ee7f0a"></script>`
+<section id="pam-available-pets"></section>
+<script src="https://www.pawrescuemanager.com/embed/ddf852c0-349b-4f2a-910c-8327c4ee7f0a"></script>
