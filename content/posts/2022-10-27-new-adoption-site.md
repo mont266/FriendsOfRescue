@@ -13,12 +13,11 @@ categories:
 ---
 > We're excited to announce that we have a new way of accepting adoption applications 🐾 
 
-
-
-
 The wonderful people at PAW have helped us set up our page on their site and it means all applications can be submitted directly through there so that we can track them better, which is something we struggle with due to the volumes of messages, and having a small team ✔️ 
-
 
 T﻿o see the animals who are currently looking for their forever home click the link below.
 
 # [A﻿doption Site](https://www.petadoptionwebsite.com/charity/friends-of-rescue-ni)
+
+`<section id="pam-available-pets"></section>
+<script src="https://www.pawrescuemanager.com/embed/ddf852c0-349b-4f2a-910c-8327c4ee7f0a"></script>`
