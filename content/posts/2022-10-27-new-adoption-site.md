@@ -18,6 +18,3 @@ The wonderful people at PAW have helped us set up our page on their site and it 
 T﻿o see the animals who are currently looking for their forever home click the link below.
 
 # [A﻿doption Site](https://www.petadoptionwebsite.com/charity/friends-of-rescue-ni)
-
-<section id="pam-available-pets"></section>
-<script src="https://www.pawrescuemanager.com/embed/ddf852c0-349b-4f2a-910c-8327c4ee7f0a"></script>
