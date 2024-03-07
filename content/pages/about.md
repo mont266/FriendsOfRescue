@@ -1,6 +1,5 @@
 ---
 slug: about
-backgroundImage: https://ucarecdn.com/7b514890-bf68-4c1d-a88f-0c3d4fee2438/-/crop/2449x882/0,355/-/preview/
 section1: >-
   ## Our Story
 
@@ -15,6 +14,10 @@ section1: >-
     The following we have built online and the support we continue to receive from the public is what allows us to keep doing what we do. What started as a small endeavour has grown year on year, to the point where we are able to rehome hundreds of animals each year to new, loving homes. 
 
     We now have a foster network right across the country and are able to help animals from all corners of Northern Ireland.
+
+  <section id="pam-available-pets"></section>
+
+  <script src="https://www.pawrescuemanager.com/embed/ddf852c0-349b-4f2a-910c-8327c4ee7f0a"></script>
 meta:
   description: About Friends of Rescue, Derry~Londonderry, Northern Ireland
   title: About
@@ -67,6 +70,7 @@ dogAccordion:
       100% transparent but we cannot be held responsible for any unwanted
       behaviours we weren't aware of at the time of rehoming.
     title: Can you tell me about the history of a dog?
+backgroundImage: https://ucarecdn.com/7b514890-bf68-4c1d-a88f-0c3d4fee2438/-/crop/2449x882/0,355/-/preview/
 section2: "# Dog Adoption FAQ"
 section3: "# Cat Adoption FAQ"
 section4: "# Foster FAQ "
