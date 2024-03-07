@@ -1,6 +1,6 @@
 ---
 slug: about
-section1: >-
+section1: >
   ## Our Story
 
     Friends Of Rescue was formed in 2017 with the aim of helping with the growing problem of unwanted and stray cats and dogs in the North West of Northern Ireland. 
@@ -14,12 +14,6 @@ section1: >-
     The following we have built online and the support we continue to receive from the public is what allows us to keep doing what we do. What started as a small endeavour has grown year on year, to the point where we are able to rehome hundreds of animals each year to new, loving homes. 
 
     We now have a foster network right across the country and are able to help animals from all corners of Northern Ireland.
-
-  <h2>Hello</h2>
-
-  <section id="pam-available-pets"></section>
-
-  <script src="https://www.pawrescuemanager.com/embed/ddf852c0-349b-4f2a-910c-8327c4ee7f0a"></script>
 meta:
   description: About Friends of Rescue, Derry~Londonderry, Northern Ireland
   title: About
